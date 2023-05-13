@@ -1,0 +1,16 @@
+https://github.com/argoflow/argoflow-aws/archive/refs/heads/master.zip
+https://github.com/usnistgov/macos_security/archive/refs/heads/main.zip
+https://github.com/buroa/k8s-gitops/archive/refs/heads/master.zip
+https://github.com/jms0214/argoflow2/archive/refs/heads/main.zip
+https://github.com/noobient/noobuntu/archive/refs/heads/master.zip
+https://github.com/HCLTech-SSW/cloud-based-load-testing/archive/refs/heads/master.zip
+https://github.com/victor-gp/cmd-help-sublime-syntax/archive/refs/heads/main.zip
+https://github.com/argoflow/argoflow-gcp/archive/refs/heads/master.zip
+https://github.com/IBM/Ansible-OpenShift-Provisioning/archive/refs/heads/main.zip
+https://github.com/streetcomplete/streetcomplete-mapstyle/archive/refs/heads/jawg.zip
+https://github.com/argoflow/argoflow/archive/refs/heads/master.zip
+https://github.com/pervrosen/argoflow/archive/refs/heads/main.zip
+https://github.com/rayshoo/vansinetes/archive/refs/heads/master.zip
+https://github.com/litmuschaos/litmus-helm/archive/refs/heads/master.zip
+https://github.com/iydon/of.yaml-tutorial/archive/refs/heads/main.zip
+https://github.com/komish/terraria_server/archive/refs/heads/master.zip

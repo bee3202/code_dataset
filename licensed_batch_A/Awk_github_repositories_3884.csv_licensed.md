@@ -1,0 +1,16 @@
+https://github.com/billthefarmer/stb/archive/refs/heads/main.zip
+https://github.com/singularis-mzf/linux-spellbook/archive/refs/heads/vývojová.zip
+https://github.com/masuday/data/archive/refs/heads/master.zip
+https://github.com/alecmuffett/eotk/archive/refs/heads/master.zip
+https://github.com/anishsingh20/AWK-Programming-Essentials/archive/refs/heads/main.zip
+https://github.com/joao-vitor-sr/hbcli/archive/refs/heads/main.zip
+https://github.com/pmbauer/av-obsidian/archive/refs/heads/master.zip
+https://github.com/Greenstand/Tree_Species/archive/refs/heads/master.zip
+https://github.com/ivoa/dm-usecases/archive/refs/heads/main.zip
+https://github.com/mateusmeloxyz/acf/archive/refs/heads/main.zip
+https://github.com/ankushSsingh/Sanskrit_IR/archive/refs/heads/master.zip
+https://github.com/quiath/console-world-map/archive/refs/heads/master.zip
+https://github.com/archan937/jsonv.sh/archive/refs/heads/master.zip
+https://github.com/polarnik/jvm.profiling.automation/archive/refs/heads/master.zip
+https://github.com/osmfj/lawson2osm/archive/refs/heads/master.zip
+https://github.com/bixcop18/module1_exercises/archive/refs/heads/master.zip

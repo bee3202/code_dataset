@@ -1,0 +1,13 @@
+https://github.com/robdobsn/DelBotDesign/archive/refs/heads/master.zip
+https://github.com/mak3r/steer-case/archive/refs/heads/master.zip
+https://github.com/hackffm/SpaceShuttle/archive/refs/heads/master.zip
+https://github.com/badeadan/braille-cross-letter-puzzle/archive/refs/heads/master.zip
+https://github.com/sbma44/openscad/archive/refs/heads/master.zip
+https://github.com/of-matches/FreedomSystem/archive/refs/heads/main.zip
+https://github.com/kbricks/kbricks-core/archive/refs/heads/master.zip
+https://github.com/superjamie/kossel-leaf/archive/refs/heads/master.zip
+https://github.com/BrownDogGadgets/3D-Printed-Parts/archive/refs/heads/main.zip
+https://github.com/tleytek/dactyl-keyboard-old/archive/refs/heads/master.zip
+https://github.com/RepRapMorgan/lilian/archive/refs/heads/master.zip
+https://github.com/TonyWhite/OpenSCAD-tryout/archive/refs/heads/main.zip
+https://github.com/SolidHal/btrfly-keyboard/archive/refs/heads/master.zip

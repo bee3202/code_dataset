@@ -1,0 +1,10 @@
+https://github.com/pascaliske/infrastructure/archive/refs/heads/master.zip
+https://github.com/aquaproj/aqua-registry/archive/refs/heads/main.zip
+https://github.com/bweston6/dotfiles/archive/refs/heads/base.zip
+https://github.com/JoseDanielBallester/Modern-Data-Stack-para-analizar-la-situaci-n-epidemeologica-/archive/refs/heads/main.zip
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_YAML_-YAML_Ain-t_Markup_Language-/archive/refs/heads/main.zip
+https://github.com/KSP-CKAN/NetKAN/archive/refs/heads/master.zip
+https://github.com/giellalt/lang-yrk/archive/refs/heads/main.zip
+https://github.com/chrisvanmeer/at-hashi-demo/archive/refs/heads/main.zip
+https://github.com/RedHat-EMEA-SSA-Team/hetzner-ocp4/archive/refs/heads/master.zip
+https://github.com/thehunterewhite/whitehomeio-DockerCompose/archive/refs/heads/main.zip

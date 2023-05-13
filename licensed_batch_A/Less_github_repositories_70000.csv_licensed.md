@@ -1,0 +1,10 @@
+https://github.com/arunaugustine003/LESS-BakerBee/archive/refs/heads/main.zip
+https://github.com/shehroz/MSTest/archive/refs/heads/master.zip
+https://github.com/fibjs/fibjs.org/archive/refs/heads/master.zip
+https://github.com/libbyhoke/BuildingsAroundSpringHillCollege/archive/refs/heads/main.zip
+https://github.com/choquidownn25/Account/archive/refs/heads/master.zip
+https://github.com/xsilium/MTG-Printable-Labels/archive/refs/heads/master.zip
+https://github.com/choquidownn25/ETFCorePerson/archive/refs/heads/main.zip
+https://github.com/TanjilulAnwar/invento/archive/refs/heads/master.zip
+https://github.com/SAP-archive/techne/archive/refs/heads/master.zip
+https://github.com/zkoss/zkthemes/archive/refs/heads/master.zip

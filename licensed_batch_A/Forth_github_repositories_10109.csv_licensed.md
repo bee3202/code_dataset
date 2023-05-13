@@ -1,0 +1,17 @@
+https://github.com/frenchie68/Z79Forth/archive/refs/heads/master.zip
+https://github.com/pipcet/tay/archive/refs/heads/master.zip
+https://github.com/plleg/MylbForth/archive/refs/heads/master.zip
+https://github.com/dataforgoodfr/batch9_validalab/archive/refs/heads/main.zip
+https://github.com/RogerLevy/bubble/archive/refs/heads/master.zip
+https://github.com/DanielsSim/hmbd/archive/refs/heads/master.zip
+https://github.com/ikysil/ikforth/archive/refs/heads/master.zip
+https://github.com/programandala-net/solo-forth/archive/refs/heads/master.zip
+https://github.com/wejgaard/TclForth/archive/refs/heads/master.zip
+https://github.com/TimPeTwo/chdk_canon_sx730hs_port/archive/refs/heads/master.zip
+https://github.com/wangka11/wordAlignment/archive/refs/heads/master.zip
+https://github.com/RogerLevy/lantern/archive/refs/heads/master.zip
+https://github.com/gramaziokohler/clamp_firmware/archive/refs/heads/master.zip
+https://github.com/ramenengine/RamenEngine/archive/refs/heads/master.zip
+https://github.com/larsbrinkhoff/xForth/archive/refs/heads/master.zip
+https://github.com/jean-michel-thoorens/FastForth-for-MSP430FRxxxx/archive/refs/heads/master.zip
+https://github.com/larsbrinkhoff/lbForth/archive/refs/heads/master.zip

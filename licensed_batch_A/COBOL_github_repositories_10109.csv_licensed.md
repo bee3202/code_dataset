@@ -1,0 +1,12 @@
+https://github.com/PankajKumar-Jha/BankDemo/archive/refs/heads/main.zip
+https://github.com/amBarendt/cobol.test/archive/refs/heads/master.zip
+https://github.com/vivekkaushik1/qq-21/archive/refs/heads/main.zip
+https://github.com/krisds/koopa/archive/refs/heads/master.zip
+https://github.com/rarikmilkrai/COBOL/archive/refs/heads/main.zip
+https://github.com/MicroFocus/BankDemo/archive/refs/heads/main.zip
+https://github.com/z390development/z390/archive/refs/heads/main.zip
+https://github.com/GRSEB9S/assimp-regression/archive/refs/heads/master.zip
+https://github.com/edack/OMP-Class/archive/refs/heads/main.zip
+https://github.com/opensourcecobol/opensourcecobol4j/archive/refs/heads/main.zip
+https://github.com/vivekkaushik1/qq-22/archive/refs/heads/main.zip
+https://github.com/sirstanks/ibm-cobol-programming/archive/refs/heads/master.zip

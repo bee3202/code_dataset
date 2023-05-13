@@ -1,0 +1,17 @@
+https://github.com/LibreSolar/pwm-2420-lus/archive/refs/heads/master.zip
+https://github.com/4x1md/avr_frs_shield/archive/refs/heads/master.zip
+https://github.com/LibreSolar/mppt-2420-rc/archive/refs/heads/master.zip
+https://github.com/JonathSpirit/GComputer_standard/archive/refs/heads/master.zip
+https://github.com/jonasblixt/bebop/archive/refs/heads/master.zip
+https://github.com/LibreSolar/mppt-2420-hpx/archive/refs/heads/master.zip
+https://github.com/rniwase/tsuraraGB/archive/refs/heads/main.zip
+https://github.com/ckflight/FMCW_RADAR/archive/refs/heads/master.zip
+https://github.com/Redherring32/OpenTendo/archive/refs/heads/master.zip
+https://github.com/4x1md/analog_esr_meter/archive/refs/heads/master.zip
+https://github.com/UzixLS/rgb2ypbpr/archive/refs/heads/master.zip
+https://github.com/carlosjsd/analog_esr_meter/archive/refs/heads/master.zip
+https://github.com/schilkp/KiCad_Devices/archive/refs/heads/master.zip
+https://github.com/LibreSolar/bms-8s50-ic/archive/refs/heads/master.zip
+https://github.com/UzixLS/rgb2svideo/archive/refs/heads/master.zip
+https://github.com/KCORES/OCP2PCIe/archive/refs/heads/master.zip
+https://github.com/UzixLS/nanoSwinSidC/archive/refs/heads/master.zip

@@ -1,0 +1,17 @@
+https://github.com/upenn-acg/gpuDranoDynamicAnalysis/archive/refs/heads/master.zip
+https://github.com/ArisenIO/llvm/archive/refs/heads/master.zip
+https://github.com/UsmanNadeem/llvm-6-register-allocator/archive/refs/heads/master.zip
+https://github.com/noaa-ocs-modeling/CoastalApp-testsuite/archive/refs/heads/main.zip
+https://github.com/whucs303/randomizationlib/archive/refs/heads/master.zip
+https://github.com/today-jin/FRProtector/archive/refs/heads/master.zip
+https://github.com/A1tor/Sprout-SmartHome/archive/refs/heads/main.zip
+https://github.com/lac-dcc/yali/archive/refs/heads/main.zip
+https://github.com/nkim-bitzap/xtensa-llvm-7.1/archive/refs/heads/master.zip
+https://github.com/yizhou0522/Building-version-of-Clang-LLVM-7-win10/archive/refs/heads/master.zip
+https://github.com/herjmoo/LLVM_HSLP/archive/refs/heads/master.zip
+https://github.com/snu-sf/llvm-freeze/archive/refs/heads/base.zip
+https://github.com/snu-sf/llvm-twin/archive/refs/heads/base.zip
+https://github.com/bepor/rpcs3-d23d193d05f2ed86c38edc6c85ff570386a9d7d8/archive/refs/heads/master.zip
+https://github.com/xlxying/my-swift-llvm/archive/refs/heads/master.zip
+https://github.com/OneMoreSecond/AccMut/archive/refs/heads/master.zip
+https://github.com/Cartallum/llvm/archive/refs/heads/master.zip

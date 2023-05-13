@@ -1,0 +1,12 @@
+https://github.com/bratzi/NewsScraper/archive/refs/heads/master.zip
+https://github.com/Spez-Inc/spezepip-win32/archive/refs/heads/master.zip
+https://github.com/cedced19/iced/archive/refs/heads/master.zip
+https://github.com/hyperair/gnetplus/archive/refs/heads/master.zip
+https://github.com/GutiGames/CompetitiveStatTracker/archive/refs/heads/master.zip
+https://github.com/tomitomi3/Make/archive/refs/heads/master.zip
+https://github.com/gregory-lalla/GCIH_Gold/archive/refs/heads/master.zip
+https://github.com/ADiea/HA-8266/archive/refs/heads/master.zip
+https://github.com/aaroncampf/InventoryForNoobs/archive/refs/heads/master.zip
+https://github.com/xeora/v6-framework/archive/refs/heads/master.zip
+https://github.com/CanadianSolar/CASSYS/archive/refs/heads/master.zip
+https://github.com/charJe/GreenChoice/archive/refs/heads/master.zip

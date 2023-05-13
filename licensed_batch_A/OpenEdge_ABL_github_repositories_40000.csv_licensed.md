@@ -1,0 +1,12 @@
+https://github.com/Sciumo/ProximityForest/archive/refs/heads/master.zip
+https://github.com/RAnantua/grtrans/archive/refs/heads/master.zip
+https://github.com/wenxianxian/demvae/archive/refs/heads/master.zip
+https://github.com/martinkondra/clasePosTagging/archive/refs/heads/master.zip
+https://github.com/sjyk/activedetect/archive/refs/heads/master.zip
+https://github.com/svohara/proximityforest/archive/refs/heads/master.zip
+https://github.com/ramachandran-lab/multiancestry_enrichment/archive/refs/heads/main.zip
+https://github.com/plippe/faiss-web-service/archive/refs/heads/master.zip
+https://github.com/dataloudlabs/cv_utils/archive/refs/heads/master.zip
+https://github.com/NishitaAgarwal05/MUSTARD/archive/refs/heads/master.zip
+https://github.com/suhagba/Deep-Q-learning-for-Android-Game/archive/refs/heads/master.zip
+https://github.com/qttran/imdb_project/archive/refs/heads/master.zip

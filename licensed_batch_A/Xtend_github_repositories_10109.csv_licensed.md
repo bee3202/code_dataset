@@ -1,0 +1,15 @@
+https://github.com/yamtl/examples/archive/refs/heads/master.zip
+https://github.com/joergreichert/ActiveAnnotationsExamples/archive/refs/heads/master.zip
+https://github.com/tobykurien/WebApps/archive/refs/heads/master.zip
+https://github.com/diplomatiegouvfr/hornet-generator/archive/refs/heads/master.zip
+https://github.com/fraunhoferfokus/Xtensions/archive/refs/heads/master.zip
+https://github.com/borkdominik/bigER/archive/refs/heads/main.zip
+https://github.com/Minres/CoreDSL/archive/refs/heads/master.zip
+https://github.com/Open-Source-Compliance/OSCake/archive/refs/heads/main.zip
+https://github.com/NMFCode/ATL2NMFS/archive/refs/heads/master.zip
+https://github.com/tomazkosar/RehabHand/archive/refs/heads/main.zip
+https://github.com/MartinLoeper/KAMP-DSL/archive/refs/heads/master.zip
+https://github.com/loradd/uml-xtext-grammar-generator/archive/refs/heads/master.zip
+https://github.com/nemo-ufes/tptp-editor-eclipse-plugin/archive/refs/heads/main.zip
+https://github.com/KirstenZa/xtend-etai/archive/refs/heads/master.zip
+https://github.com/YihangZhao123/refactor/archive/refs/heads/main.zip

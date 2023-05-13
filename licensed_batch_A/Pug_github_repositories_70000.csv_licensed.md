@@ -1,0 +1,9 @@
+https://github.com/CharmedSatyr/charmedsatyr_com/archive/refs/heads/master.zip
+https://github.com/DaniilKvardakov/texnoprom/archive/refs/heads/main.zip
+https://github.com/Hamakor/pycon-2022/archive/refs/heads/main.zip
+https://github.com/degalih/qalbu-landing-page/archive/refs/heads/master.zip
+https://github.com/Salman8094/Artist-fan-website/archive/refs/heads/main.zip
+https://github.com/anaedzm/hielo-frio/archive/refs/heads/main.zip
+https://github.com/DucatusX/centurion/archive/refs/heads/master.zip
+https://github.com/poff-bnff/web/archive/refs/heads/master.zip
+https://github.com/ONSdigital/dp/archive/refs/heads/main.zip

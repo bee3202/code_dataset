@@ -1,0 +1,12 @@
+https://github.com/stutpip123/antistasi-ww2/archive/refs/heads/master.zip
+https://github.com/dog-company/missions/archive/refs/heads/master.zip
+https://github.com/Pergor/ADV_MissionTemplate/archive/refs/heads/master.zip
+https://github.com/Crowdedlight/Crows-Electronic-Warfare/archive/refs/heads/main.zip
+https://github.com/7Cav/cScripts/archive/refs/heads/main.zip
+https://github.com/TEHGAM/ADR/archive/refs/heads/master.zip
+https://github.com/David-Mch/co30_Dominatiosn.Altis/archive/refs/heads/master.zip
+https://github.com/theace0296/TRGMRedux/archive/refs/heads/main.zip
+https://github.com/ArmaForces/Mods/archive/refs/heads/master.zip
+https://github.com/lcavalheiro/sbopkgsqf/archive/refs/heads/master.zip
+https://github.com/paugustyni/A3-Antistasi/archive/refs/heads/unstable.zip
+https://github.com/Scarjit/Arma3Missions/archive/refs/heads/master.zip

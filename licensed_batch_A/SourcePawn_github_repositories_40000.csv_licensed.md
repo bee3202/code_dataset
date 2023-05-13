@@ -1,0 +1,10 @@
+https://github.com/juliohm/HUM/archive/refs/heads/master.zip
+https://github.com/MapServer/MapServer-documentation/archive/refs/heads/main.zip
+https://github.com/ronghanghu/n2nmn/archive/refs/heads/master.zip
+https://github.com/b0ink/csgo-chaos-mod/archive/refs/heads/main.zip
+https://github.com/silicon-vlsi/SI2021-03-CMOS-VLSI/archive/refs/heads/main.zip
+https://github.com/TitanTF/Bowling/archive/refs/heads/master.zip
+https://github.com/AMXX-pl/BasePack/archive/refs/heads/master.zip
+https://github.com/nipunagarwala/ee273_final_project/archive/refs/heads/master.zip
+https://github.com/inddev-page/AnimeSkyboxVip/archive/refs/heads/main.zip
+https://github.com/50DKP/FF2-Official/archive/refs/heads/experimental.zip

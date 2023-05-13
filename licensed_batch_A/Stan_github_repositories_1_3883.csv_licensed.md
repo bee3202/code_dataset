@@ -1,0 +1,10 @@
+https://github.com/jg-you/noisy-networks-measurements/archive/refs/heads/master.zip
+https://github.com/ito4303/jfs132/archive/refs/heads/main.zip
+https://github.com/al-jshen/gmestan-examples/archive/refs/heads/master.zip
+https://github.com/jg-you/complex-coinfection-inference/archive/refs/heads/master.zip
+https://github.com/jcdoll79/IntroStan/archive/refs/heads/master.zip
+https://github.com/jrnold/ssmodels-in-stan/archive/refs/heads/master.zip
+https://github.com/lei-zhang/SIT_TMS/archive/refs/heads/main.zip
+https://github.com/ito4303/esj68/archive/refs/heads/main.zip
+https://github.com/brendanhasz/hmm-vs-gp/archive/refs/heads/master.zip
+https://github.com/jmmorales/distance/archive/refs/heads/master.zip

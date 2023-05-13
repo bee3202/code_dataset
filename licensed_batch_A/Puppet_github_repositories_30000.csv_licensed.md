@@ -1,0 +1,14 @@
+https://github.com/dliggat/boxen-old/archive/refs/heads/master.zip
+https://github.com/moveline/our-boxen/archive/refs/heads/master.zip
+https://github.com/SpeakEZ/speakez-boxen/archive/refs/heads/master.zip
+https://github.com/datashield/puppet-datashield/archive/refs/heads/master.zip
+https://github.com/coogle/skeleton/archive/refs/heads/master.zip
+https://github.com/GabrielNicolasAvellaneda/truesightpulse-vagrant-storm/archive/refs/heads/master.zip
+https://github.com/EpicCoders/epicghost/archive/refs/heads/master.zip
+https://github.com/Mirantis/fuel-plugin-lcm/archive/refs/heads/master.zip
+https://github.com/gerryw1389/base_cis/archive/refs/heads/main.zip
+https://github.com/ryantomlinson/vagrant-kibana-demo/archive/refs/heads/master.zip
+https://github.com/onewheelskyward/boxen/archive/refs/heads/master.zip
+https://github.com/TatuE/puppetWin/archive/refs/heads/master.zip
+https://github.com/cdegroot/vagrant-selenium-grid/archive/refs/heads/master.zip
+https://github.com/mpemer/puppet.artifactory/archive/refs/heads/master.zip

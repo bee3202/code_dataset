@@ -1,0 +1,10 @@
+https://github.com/ralfkundel/p4-codel/archive/refs/heads/master.zip
+https://github.com/daehyeok-kim/redplane-public/archive/refs/heads/master.zip
+https://github.com/FZU-SDN/block.p4/archive/refs/heads/master.zip
+https://github.com/praveingk/DPTP/archive/refs/heads/master.zip
+https://github.com/Brown-NSG/P4Visor/archive/refs/heads/master.zip
+https://github.com/dmucby/P4-Defense/archive/refs/heads/master.zip
+https://github.com/kframework/p4-semantics/archive/refs/heads/master.zip
+https://github.com/ebiken/p4srv6/archive/refs/heads/sai.zip
+https://github.com/open-nfpsw/p4_basic_lb_metering_nic/archive/refs/heads/master.zip
+https://github.com/mandaryoshi/p4-int/archive/refs/heads/main.zip

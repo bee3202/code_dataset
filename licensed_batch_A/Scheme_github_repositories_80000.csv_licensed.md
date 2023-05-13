@@ -1,0 +1,13 @@
+https://github.com/JoulRoad/guix/archive/refs/heads/master.zip
+https://github.com/JBEI/clusterCAD/archive/refs/heads/master.zip
+https://github.com/geeksesi/MyOs/archive/refs/heads/master.zip
+https://github.com/nodokaha/mini-scstack-machine/archive/refs/heads/main.zip
+https://github.com/evilbinary/scheme-lib/archive/refs/heads/master.zip
+https://github.com/lnncrs/HappyHillary/archive/refs/heads/master.zip
+https://github.com/afyijcd/ellem-x/archive/refs/heads/master.zip
+https://github.com/pacoon/guix/archive/refs/heads/master.zip
+https://github.com/shirok/Gauche/archive/refs/heads/master.zip
+https://github.com/ic-torre-boldone/salt/archive/refs/heads/master.zip
+https://github.com/Geonovum/ogc-api-testbed/archive/refs/heads/main.zip
+https://github.com/christoff-buerger/racr/archive/refs/heads/master.zip
+https://github.com/emotional-cities/openapi-sdi/archive/refs/heads/master.zip

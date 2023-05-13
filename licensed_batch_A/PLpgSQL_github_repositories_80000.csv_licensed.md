@@ -1,0 +1,15 @@
+https://github.com/LibrariesWest/reporting-solution/archive/refs/heads/master.zip
+https://github.com/daniyar-artykov/demo-projects/archive/refs/heads/master.zip
+https://github.com/m-mostafa/geoserver271/archive/refs/heads/master.zip
+https://github.com/newmann/backstone/archive/refs/heads/master.zip
+https://github.com/TryGhost/node-sqlite3/archive/refs/heads/master.zip
+https://github.com/raspberryfield/Project-Y/archive/refs/heads/main.zip
+https://github.com/octonion/basketball-bracketology/archive/refs/heads/master.zip
+https://github.com/Giswater/giswater_dbmodel/archive/refs/heads/master-3.5.zip
+https://github.com/jamestripp/qstep-sql/archive/refs/heads/master.zip
+https://github.com/okyzaprabowo/agressoprocurement/archive/refs/heads/master.zip
+https://github.com/InterneuronCIC/Interneuron.Synapse/archive/refs/heads/main.zip
+https://github.com/miljodir/mesa/archive/refs/heads/master.zip
+https://github.com/mariusndini/Snowflake-Java-Native-App/archive/refs/heads/main.zip
+https://github.com/tudelft3d/3DCityDB-Tools-for-QGIS/archive/refs/heads/master.zip
+https://github.com/pbrega90/DBPTK/archive/refs/heads/master.zip

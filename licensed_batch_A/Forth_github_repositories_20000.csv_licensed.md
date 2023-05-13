@@ -1,0 +1,9 @@
+https://github.com/alopez/dreamt/archive/refs/heads/master.zip
+https://github.com/earl/gforth-mirror/archive/refs/heads/master.zip
+https://github.com/howerj/subleq/archive/refs/heads/master.zip
+https://github.com/rexmcmuffin/Laboratorio_Electronica_Analogica/archive/refs/heads/main.zip
+https://github.com/crcx/retroforth/archive/refs/heads/master.zip
+https://github.com/DruidBSD/druidbsd/archive/refs/heads/master.zip
+https://github.com/tabemann/zeptoforth/archive/refs/heads/master.zip
+https://github.com/albertvanderhorst/ciforth/archive/refs/heads/master.zip
+https://github.com/Kalbot1337/Paragon/archive/refs/heads/master.zip

@@ -1,0 +1,15 @@
+https://github.com/ishakuni/frontend/archive/refs/heads/master.zip
+https://github.com/phated/grain2/archive/refs/heads/main.zip
+https://github.com/BenSchZA/care-to-travel/archive/refs/heads/master.zip
+https://github.com/nenofite/map-gen/archive/refs/heads/main.zip
+https://github.com/EliaECoyote/tech-resume/archive/refs/heads/develop.zip
+https://github.com/sophiabrandt/reason-music-player/archive/refs/heads/master.zip
+https://github.com/misthosio/misthos-wallet/archive/refs/heads/master.zip
+https://github.com/ReasonVienna/reason-conf-2019/archive/refs/heads/master.zip
+https://github.com/johnridesabike/benchmark-bs/archive/refs/heads/master.zip
+https://github.com/natserract/reason-rust-scraper/archive/refs/heads/master.zip
+https://github.com/tenzir/ui-component-library/archive/refs/heads/master.zip
+https://github.com/chess-tea/grout/archive/refs/heads/master.zip
+https://github.com/KalselJS/kalseljs/archive/refs/heads/master.zip
+https://github.com/grain-lang/grain/archive/refs/heads/main.zip
+https://github.com/huidetang/XiandaiFenshuVol3/archive/refs/heads/main.zip

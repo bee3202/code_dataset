@@ -1,0 +1,12 @@
+https://github.com/OleksandrBlack/ukita_installer/archive/refs/heads/main.zip
+https://github.com/Apress/gamemaker-studio-100-prog-challenges/archive/refs/heads/master.zip
+https://github.com/Golovastov84/game-verbal-count/archive/refs/heads/main.zip
+https://github.com/ugetdm/uget-integrator/archive/refs/heads/master.zip
+https://github.com/alesper3/Ipscan/archive/refs/heads/master.zip
+https://github.com/eiaeii/SouiDemo/archive/refs/heads/master.zip
+https://github.com/Hegberg/Gibbloo/archive/refs/heads/master.zip
+https://github.com/sasmlange/NSIS-Code-Maker/archive/refs/heads/main(v4).zip
+https://github.com/Brightscout/mattermost-pidgin-client/archive/refs/heads/master.zip
+https://github.com/josealf/stunnel-win32/archive/refs/heads/master.zip
+https://github.com/josh-butts/GameStuffGoesHere/archive/refs/heads/master.zip
+https://github.com/hossampal/ipscan/archive/refs/heads/master.zip

@@ -1,0 +1,12 @@
+https://github.com/jkaganovsky/Portfolio/archive/refs/heads/main.zip
+https://github.com/redhat-scholars/openshift-starter-guides/archive/refs/heads/ocp-4.11.zip
+https://github.com/xiangzhi/website-v2/archive/refs/heads/master.zip
+https://github.com/CesarvanH/project-tech/archive/refs/heads/main.zip
+https://github.com/Riemann-AI/EXPLORA20.21/archive/refs/heads/main.zip
+https://github.com/kelseykodes/PlanIt/archive/refs/heads/main.zip
+https://github.com/RWS/dxa-html-design/archive/refs/heads/master.zip
+https://github.com/deepeters/hero-squad/archive/refs/heads/master.zip
+https://github.com/wilfredhuang/FullStackDevelopmentProject/archive/refs/heads/master.zip
+https://github.com/microstream-one/microstream-docs-site/archive/refs/heads/master.zip
+https://github.com/DeveloperOwala/heroSquard/archive/refs/heads/main.zip
+https://github.com/erict001/eric-newfolio/archive/refs/heads/main.zip

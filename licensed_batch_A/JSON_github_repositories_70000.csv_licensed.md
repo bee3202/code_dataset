@@ -1,0 +1,12 @@
+https://github.com/thomhans/uptime/archive/refs/heads/master.zip
+https://github.com/coille02/upptime/archive/refs/heads/master.zip
+https://github.com/JNA-Dealer-Program/stats/archive/refs/heads/master.zip
+https://github.com/CarfaxMX/status-page/archive/refs/heads/master.zip
+https://github.com/r3f/upptime/archive/refs/heads/master.zip
+https://github.com/laymoth/status/archive/refs/heads/master.zip
+https://github.com/am-brands/upptime/archive/refs/heads/master.zip
+https://github.com/Space-Turtle0/SolamitaHost/archive/refs/heads/master.zip
+https://github.com/PbtServers/PbtServers-Estado/archive/refs/heads/master.zip
+https://github.com/RecoveryDharma/status/archive/refs/heads/master.zip
+https://github.com/kijimaD/roam_upptime/archive/refs/heads/master.zip
+https://github.com/minhh2792/uptime/archive/refs/heads/master.zip

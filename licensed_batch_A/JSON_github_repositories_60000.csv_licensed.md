@@ -1,0 +1,9 @@
+https://github.com/OnnliOne/status/archive/refs/heads/master.zip
+https://github.com/Initial-heart-1/upptime/archive/refs/heads/master.zip
+https://github.com/oseau/uptime-kids-box-1/archive/refs/heads/master.zip
+https://github.com/xtexChooser/upptime/archive/refs/heads/master.zip
+https://github.com/andyhsia020/upptime/archive/refs/heads/master.zip
+https://github.com/abelfleitas/status/archive/refs/heads/master.zip
+https://github.com/NewCaledoniaDevTeam/CyberDLC/archive/refs/heads/main.zip
+https://github.com/MarseyLivesMatter/uptime/archive/refs/heads/master.zip
+https://github.com/33Fraise33/upptime/archive/refs/heads/master.zip

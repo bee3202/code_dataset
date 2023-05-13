@@ -1,0 +1,13 @@
+https://github.com/HiemSword/MAS-Italian/archive/refs/heads/master.zip
+https://github.com/RenpyRemix/speech-bubbles/archive/refs/heads/master.zip
+https://github.com/Noriverwater/flowernovelzhHans/archive/refs/heads/main.zip
+https://github.com/b1oki/everlastingsummer.professor_fortran_came_to_sovyenok/archive/refs/heads/master.zip
+https://github.com/SoDaRa/Auto-Highlight/archive/refs/heads/main.zip
+https://github.com/Aa123456e/SYL/archive/refs/heads/main.zip
+https://github.com/ColoradoStark/Renpy_Shooter/archive/refs/heads/master.zip
+https://github.com/bytebuddha/renplate/archive/refs/heads/master.zip
+https://github.com/Friends-of-Monika/mas-saysomething/archive/refs/heads/master.zip
+https://github.com/lunalucid/Text-Input-Examples/archive/refs/heads/master.zip
+https://github.com/RenpyRemix/extra-animated-value/archive/refs/heads/master.zip
+https://github.com/valery-iwanofu/renpy-shader-collection/archive/refs/heads/main.zip
+https://github.com/jsfehler/renpy-radarchart/archive/refs/heads/master.zip

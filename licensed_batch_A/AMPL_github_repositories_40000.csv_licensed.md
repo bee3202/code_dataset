@@ -1,0 +1,9 @@
+https://github.com/MichiKohlhaas/RiesEstoniaMod/archive/refs/heads/develop.zip
+https://github.com/Araxiel/CK2-Cult-of-the-Eldritch-Ones/archive/refs/heads/master.zip
+https://github.com/fross/my-industrial-robotics-labs/archive/refs/heads/main.zip
+https://github.com/9Kbits/AtE-Judaism-Submod/archive/refs/heads/master.zip
+https://github.com/HyperTwerp/Sapmi_Rework/archive/refs/heads/main.zip
+https://github.com/aqstrw/eia_lab1/archive/refs/heads/main.zip
+https://github.com/nathannewcomer/vinland_mod/archive/refs/heads/master.zip
+https://github.com/tfiling/FinalProjectWrapping/archive/refs/heads/master.zip
+https://github.com/Clinical-Pharmacy-Saarland-University/covid-simulator/archive/refs/heads/main.zip

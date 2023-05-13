@@ -1,0 +1,16 @@
+https://github.com/ccrma/miniAudicle/archive/refs/heads/main.zip
+https://github.com/trijeetm/BinauralMan/archive/refs/heads/master.zip
+https://github.com/levinli303/CelestiaCore/archive/refs/heads/main.zip
+https://github.com/lpieri/reapp-native/archive/refs/heads/main.zip
+https://github.com/MrtDolphin0128/ImagePerspectiveTransformPlugin/archive/refs/heads/master.zip
+https://github.com/RoyeHLS/BGLdemo/archive/refs/heads/main.zip
+https://github.com/jsuhangita/Flip-test/archive/refs/heads/main.zip
+https://github.com/robertdiel/MoxiePoker/archive/refs/heads/master.zip
+https://github.com/dneprDroid/tfsecured/archive/refs/heads/master.zip
+https://github.com/proletariatgames/nmexpro/archive/refs/heads/master.zip
+https://github.com/anmoljagetia/oreilly-ai-pokemon-ios/archive/refs/heads/master.zip
+https://github.com/DDstrongman/DDOpenCVOcrMaster/archive/refs/heads/master.zip
+https://github.com/adtalos/unity-ads-plugin/archive/refs/heads/master.zip
+https://github.com/tom-wang/MindMap/archive/refs/heads/master.zip
+https://github.com/AdamSliwakowski/solid-succotash/archive/refs/heads/master.zip
+https://github.com/vstabile/leitor-ipostal-namorados-ios/archive/refs/heads/master.zip

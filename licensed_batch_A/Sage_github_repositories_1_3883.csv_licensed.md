@@ -1,0 +1,10 @@
+https://github.com/cfrg/draft-irtf-cfrg-cpace/archive/refs/heads/master.zip
+https://github.com/X3NNY/RSA-extending-wiener-attack/archive/refs/heads/main.zip
+https://github.com/daira/tweedle/archive/refs/heads/master.zip
+https://github.com/jack4818/Castryck-Decru-SageMath/archive/refs/heads/main.zip
+https://github.com/christianlundkvist/blog/archive/refs/heads/master.zip
+https://github.com/cfrg/draft-irtf-cfrg-vdaf/archive/refs/heads/main.zip
+https://github.com/cferon/PAnTHErS/archive/refs/heads/master.zip
+https://github.com/DavidAyotte/drinfeld_modular_forms/archive/refs/heads/develop.zip
+https://github.com/sualehasif/computingPicard/archive/refs/heads/master.zip
+https://github.com/Nashtare/curve_experiments/archive/refs/heads/main.zip

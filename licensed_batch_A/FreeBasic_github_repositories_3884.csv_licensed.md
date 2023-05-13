@@ -1,0 +1,14 @@
+https://github.com/mechatronic3000/Untitled-Rougelike/archive/refs/heads/main.zip
+https://github.com/Dasacav3/project-worship/archive/refs/heads/master.zip
+https://github.com/XusinboyBekchanov/MyFbFramework/archive/refs/heads/master.zip
+https://github.com/FreeBASIC-Extended-Library/fb-ext-lib/archive/refs/heads/master.zip
+https://github.com/Tiefflieger68/SBUS-Switch/archive/refs/heads/main.zip
+https://github.com/verybadidea/fb_citadel_game/archive/refs/heads/main.zip
+https://github.com/AnywhereSoftware/Web3X/archive/refs/heads/main.zip
+https://github.com/freebasic/fbfrog/archive/refs/heads/master.zip
+https://github.com/Fabergames1/SensibileSoccer/archive/refs/heads/main.zip
+https://github.com/Doctor9110/Qbasic-starter-projects/archive/refs/heads/main.zip
+https://github.com/Sarania/StrawberryNES/archive/refs/heads/master.zip
+https://github.com/AnywhereSoftware/X2/archive/refs/heads/main.zip
+https://github.com/glasyalabolas/fb-layer-modes/archive/refs/heads/master.zip
+https://github.com/Pitto/FB_SVG_Clipper/archive/refs/heads/main.zip

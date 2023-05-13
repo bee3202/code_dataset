@@ -1,0 +1,15 @@
+https://github.com/yodle/griddle/archive/refs/heads/master.zip
+https://github.com/krish7919/aurora_thrift_api/archive/refs/heads/master.zip
+https://github.com/quintoandar/hive-metastore-client/archive/refs/heads/main.zip
+https://github.com/uber/cadence-idl/archive/refs/heads/master.zip
+https://github.com/jaegertracing/jaeger-idl/archive/refs/heads/main.zip
+https://github.com/Evernote/evernote-thrift/archive/refs/heads/master.zip
+https://github.com/curry-ing/study_big-data/archive/refs/heads/master.zip
+https://github.com/bippio/go-impala/archive/refs/heads/master.zip
+https://github.com/cloudera/hs2client/archive/refs/heads/master.zip
+https://github.com/rootmelo92118/invattack/archive/refs/heads/master.zip
+https://github.com/dev-share/share-generate-sources/archive/refs/heads/master.zip
+https://github.com/botcuangarali/angaralicancel/archive/refs/heads/master.zip
+https://github.com/koblas/impalathing/archive/refs/heads/master.zip
+https://github.com/ufukomer/node-impala/archive/refs/heads/master.zip
+https://github.com/stripe-archive/herringbone/archive/refs/heads/master.zip

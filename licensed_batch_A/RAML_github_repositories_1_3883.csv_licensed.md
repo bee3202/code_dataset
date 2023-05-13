@@ -1,0 +1,14 @@
+https://github.com/mulesoft-labs/raml-sublime-plugin/archive/refs/heads/master.zip
+https://github.com/statisticsnorway/dapla-project/archive/refs/heads/master.zip
+https://github.com/Luizbrandt/users-crud-salesforce/archive/refs/heads/main.zip
+https://github.com/choudharydhaka/kafka-mule-microservices/archive/refs/heads/main.zip
+https://github.com/openapis/api-specs/archive/refs/heads/master.zip
+https://github.com/asyncapi/raml-dt-schema-parser/archive/refs/heads/master.zip
+https://github.com/SalesforceCommerceCloud/commerce-sdk-isomorphic/archive/refs/heads/main.zip
+https://github.com/communitiesuk/waste-service-standards/archive/refs/heads/master.zip
+https://github.com/AMWA-TV/is-08/archive/refs/heads/v1.0.x.zip
+https://github.com/coub/raml_ruby/archive/refs/heads/master.zip
+https://github.com/AMWA-TV/is-04/archive/refs/heads/v1.3.x.zip
+https://github.com/commercetools/scraml/archive/refs/heads/main.zip
+https://github.com/jdiegodcp/ramlfications/archive/refs/heads/master.zip
+https://github.com/n2ygk/mulesoft-oauth2-scope-enforcer/archive/refs/heads/master.zip

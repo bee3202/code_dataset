@@ -1,0 +1,10 @@
+https://github.com/artsy/Artsy-OSSUIFonts/archive/refs/heads/master.zip
+https://github.com/thibmo/lua-beef/archive/refs/heads/master.zip
+https://github.com/FranklyGD/Spyro-Scope/archive/refs/heads/master.zip
+https://github.com/MaddyThorson/StrawberryBF/archive/refs/heads/master.zip
+https://github.com/bfiete/BeefyScope/archive/refs/heads/main.zip
+https://github.com/MineGame159/BeefSFML/archive/refs/heads/master.zip
+https://github.com/jayrulez/Bulkan/archive/refs/heads/master.zip
+https://github.com/Moneyl/Nanoforge/archive/refs/heads/master.zip
+https://github.com/MineGame159/glfw-beef/archive/refs/heads/master.zip
+https://github.com/DanEre/Voxis/archive/refs/heads/main.zip

@@ -1,0 +1,14 @@
+https://github.com/RVirmoors/fred-pat/archive/refs/heads/main.zip
+https://github.com/worldmaking/alicenode_inhabitat/archive/refs/heads/master.zip
+https://github.com/JoeMatt/BassStationIIMaxForLive/archive/refs/heads/master.zip
+https://github.com/masoodkamandy/neurofeedback/archive/refs/heads/main.zip
+https://github.com/DATT1020-A3-GROUP/A3/archive/refs/heads/main.zip
+https://github.com/tmhglnd/strange-attractors/archive/refs/heads/master.zip
+https://github.com/pdmeyer/seq/archive/refs/heads/main.zip
+https://github.com/nadirB/Trajectory_Score_Library/archive/refs/heads/master.zip
+https://github.com/0x80/shreditor/archive/refs/heads/master.zip
+https://github.com/federicoVisi/SoundS-gesture-sound-interaction/archive/refs/heads/main.zip
+https://github.com/jzimmer5/470Repository/archive/refs/heads/master.zip
+https://github.com/flucoma/flucoma-max/archive/refs/heads/main.zip
+https://github.com/IDMNYU/MaxWorkshopMakerSpace/archive/refs/heads/master.zip
+https://github.com/CaseyPYZ/InteractiveInstallation19/archive/refs/heads/master.zip

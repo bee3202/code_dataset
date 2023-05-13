@@ -1,0 +1,11 @@
+https://github.com/HeeJay1/Lovecraftian_Lisp/archive/refs/heads/main.zip
+https://github.com/joergen7/cfplot/archive/refs/heads/master.zip
+https://github.com/AlexKnauth/koch-snowflake/archive/refs/heads/main.zip
+https://github.com/maueroats/teaching--2020-2021/archive/refs/heads/master.zip
+https://github.com/bennn/tag-sound/archive/refs/heads/master.zip
+https://github.com/nuprl/tag-sound/archive/refs/heads/master.zip
+https://github.com/mwunsch/overscan/archive/refs/heads/master.zip
+https://github.com/herbie-fp/egg-herbie/archive/refs/heads/master.zip
+https://github.com/eutro/composure/archive/refs/heads/main.zip
+https://github.com/BSeppke/cameracket/archive/refs/heads/master.zip
+https://github.com/default-kramer/plisqin/archive/refs/heads/master.zip

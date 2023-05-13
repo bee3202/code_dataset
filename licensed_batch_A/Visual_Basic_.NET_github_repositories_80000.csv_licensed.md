@@ -1,0 +1,9 @@
+https://github.com/PhongSeow/PigTools/archive/refs/heads/main.zip
+https://github.com/playdeezgames/wonting-of-splorr/archive/refs/heads/main.zip
+https://github.com/dab2020/JF-secure/archive/refs/heads/main.zip
+https://github.com/PP-Namias/Pre-enrollment-Management-System/archive/refs/heads/main.zip
+https://github.com/stichting-cito/QuestifyBuilder/archive/refs/heads/master.zip
+https://github.com/Brionjv/Miitopia-Save-Editor/archive/refs/heads/master.zip
+https://github.com/fuel-delivery/GestionDesFormation/archive/refs/heads/main.zip
+https://github.com/helgrind/thesis/archive/refs/heads/master.zip
+https://github.com/sandor-ino/Telecine-Frame-by-Step/archive/refs/heads/V2.zip

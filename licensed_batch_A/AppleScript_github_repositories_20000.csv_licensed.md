@@ -1,0 +1,9 @@
+https://github.com/SkydiveMike/OmniFocusScripts/archive/refs/heads/master.zip
+https://github.com/BrockMcNuggets/AIM-BOT/archive/refs/heads/master.zip
+https://github.com/kevin-funderburg/AppleScripts/archive/refs/heads/master.zip
+https://github.com/dchdcx/Xcode-Player/archive/refs/heads/main.zip
+https://github.com/dnnsmnstrr/HydroTouch/archive/refs/heads/master.zip
+https://github.com/bhdicaire/omnigraffleStencils/archive/refs/heads/main.zip
+https://github.com/cfahd/pid-exploit/archive/refs/heads/main.zip
+https://github.com/SaiWebApps/AppleScriptUtils/archive/refs/heads/master.zip
+https://github.com/xenatt/iTunesNowPlaying/archive/refs/heads/master.zip

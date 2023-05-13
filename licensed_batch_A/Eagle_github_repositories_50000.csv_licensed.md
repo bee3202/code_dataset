@@ -1,0 +1,11 @@
+https://github.com/ChrisPVille/RL02/archive/refs/heads/master.zip
+https://github.com/avishek-das/Crab_FA2017/archive/refs/heads/master.zip
+https://github.com/gdgzdar/Laser-harp/archive/refs/heads/master.zip
+https://github.com/8BitMixtape/NextLevelEdition/archive/refs/heads/master.zip
+https://github.com/LadZone/LadZone.github.io/archive/refs/heads/master.zip
+https://github.com/thingSoC/TSOC_PSoC4L/archive/refs/heads/master.zip
+https://github.com/thingSoC/TSOC_GROVEY_I2CHUB/archive/refs/heads/master.zip
+https://github.com/paulmandal/queensmatic/archive/refs/heads/master.zip
+https://github.com/issackelly/oor-javascript/archive/refs/heads/master.zip
+https://github.com/shafeeqr2/Connected-Car-Concept/archive/refs/heads/gh-pages.zip
+https://github.com/BollerTuneZ/OS/archive/refs/heads/master.zip

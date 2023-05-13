@@ -1,0 +1,9 @@
+https://github.com/Fabrizio-Caruso/CBM-BASIC-10-liners/archive/refs/heads/master.zip
+https://github.com/thwill1000/cmm2-welcome/archive/refs/heads/master.zip
+https://github.com/DoNOF/DoNOFsw/archive/refs/heads/master.zip
+https://github.com/mauroxavierneto/mstudio_cmm/archive/refs/heads/main.zip
+https://github.com/neoelec/rcn_rc6502/archive/refs/heads/main.zip
+https://github.com/retro-software/B5500-software/archive/refs/heads/master.zip
+https://github.com/rcamp5656/Lotto-Max-2021-Beta-Version/archive/refs/heads/main.zip
+https://github.com/navs/gwbasic-music-EyesOfDawn/archive/refs/heads/main.zip
+https://github.com/urbancamo/casio-basic/archive/refs/heads/main.zip

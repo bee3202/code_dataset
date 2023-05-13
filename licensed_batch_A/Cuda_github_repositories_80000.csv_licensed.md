@@ -1,0 +1,11 @@
+https://github.com/piantado/GPUropolis/archive/refs/heads/master.zip
+https://github.com/julienaalsund/instant_ngp_personal/archive/refs/heads/master.zip
+https://github.com/manyunya/bitreverse/archive/refs/heads/master.zip
+https://github.com/Neah-Ko/DD2360_AGPUP_G13/archive/refs/heads/main.zip
+https://github.com/Harold-Glitch/bitreverse/archive/refs/heads/master.zip
+https://github.com/timothychong/cholesky-decomposition/archive/refs/heads/master.zip
+https://github.com/smjim/Mandelbrot_visualizer/archive/refs/heads/main.zip
+https://github.com/XMUDM/BREAD/archive/refs/heads/main.zip
+https://github.com/yaojieliu/ICCVW2017-DenseFaceAlignment/archive/refs/heads/master.zip
+https://github.com/Fjf/Allen/archive/refs/heads/master.zip
+https://github.com/maybe198376/LEARN/archive/refs/heads/master.zip

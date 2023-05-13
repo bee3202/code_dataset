@@ -1,0 +1,16 @@
+https://github.com/Legacy-Edition-Minigames/Menu-Server/archive/refs/heads/main.zip
+https://github.com/r4isen1920/addons/archive/refs/heads/main.zip
+https://github.com/LTHCTheMaster/Magical-Elementalization/archive/refs/heads/Dev.zip
+https://github.com/Loweredgames/Underground_Survival/archive/refs/heads/main.zip
+https://github.com/VisiVersa/manic-public/archive/refs/heads/main.zip
+https://github.com/Redspyboy8/ProjectEden/archive/refs/heads/main.zip
+https://github.com/LTHCTheMaster/The-Advancenergy/archive/refs/heads/Dev.zip
+https://github.com/Manasilk/Adventure/archive/refs/heads/master.zip
+https://github.com/CubeCoding7/CreateCube-Modpack/archive/refs/heads/main.zip
+https://github.com/kirbycope/build-below-bedrock/archive/refs/heads/main.zip
+https://github.com/CreeperMagnet/the-creepers-code/archive/refs/heads/master.zip
+https://github.com/Dahesor/Map-Mob-Fight-Releases/archive/refs/heads/main.zip
+https://github.com/EnhancedCraft/Cave-Enhancements/archive/refs/heads/main.zip
+https://github.com/Alumopper/Dreamland/archive/refs/heads/master.zip
+https://github.com/Stoupy51/StardustFragment/archive/refs/heads/main.zip
+https://github.com/Dutch-Devs/ChunkDefense/archive/refs/heads/main.zip

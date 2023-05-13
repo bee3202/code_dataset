@@ -1,0 +1,12 @@
+https://github.com/LuaMobile/sdk/archive/refs/heads/master.zip
+https://github.com/Jerry4539/Ransome/archive/refs/heads/main.zip
+https://github.com/Acid-miuipolskapl/MIUI-extra-apps/archive/refs/heads/master.zip
+https://github.com/thijsdewitt/v4a_material/archive/refs/heads/master.zip
+https://github.com/MusalaSoft/atmosphere-apk-backdoor-injector/archive/refs/heads/master.zip
+https://github.com/shenxdtw/PokemonGo-Plugin/archive/refs/heads/master.zip
+https://github.com/konstantintuev/TUmine-BaksmaliMiner/archive/refs/heads/master.zip
+https://github.com/Pittvandewitt/v4a_material_reformatted_src/archive/refs/heads/master.zip
+https://github.com/fcy354268003/my_account_book/archive/refs/heads/master.zip
+https://github.com/Chal13W1zz/OPHMod/archive/refs/heads/main.zip
+https://github.com/KuhakuPixel/AceAndroidLib/archive/refs/heads/main.zip
+https://github.com/Damianos02/psychic-octo-robot/archive/refs/heads/master.zip

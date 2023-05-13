@@ -1,0 +1,14 @@
+https://github.com/Targon-Industries/Datanet/archive/refs/heads/main.zip
+https://github.com/pyhoon/star-hotel-vb6/archive/refs/heads/main.zip
+https://github.com/benhaotang/Heaven-Now/archive/refs/heads/master.zip
+https://github.com/RelaxTools/Hidennotare/archive/refs/heads/master.zip
+https://github.com/NiJingzhe/ClassManagementSystem/archive/refs/heads/main.zip
+https://github.com/kuvbur/material-specification/archive/refs/heads/master.zip
+https://github.com/el3um4s/how-to-export-mdb-to-sqlite-3/archive/refs/heads/main.zip
+https://github.com/mckryton/senfgurke/archive/refs/heads/master.zip
+https://github.com/Curtainzzz/FaithcBlog/archive/refs/heads/master.zip
+https://github.com/emaimona/IPCChat_Emanuel/archive/refs/heads/master.zip
+https://github.com/GCuser99/SeleniumVBA/archive/refs/heads/main.zip
+https://github.com/wbovela/MichaelPlet/archive/refs/heads/main.zip
+https://github.com/UKF-JozefVirag/Team2-MobilityUkf/archive/refs/heads/dev.zip
+https://github.com/BrookTeferi/Django_Product_microservices/archive/refs/heads/main.zip

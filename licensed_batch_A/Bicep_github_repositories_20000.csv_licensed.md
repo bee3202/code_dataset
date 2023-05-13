@@ -1,0 +1,17 @@
+https://github.com/apcl73/ELSZHack/archive/refs/heads/main.zip
+https://github.com/YRollHid/azure-apim-landing-zone-accelerator/archive/refs/heads/main.zip
+https://github.com/EldertGrootenboer/Empower-your-Azure-IaC-with-Bicep/archive/refs/heads/main.zip
+https://github.com/salils3211/apim-landing-zone-accelerator/archive/refs/heads/main.zip
+https://github.com/nicolalgallacher/Bicep_WhatTheHack/archive/refs/heads/main.zip
+https://github.com/Azure/mock-spacestation/archive/refs/heads/main.zip
+https://github.com/Yatish0833/VariantSpark-Azure-deployment/archive/refs/heads/master.zip
+https://github.com/mocelj/Azure-NxOneView/archive/refs/heads/main.zip
+https://github.com/Azure/apim-landing-zone-accelerator/archive/refs/heads/main.zip
+https://github.com/aehrc/VariantSpark-Azure-deployment/archive/refs/heads/main.zip
+https://github.com/apacdev/mscs-storage-cluster/archive/refs/heads/main.zip
+https://github.com/jshackelford-hlprd/apim-landing-zone/archive/refs/heads/main.zip
+https://github.com/offbeatful/echobot/archive/refs/heads/main.zip
+https://github.com/shivashant25/eslz-bicep/archive/refs/heads/main.zip
+https://github.com/mariog2000/APIM-AZ/archive/refs/heads/main.zip
+https://github.com/jihanim1/bicep/archive/refs/heads/main.zip
+https://github.com/timothywarner/az104/archive/refs/heads/main.zip

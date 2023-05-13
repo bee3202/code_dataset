@@ -1,0 +1,10 @@
+https://github.com/dceejay/node-red-arjs/archive/refs/heads/master.zip
+https://github.com/lbivens/acme-sac/archive/refs/heads/master.zip
+https://github.com/redcrab2016/Brainfuck-Macro-Assembler/archive/refs/heads/master.zip
+https://github.com/KevinGliewe/Xamarin.Android.ARToolKit5/archive/refs/heads/master.zip
+https://github.com/blakwurm/Pokit3/archive/refs/heads/master.zip
+https://github.com/ejohnsonmbidirectmail/ARTest/archive/refs/heads/master.zip
+https://github.com/TurnipGuy30/Helloz/archive/refs/heads/main.zip
+https://github.com/eserozvataf/hayalet-sevgilim-sarki-sozleri/archive/refs/heads/master.zip
+https://github.com/xivid/aoapc-bac1nd/archive/refs/heads/master.zip
+https://github.com/jdw1996/epiphyte-mono/archive/refs/heads/master.zip

@@ -1,0 +1,10 @@
+https://github.com/sovietdog64/napoleon/archive/refs/heads/main.zip
+https://github.com/nicholmy/SonicGapReloaded/archive/refs/heads/main.zip
+https://github.com/apetersell/CodeLab2_Final/archive/refs/heads/master.zip
+https://github.com/badwrongg/gm_camera_and_views/archive/refs/heads/main.zip
+https://github.com/pipaslenguajes/LenguajesYCompiladores/archive/refs/heads/master.zip
+https://github.com/sauldenova/cmm-compiler-project/archive/refs/heads/master.zip
+https://github.com/Pi0h1/INTRUDE/archive/refs/heads/master.zip
+https://github.com/tildesarecool/FireJumpGMS2/archive/refs/heads/main.zip
+https://github.com/orgTestCodacy11KRepos110MB/repo-6802-compiler_series/archive/refs/heads/master.zip
+https://github.com/Davewhibbs/BurnStuff/archive/refs/heads/master.zip

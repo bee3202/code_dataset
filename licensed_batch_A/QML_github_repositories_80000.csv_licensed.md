@@ -1,0 +1,11 @@
+https://github.com/stephanievetter/arcademania/archive/refs/heads/master.zip
+https://github.com/Landesberufsschule-Feldkirch/_TiaPortal14/archive/refs/heads/master.zip
+https://github.com/mzanetti/machines-vs-machines-sfos/archive/refs/heads/master.zip
+https://github.com/LJea/NET-Data-Extension-Plugin/archive/refs/heads/main.zip
+https://github.com/ycdxsb/LibraryManageDesktopApp/archive/refs/heads/master.zip
+https://github.com/arnoldvantveld/drainage-design-toolbox/archive/refs/heads/master.zip
+https://github.com/obiwankennedy/Cops/archive/refs/heads/master.zip
+https://github.com/ec1oud/qt-presentations/archive/refs/heads/pointerhandlers.zip
+https://github.com/GeOsmFamily/geosm-backend-nodejs/archive/refs/heads/master.zip
+https://github.com/MKarimi21/PythonAndQTQuickProject/archive/refs/heads/main.zip
+https://github.com/maroueneboubakri/neptune3-ui/archive/refs/heads/5.12.zip

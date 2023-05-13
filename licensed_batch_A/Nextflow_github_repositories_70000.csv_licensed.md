@@ -1,0 +1,14 @@
+https://github.com/IARCbioinfo/gene-fusions-nf/archive/refs/heads/main.zip
+https://github.com/BioRadOpenSource/omnition/archive/refs/heads/main.zip
+https://github.com/jsalignon/cactus/archive/refs/heads/main.zip
+https://github.com/icbi-lab/abdulrahman2021_paper/archive/refs/heads/main.zip
+https://github.com/CDCgov/mycosnp-nf/archive/refs/heads/master.zip
+https://github.com/NorwegianVeterinaryInstitute/Talos/archive/refs/heads/master.zip
+https://github.com/hoelzer/mgnify-lr/archive/refs/heads/master.zip
+https://github.com/nf-core/bactmap/archive/refs/heads/master.zip
+https://github.com/staphopia/staphopia-ap/archive/refs/heads/master.zip
+https://github.com/theiagen/wm_training_202207/archive/refs/heads/main.zip
+https://github.com/TheJacksonLaboratory/cs-nf-pipelines/archive/refs/heads/main.zip
+https://github.com/anna-saukkonen/PAC/archive/refs/heads/main.zip
+https://github.com/FredHutch/evaluate-gene-level-metagenomics-tools/archive/refs/heads/master.zip
+https://github.com/nf-core/neutronstar/archive/refs/heads/master.zip

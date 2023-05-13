@@ -1,0 +1,13 @@
+https://github.com/giellalt/lang-quc-x-ext-apertium/archive/refs/heads/main.zip
+https://github.com/giellalt/lang-bul/archive/refs/heads/main.zip
+https://github.com/giellalt/lang-epo/archive/refs/heads/main.zip
+https://github.com/giellalt/lang-bxr/archive/refs/heads/main.zip
+https://github.com/giellalt/lang-amh/archive/refs/heads/main.zip
+https://github.com/giellalt/lang-som/archive/refs/heads/main.zip
+https://github.com/giellalt/lang-bla/archive/refs/heads/main.zip
+https://github.com/giellalt/lang-khk/archive/refs/heads/main.zip
+https://github.com/giellalt/lang-vot/archive/refs/heads/main.zip
+https://github.com/giellalt/lang-tur-x-ext-trmorph/archive/refs/heads/main.zip
+https://github.com/fink-lang/loxia/archive/refs/heads/main.zip
+https://github.com/giellalt/template-lang-und/archive/refs/heads/main.zip
+https://github.com/giellalt/lang-tau/archive/refs/heads/main.zip

@@ -1,0 +1,15 @@
+https://github.com/vacp2p/research/archive/refs/heads/master.zip
+https://github.com/teob97/T-RayX/archive/refs/heads/master.zip
+https://github.com/cgabriel5/nodecliac/archive/refs/heads/master.zip
+https://github.com/RattleyCooper/warble/archive/refs/heads/master.zip
+https://github.com/hoijui/osh-tool/archive/refs/heads/master.zip
+https://github.com/status-im/nim-libp2p/archive/refs/heads/unstable.zip
+https://github.com/sergiotapia/ekeko/archive/refs/heads/master.zip
+https://github.com/jackmott/easygl/archive/refs/heads/master.zip
+https://github.com/Vindaar/ggplotnim/archive/refs/heads/master.zip
+https://github.com/BundleFeed/nim_bipf/archive/refs/heads/main.zip
+https://github.com/ozzuu/bible/archive/refs/heads/master.zip
+https://github.com/arturo-lang/arturo/archive/refs/heads/master.zip
+https://github.com/shayanhabibi/gitnim/archive/refs/heads/main.zip
+https://github.com/Infinitybeond1/dyecord/archive/refs/heads/master.zip
+https://github.com/nais314/stui/archive/refs/heads/master.zip

@@ -1,0 +1,12 @@
+https://github.com/UniMath/UniMath/archive/refs/heads/master.zip
+https://github.com/sweirich/corespec/archive/refs/heads/master.zip
+https://github.com/coq-community/hydra-battles/archive/refs/heads/master.zip
+https://github.com/cordone/FPGA-ball-and-plate/archive/refs/heads/master.zip
+https://github.com/jdoughertyii/hott-exercises/archive/refs/heads/master.zip
+https://github.com/janicicpredrag/Larus/archive/refs/heads/master.zip
+https://github.com/resource-reasoning/jscert_dev/archive/refs/heads/public.zip
+https://github.com/querycert/qcert/archive/refs/heads/master.zip
+https://github.com/LuluDavid/coq-algorithms/archive/refs/heads/master.zip
+https://github.com/ramonfmir/verified_transfo/archive/refs/heads/master.zip
+https://github.com/lafeychine/CompCert-eBPF/archive/refs/heads/master.zip
+https://github.com/irinacake/notesMaster1/archive/refs/heads/master.zip

@@ -1,0 +1,13 @@
+https://github.com/bakwc/bfmon/archive/refs/heads/master.zip
+https://github.com/jepafi/Laz_Query_Builder/archive/refs/heads/master.zip
+https://github.com/sanekgusev/LinX-old/archive/refs/heads/master.zip
+https://github.com/joostfaassen/v2os/archive/refs/heads/master.zip
+https://github.com/darkhog/SuperHeliLand/archive/refs/heads/master.zip
+https://github.com/gribuser/fb2any/archive/refs/heads/master.zip
+https://github.com/y-salnikov/ironseed_fpc/archive/refs/heads/master.zip
+https://github.com/shaun2029/Clock/archive/refs/heads/master.zip
+https://github.com/rnapoles/PHP4Lazarus/archive/refs/heads/master.zip
+https://github.com/danielfrimerman/Delphi-EmbeddedWB-XE3/archive/refs/heads/master.zip
+https://github.com/cdfmr/ezmp3c/archive/refs/heads/master.zip
+https://github.com/jcmoraisjr/press-sdk/archive/refs/heads/master.zip
+https://github.com/karynax/ironseed/archive/refs/heads/master.zip

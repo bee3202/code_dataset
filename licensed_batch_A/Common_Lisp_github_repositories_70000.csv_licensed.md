@@ -1,0 +1,16 @@
+https://github.com/sebasmonia/nordvpn-client/archive/refs/heads/main.zip
+https://github.com/RolandSalz/rMaxima/archive/refs/heads/master.zip
+https://github.com/ichudakov/SCCommTools/archive/refs/heads/master.zip
+https://github.com/AustinMooreT/MitLispTapes/archive/refs/heads/master.zip
+https://github.com/sness/dZ/archive/refs/heads/master.zip
+https://github.com/Fizzixnerd/home-scripts/archive/refs/heads/master.zip
+https://github.com/epuccini/flood/archive/refs/heads/master.zip
+https://github.com/norvig/paip-lisp/archive/refs/heads/main.zip
+https://github.com/ragerdl/acl2-deprecated/archive/refs/heads/master.zip
+https://github.com/dallmeyer/opengoal-orbhunt/archive/refs/heads/main.zip
+https://github.com/rurban/clisp/archive/refs/heads/ci.zip
+https://github.com/nilqed/MaximaCode/archive/refs/heads/master.zip
+https://github.com/jquaranta99/wxmaxima/archive/refs/heads/master.zip
+https://github.com/asmaloney/ACT-R/archive/refs/heads/main.zip
+https://github.com/euslisp/EusLisp/archive/refs/heads/master.zip
+https://github.com/stefandevai/ibidem/archive/refs/heads/master.zip

@@ -1,0 +1,13 @@
+https://github.com/ernw/ss7MAPer/archive/refs/heads/master.zip
+https://github.com/andriimoonmana/test-otp/archive/refs/heads/main.zip
+https://github.com/emqx/emqx/archive/refs/heads/master.zip
+https://github.com/drimtajm/Time-Circuit/archive/refs/heads/master.zip
+https://github.com/bgxdoc/ss7maper/archive/refs/heads/master.zip
+https://github.com/CloudI/CloudI/archive/refs/heads/develop.zip
+https://github.com/jeanparpaillon/bkfw_roa_rg/archive/refs/heads/master.zip
+https://github.com/ench0/quest/archive/refs/heads/master.zip
+https://github.com/OtoloNetworks/rebar3_osv/archive/refs/heads/master.zip
+https://github.com/ethicalhackeragnidhra/ss7-map/archive/refs/heads/master.zip
+https://github.com/balabit-deps/balabit-os-9-erlang/archive/refs/heads/master.zip
+https://github.com/Olivier-Boudeville-EDF/Sim-Diasca/archive/refs/heads/main.zip
+https://github.com/Vinay846/ss7/archive/refs/heads/master.zip

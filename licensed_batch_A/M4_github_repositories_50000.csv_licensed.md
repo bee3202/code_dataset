@@ -1,0 +1,10 @@
+https://github.com/satdreamgr/oe-core/archive/refs/heads/zeus.zip
+https://github.com/ahmedmoselhi/openpli-oe-core-vu/archive/refs/heads/release-8.0.zip
+https://github.com/igor20192/openpli-oe-core-sh4/archive/refs/heads/develop.zip
+https://github.com/ndim/multiboot2/archive/refs/heads/multiboot2.zip
+https://github.com/fairbird/pli-oe-core/archive/refs/heads/develop.zip
+https://github.com/Hains/openpli-dm920-python3/archive/refs/heads/master.zip
+https://github.com/lionel-/freetypeharfbuzz/archive/refs/heads/master.zip
+https://github.com/OpenDelta-Team/dreambox-oe-core/archive/refs/heads/master.zip
+https://github.com/jack2015/openpli-dreambox-oe-core/archive/refs/heads/master.zip
+https://github.com/builder08/oe-core/archive/refs/heads/develop.zip

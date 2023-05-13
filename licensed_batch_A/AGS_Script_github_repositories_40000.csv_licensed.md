@@ -1,0 +1,11 @@
+https://github.com/splinedrive/kianRiscV/archive/refs/heads/master.zip
+https://github.com/WILDERNESSWIRELESS/WILDERNESS-WIRELESS-II/archive/refs/heads/master.zip
+https://github.com/hytech-racing/circuits-2022/archive/refs/heads/main.zip
+https://github.com/Ardustorm/transistorComputer/archive/refs/heads/master.zip
+https://github.com/trogdentyler/csci535-project/archive/refs/heads/main.zip
+https://github.com/OpenSourceBrain/BlueBrainProjectShowcase/archive/refs/heads/master.zip
+https://github.com/marzvix/MSX-Basic/archive/refs/heads/master.zip
+https://github.com/RobertBaruch/lmarv/archive/refs/heads/master.zip
+https://github.com/kholia/HF-PA-v2/archive/refs/heads/main.zip
+https://github.com/PirminLakner/Phasor_FLIM/archive/refs/heads/master.zip
+https://github.com/sevo/pewe-presentations/archive/refs/heads/master.zip

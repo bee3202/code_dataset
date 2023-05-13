@@ -1,0 +1,13 @@
+https://github.com/TimeIsUnending/TF2-Regional-Player-Count-Mod/archive/refs/heads/main.zip
+https://github.com/ZeroBoyEU/ZeroBOYos/archive/refs/heads/master.zip
+https://github.com/YellingTree/Player-Ping-Leaderboard/archive/refs/heads/main.zip
+https://github.com/pcca-matrix/PCCA-Layout/archive/refs/heads/master.zip
+https://github.com/electricimp/NewRelicWorkshop_2016/archive/refs/heads/master.zip
+https://github.com/Lin515/L4D2_LinGe_VScripts/archive/refs/heads/Release.zip
+https://github.com/saracoth/newdark-mods/archive/refs/heads/main.zip
+https://github.com/Rectus/diescraper_sources/archive/refs/heads/master.zip
+https://github.com/DoronShapiro/Electric-Imp-Mailbox/archive/refs/heads/master.zip
+https://github.com/curvedinf/finityflight/archive/refs/heads/master.zip
+https://github.com/Rukenshia/multiv-cqfun/archive/refs/heads/master.zip
+https://github.com/vfig/thiefy-stuff/archive/refs/heads/master.zip
+https://github.com/DBmaoha/Super.Mixed.Game/archive/refs/heads/main.zip

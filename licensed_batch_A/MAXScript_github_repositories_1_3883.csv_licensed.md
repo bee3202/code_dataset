@@ -1,0 +1,15 @@
+https://github.com/AlexKimov/HardTruck-RignRoll-file-formats/archive/refs/heads/master.zip
+https://github.com/CinderBlocc/CinematicsBuddy/archive/refs/heads/master.zip
+https://github.com/TaylorMouse/warcraft_iii_tools/archive/refs/heads/main.zip
+https://github.com/JoeStrout/minimicro-fonts/archive/refs/heads/main.zip
+https://github.com/huibinshen/fingerid/archive/refs/heads/master.zip
+https://github.com/imaoki/FlexUI/archive/refs/heads/main.zip
+https://github.com/the-other-mariana/snowflaker-plugin/archive/refs/heads/master.zip
+https://github.com/TitusLVR/BMAX_Connector/archive/refs/heads/master.zip
+https://github.com/daz3d/DazTo3dsMax/archive/refs/heads/master.zip
+https://github.com/aws/thinkbox-stoke-mx/archive/refs/heads/main.zip
+https://github.com/aalto-ics-kepaco/fingerid/archive/refs/heads/master.zip
+https://github.com/the-other-mariana/wine-glass-plugin/archive/refs/heads/master.zip
+https://github.com/TheOnlyAaron/Debris_Maker2/archive/refs/heads/master.zip
+https://github.com/3d-io/UV-Copy-MaxScript/archive/refs/heads/master.zip
+https://github.com/pudingus/Max4dsTools/archive/refs/heads/master.zip

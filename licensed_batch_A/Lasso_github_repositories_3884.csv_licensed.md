@@ -1,0 +1,15 @@
+https://github.com/edperalt/geology_well_data_in_R/archive/refs/heads/main.zip
+https://github.com/jfoshee/rockhack/archive/refs/heads/master.zip
+https://github.com/enabling-languages/cham/archive/refs/heads/master.zip
+https://github.com/triyuliyanto/formation_eval/archive/refs/heads/main.zip
+https://github.com/geokim7/formation-evaluation_origen/archive/refs/heads/main.zip
+https://github.com/GeoscienceSoftware/PyLogFinder_Package/archive/refs/heads/master.zip
+https://github.com/FRI-Energy-Analytics/alaska/archive/refs/heads/main.zip
+https://github.com/Philliec459/Estimations-of-Mode-of-Pore-Throat-Distribution-using-Tensorflow/archive/refs/heads/master.zip
+https://github.com/rai-project/linguist/archive/refs/heads/master.zip
+https://github.com/ThomasMGeo/Transform2020/archive/refs/heads/master.zip
+https://github.com/mariabravosegnini/Tutorial_Transform_2021/archive/refs/heads/main.zip
+https://github.com/rromanichib/romani-keyboard-iru/archive/refs/heads/master.zip
+https://github.com/ariewjy/petrophysics/archive/refs/heads/main.zip
+https://github.com/MosGeo/EFacies/archive/refs/heads/master.zip
+https://github.com/emblixt/blixt_rp/archive/refs/heads/dev.zip

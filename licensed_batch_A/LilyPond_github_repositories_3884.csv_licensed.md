@@ -1,0 +1,11 @@
+https://github.com/henriyulianto/solmisasi-lily/archive/refs/heads/master.zip
+https://github.com/Perlkonig/monte-thesis/archive/refs/heads/main.zip
+https://github.com/gilles-th/arranger.ly/archive/refs/heads/master.zip
+https://github.com/kreincke/harmonyli.ly/archive/refs/heads/master.zip
+https://github.com/agwilt/cellocombo-arrangements/archive/refs/heads/master.zip
+https://github.com/rwmpelstilzchen/ukulele/archive/refs/heads/master.zip
+https://github.com/LilyBin/lambda-compile/archive/refs/heads/master.zip
+https://github.com/bebox/scifidelity_orchestra/archive/refs/heads/master.zip
+https://github.com/loua19/counterpoint/archive/refs/heads/main.zip
+https://github.com/CPKCampbell/MPS/archive/refs/heads/master.zip
+https://github.com/FelixKrueger/reStrainingOrder/archive/refs/heads/master.zip

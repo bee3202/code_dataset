@@ -1,0 +1,11 @@
+https://github.com/fossabot/web.bejoistic/archive/refs/heads/v3.zip
+https://github.com/UrbanCCD-UChicago/plenario2/archive/refs/heads/master.zip
+https://github.com/lambdaclass/aleo_roulette/archive/refs/heads/main.zip
+https://github.com/cesium/store/archive/refs/heads/main.zip
+https://github.com/EarthEngineering/facetop_os/archive/refs/heads/master.zip
+https://github.com/uldza/nerves_system_zynq/archive/refs/heads/master.zip
+https://github.com/livebook-dev/livebook/archive/refs/heads/main.zip
+https://github.com/doomspork/hospital/archive/refs/heads/master.zip
+https://github.com/nettinho/game_livebook/archive/refs/heads/main.zip
+https://github.com/AdamssonJonathan/Farm/archive/refs/heads/main.zip
+https://github.com/plausible/analytics/archive/refs/heads/master.zip

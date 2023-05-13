@@ -1,0 +1,14 @@
+https://github.com/i3d/vim-jimbothemes/archive/refs/heads/master.zip
+https://github.com/ruohola/dotfiles/archive/refs/heads/master.zip
+https://github.com/arunsworld/golang-ssh/archive/refs/heads/main.zip
+https://github.com/zuliz95/xmonad-dotfiles/archive/refs/heads/master.zip
+https://github.com/Chicken-in-a-Can/the-executive-os/archive/refs/heads/main.zip
+https://github.com/MakinoharaShoko/CampusRecruitmentSystem/archive/refs/heads/main.zip
+https://github.com/bintech91/bintech-vimrc/archive/refs/heads/main.zip
+https://github.com/jseba/dotfiles/archive/refs/heads/trunk.zip
+https://github.com/n1c00o/dotfiles/archive/refs/heads/main.zip
+https://github.com/threkk/dotfiles/archive/refs/heads/master.zip
+https://github.com/gogorush/nvim-config/archive/refs/heads/master.zip
+https://github.com/WalkerGriggs/dotfiles/archive/refs/heads/master.zip
+https://github.com/wincent/wincent/archive/refs/heads/main.zip
+https://github.com/shahzadlone/lonefiles/archive/refs/heads/distro-arch-linux.zip

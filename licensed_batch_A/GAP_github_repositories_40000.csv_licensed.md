@@ -1,0 +1,13 @@
+https://github.com/hoxton314/Godot-First-Project/archive/refs/heads/main.zip
+https://github.com/PixelGamer6632/PixelOS-GD-Beta1/archive/refs/heads/main.zip
+https://github.com/torniers/SRGroups/archive/refs/heads/main.zip
+https://github.com/khairul169/24-hours/archive/refs/heads/master.zip
+https://github.com/emilymarquessalum/HeartBeat/archive/refs/heads/main.zip
+https://github.com/pelegb/cogcomp-curator/archive/refs/heads/master.zip
+https://github.com/railcore/configs/archive/refs/heads/master.zip
+https://github.com/povibi/CPB2-project/archive/refs/heads/main.zip
+https://github.com/PIWEEK/opengamewatch/archive/refs/heads/master.zip
+https://github.com/crazyStewie/GodotFancyLine2D/archive/refs/heads/main.zip
+https://github.com/martinbelcic/Space/archive/refs/heads/master.zip
+https://github.com/carlosecb/meeting_jam/archive/refs/heads/master.zip
+https://github.com/Colonizor48/Pong-But-it-gets-exponentially-faster/archive/refs/heads/main.zip

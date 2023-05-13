@@ -1,0 +1,15 @@
+https://github.com/xiaokexiang/MSIB360M_HD630_OPENCORE_HACKINTOSH/archive/refs/heads/main.zip
+https://github.com/SukkaW/Lenovo-Y9000X-Hackintosh/archive/refs/heads/master.zip
+https://github.com/SnowyMemory/Surface-Book-Hackintosh/archive/refs/heads/main.zip
+https://github.com/fabwu/ov5693/archive/refs/heads/master.zip
+https://github.com/zarifnahmed/T440p-Hackintosh/archive/refs/heads/master.zip
+https://github.com/korzhyk/OpenCore-Maximus-X-Code/archive/refs/heads/master.zip
+https://github.com/iChinxu/Acer-Aspire-4750-OpenCore/archive/refs/heads/master.zip
+https://github.com/AlisonPanisson/ASinMAS/archive/refs/heads/main.zip
+https://github.com/TzeKitKwok/HP-ProBook-440-G6-Hackintosh/archive/refs/heads/master.zip
+https://github.com/PJungkamp/yoga9-linux/archive/refs/heads/main.zip
+https://github.com/yasapurnama/Acer-E5-476G-Hackintosh/archive/refs/heads/main.zip
+https://github.com/alexpotter1/intel-nuc6i7kyk-opencore/archive/refs/heads/master.zip
+https://github.com/jacamo-lang/mapc2020/archive/refs/heads/master.zip
+https://github.com/madetech/structurizr-template/archive/refs/heads/main.zip
+https://github.com/littleOtterBOT/thaihackintoshfiles/archive/refs/heads/main.zip

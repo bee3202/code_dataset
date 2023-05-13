@@ -1,0 +1,12 @@
+https://github.com/maxslug/mikrotik_maxslug/archive/refs/heads/master.zip
+https://github.com/Lillecarl/ROS_Scripts/archive/refs/heads/master.zip
+https://github.com/Disassembler0/mikrotik-scripts/archive/refs/heads/master.zip
+https://github.com/ludekj/Mikrotik-blacklists/archive/refs/heads/main.zip
+https://github.com/cwi-swat/rebel/archive/refs/heads/master.zip
+https://github.com/cwi-swat/allealle/archive/refs/heads/master.zip
+https://github.com/mtrimarchi/MikrotikJSON4DatadogAPI/archive/refs/heads/master.zip
+https://github.com/joncutrer/perfectrestore/archive/refs/heads/master.zip
+https://github.com/typhon-project/typhonql/archive/refs/heads/master.zip
+https://github.com/gbudny93/RouterOS_Useful_Scripts/archive/refs/heads/master.zip
+https://github.com/usethesource/typepal/archive/refs/heads/master.zip
+https://github.com/googlehosts/hosts-ipv6/archive/refs/heads/master.zip

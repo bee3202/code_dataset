@@ -1,0 +1,9 @@
+https://github.com/Veridise/Vanguard/archive/refs/heads/main.zip
+https://github.com/sakjain92/ASFT/archive/refs/heads/master.zip
+https://github.com/EdgarLJH/EMSC4033-Project/archive/refs/heads/main.zip
+https://github.com/sungeunbae/mapplot/archive/refs/heads/main.zip
+https://github.com/xiacijie/omr-wala-linkage/archive/refs/heads/master.zip
+https://github.com/uasys/ACF-Coalescing-LLVM/archive/refs/heads/master.zip
+https://github.com/mfarhadi/CNNIOT/archive/refs/heads/master.zip
+https://github.com/jzstark/icfp-demo/archive/refs/heads/master.zip
+https://github.com/google/vandalir/archive/refs/heads/main.zip

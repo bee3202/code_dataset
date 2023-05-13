@@ -1,0 +1,12 @@
+https://github.com/CrisisTextLine/EnclaveData/archive/refs/heads/master.zip
+https://github.com/alessfg/nginx-api-gateway-demo/archive/refs/heads/main.zip
+https://github.com/microsoft/gps-csa-tech-stack/archive/refs/heads/main.zip
+https://github.com/awslabs/data-on-eks/archive/refs/heads/main.zip
+https://github.com/AmpereComputing/terraform-oci-ampere-a1/archive/refs/heads/main.zip
+https://github.com/bitgn/fdb-cloud-test/archive/refs/heads/master.zip
+https://github.com/heroku-examples/terraform-aws-vpc-peered/archive/refs/heads/master.zip
+https://github.com/mesosphere/dcos-kubernetes-quickstart/archive/refs/heads/master.zip
+https://github.com/cpfriend1721994/foudationdb-deploy-aws/archive/refs/heads/master.zip
+https://github.com/biodatageeks/tbd-infra/archive/refs/heads/master.zip
+https://github.com/Yvand/terraform-azurerm-sharepoint/archive/refs/heads/main.zip
+https://github.com/amancevice/terraform-aws-facebook-gcal-sync/archive/refs/heads/main.zip

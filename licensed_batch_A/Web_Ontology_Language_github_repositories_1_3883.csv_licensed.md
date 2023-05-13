@@ -1,0 +1,15 @@
+https://github.com/hexhex/dlplugin/archive/refs/heads/master.zip
+https://github.com/ttm/OT/archive/refs/heads/master.zip
+https://github.com/DiseaseOntology/SymptomOntology/archive/refs/heads/main.zip
+https://github.com/herculeshssj/unirio-ppgi-webservices/archive/refs/heads/master.zip
+https://github.com/freddybrasileiro/mlt-owl/archive/refs/heads/master.zip
+https://github.com/SiciliaHub/nonportaleregionesicilia/archive/refs/heads/gh-pages.zip
+https://github.com/omoju/SWEXSYS/archive/refs/heads/master.zip
+https://github.com/NCBI-Hackathons/Metadata_categorization/archive/refs/heads/master.zip
+https://github.com/LinkedEcon/LinkedEconomyOntology-ELOD/archive/refs/heads/master.zip
+https://github.com/jaydchan/tawny-sio/archive/refs/heads/master.zip
+https://github.com/otaviofff/restful-grounding/archive/refs/heads/master.zip
+https://github.com/sobolevnrm/npo/archive/refs/heads/master.zip
+https://github.com/nhcollier/biocaster-ontology/archive/refs/heads/master.zip
+https://github.com/protegeproject/xmlcatalog/archive/refs/heads/master.zip
+https://github.com/symetric-group/bionets-demo/archive/refs/heads/master.zip

@@ -1,0 +1,16 @@
+https://github.com/bruno-cadorette/TheLambdaReactor/archive/refs/heads/master.zip
+https://github.com/jeanCarloMachado/whatnext/archive/refs/heads/master.zip
+https://github.com/HadrienMP/mobtime/archive/refs/heads/main.zip
+https://github.com/justinlubin/lampora/archive/refs/heads/master.zip
+https://github.com/j-maas/unnecessarily-bad-design/archive/refs/heads/master.zip
+https://github.com/patchgirl/patchgirl/archive/refs/heads/master.zip
+https://github.com/red-door-collective/eviction-tracker/archive/refs/heads/main.zip
+https://github.com/TIP-Global-Health/eheza-app/archive/refs/heads/main.zip
+https://github.com/efried/elm-named-timers/archive/refs/heads/main.zip
+https://github.com/quickcleaner/privacy-policy/archive/refs/heads/master.zip
+https://github.com/elm-land/elm-land/archive/refs/heads/main.zip
+https://github.com/MartinSStewart/town-collab/archive/refs/heads/master.zip
+https://github.com/azimuttapp/azimutt/archive/refs/heads/main.zip
+https://github.com/maximoleinyk/atBox/archive/refs/heads/master.zip
+https://github.com/MTES-MCT/ecobalyse/archive/refs/heads/master.zip
+https://github.com/ryanmcdermott/trumpgen/archive/refs/heads/master.zip

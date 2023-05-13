@@ -1,0 +1,16 @@
+https://github.com/zaveleous/abap2xlsx/archive/refs/heads/master.zip
+https://github.com/abap2xlsx/abap2xlsx/archive/refs/heads/main.zip
+https://github.com/NonGrande/https-github.com-ivanfemia-abap2xlsx/archive/refs/heads/master.zip
+https://github.com/IN22382/Abapgit_Arjun/archive/refs/heads/master.zip
+https://github.com/grahamrobbo/teched16_example/archive/refs/heads/master.zip
+https://github.com/dbalser/adap2xlsx-review/archive/refs/heads/master.zip
+https://github.com/abap-openapi/generated-github/archive/refs/heads/main.zip
+https://github.com/abap-observability-tools/abap-log-exporter/archive/refs/heads/main.zip
+https://github.com/basisteam-io/edu_sap_in_cloud_rus/archive/refs/heads/main.zip
+https://github.com/luizfiuza/ABAPGitExcel/archive/refs/heads/master.zip
+https://github.com/paratemper/SAP/archive/refs/heads/hvam/unit0511.zip
+https://github.com/ambkps/abap/archive/refs/heads/master.zip
+https://github.com/grillo8585/abap2xlsx/archive/refs/heads/master.zip
+https://github.com/pmallikarjun/Abap2xls/archive/refs/heads/master.zip
+https://github.com/sandraros/git-sandbox-abap2xlsx/archive/refs/heads/master2.zip
+https://github.com/eduardo-winter/abap2xlsx/archive/refs/heads/main.zip

@@ -1,0 +1,15 @@
+https://github.com/AlexHoratio/super-displacement/archive/refs/heads/master.zip
+https://github.com/syanenko/Fragile-Earth/archive/refs/heads/main.zip
+https://github.com/metacris93/Graficos-por-Computadora-II-parcial/archive/refs/heads/master.zip
+https://github.com/spodzone/the-lurgy/archive/refs/heads/master.zip
+https://github.com/future521u/capstone/archive/refs/heads/master.zip
+https://github.com/opensourceway/pov-ray-demo/archive/refs/heads/master.zip
+https://github.com/MauricioAlgalan/PovrayCSG/archive/refs/heads/master.zip
+https://github.com/rienafairefr/python-ldraw/archive/refs/heads/master.zip
+https://github.com/Stuchbery/LED_Driver_Eagle_CAD/archive/refs/heads/master.zip
+https://github.com/t-o-k/POV-Ray-icosahedron/archive/refs/heads/main.zip
+https://github.com/khayyam90/povray-creations/archive/refs/heads/master.zip
+https://github.com/lejonmcgowan/JohnnyTracer1/archive/refs/heads/master.zip
+https://github.com/davispuh/gear-emu/archive/refs/heads/master.zip
+https://github.com/kernkonzept/fiasco/archive/refs/heads/master.zip
+https://github.com/odahoda/asteroids/archive/refs/heads/main.zip

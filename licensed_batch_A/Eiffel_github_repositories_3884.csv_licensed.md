@@ -1,0 +1,9 @@
+https://github.com/NanoSim/SOFT5/archive/refs/heads/master.zip
+https://github.com/jvelilla/EiffelDesignPatterns/archive/refs/heads/master.zip
+https://github.com/nmaguirre/eiffel-subtitle-converter/archive/refs/heads/master.zip
+https://github.com/finnianr/Eiffel-Loop-safe/archive/refs/heads/master.zip
+https://github.com/Eiffel-World/safe-lib/archive/refs/heads/master.zip
+https://github.com/lzzzy/decreasoner4j/archive/refs/heads/master.zip
+https://github.com/ssh24/EECS4312-Project/archive/refs/heads/master.zip
+https://github.com/berenddeboer/eposix/archive/refs/heads/master.zip
+https://github.com/spazzyt/Eiffel_Markup/archive/refs/heads/master.zip

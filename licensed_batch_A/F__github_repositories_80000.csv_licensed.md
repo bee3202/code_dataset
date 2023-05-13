@@ -1,0 +1,9 @@
+https://github.com/apantelopoulos/Placement_ISSIE_Verilog/archive/refs/heads/master.zip
+https://github.com/LazuliKao/CoreClrPatch/archive/refs/heads/main.zip
+https://github.com/Jodavs/RayTracer/archive/refs/heads/master.zip
+https://github.com/Happypig375/SMPCPS-Pedometer/archive/refs/heads/master.zip
+https://github.com/inputfalken/tools/archive/refs/heads/master.zip
+https://github.com/lefthandedgoat/canopy/archive/refs/heads/master.zip
+https://github.com/VerbalExpressions/FSharpVerbalExpressions/archive/refs/heads/master.zip
+https://github.com/dsyme/Coconut/archive/refs/heads/master.zip
+https://github.com/plotly/Plotly.NET/archive/refs/heads/dev.zip

@@ -1,0 +1,12 @@
+https://github.com/theiagen/public_health_bioinformatics/archive/refs/heads/main.zip
+https://github.com/gatk-workflows/gatk4-somatic-snvs-indels/archive/refs/heads/master.zip
+https://github.com/gatk-workflows/gatk4-data-processing/archive/refs/heads/master.zip
+https://github.com/babelomics/MIGNON/archive/refs/heads/master.zip
+https://github.com/theiagen/public_health_bacterial_genomics/archive/refs/heads/main.zip
+https://github.com/DataBiosphere/terra-axon-examples/archive/refs/heads/main.zip
+https://github.com/gatk-workflows/gatk4-germline-snps-indels/archive/refs/heads/master.zip
+https://github.com/broadinstitute/palantir-workflows/archive/refs/heads/main.zip
+https://github.com/biowdl/somatic-variantcalling/archive/refs/heads/develop.zip
+https://github.com/biowdl/tasks/archive/refs/heads/develop.zip
+https://github.com/vanallenlab/facets/archive/refs/heads/master.zip
+https://github.com/openwdl/wdl-docs/archive/refs/heads/main.zip

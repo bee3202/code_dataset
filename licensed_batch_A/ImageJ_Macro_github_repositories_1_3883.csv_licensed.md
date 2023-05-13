@@ -1,0 +1,13 @@
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ImageJ/archive/refs/heads/main.zip
+https://github.com/alemoro/SynJ/archive/refs/heads/master.zip
+https://github.com/UTMB-Luisi/Spatial-Temporal-Speckle-Variance-OCTA/archive/refs/heads/main.zip
+https://github.com/ArneVancleef/ImageJ-Particle-detection-and-analysis/archive/refs/heads/main.zip
+https://github.com/CamachoDejay/Teaching-ImageJ-FIJI/archive/refs/heads/main.zip
+https://github.com/kwolbachia/Visualization_toolset/archive/refs/heads/main.zip
+https://github.com/DaleMoulding/Fiji-Macros/archive/refs/heads/master.zip
+https://github.com/SebastienTs/MosaicExplorerJ/archive/refs/heads/master.zip
+https://github.com/kwolbachia/Imagej-macro-addiction/archive/refs/heads/main.zip
+https://github.com/evaherbst/Trabecular_Segmentation_Avizo/archive/refs/heads/main.zip
+https://github.com/DaleMoulding/SurfacePeeler/archive/refs/heads/main.zip
+https://github.com/ElisabethKugler/ZFVascularQuantification/archive/refs/heads/master.zip
+https://github.com/mauroccm/imgAnalysis/archive/refs/heads/master.zip

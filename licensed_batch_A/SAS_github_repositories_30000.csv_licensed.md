@@ -1,0 +1,10 @@
+https://github.com/Jacob-Madsen/Final-project/archive/refs/heads/main.zip
+https://github.com/sassoftware/clinical-standards-toolkit/archive/refs/heads/main.zip
+https://github.com/kpwhri/HCSRN-VDW-to-OHDSI-OMOP/archive/refs/heads/master.zip
+https://github.com/ljia-ch/data_engineering_capstone/archive/refs/heads/main.zip
+https://github.com/paulvanmol/pg1v2/archive/refs/heads/master.zip
+https://github.com/nnh/ptosh-format/archive/refs/heads/master.zip
+https://github.com/sascommunities/sas-dummy-blog/archive/refs/heads/master.zip
+https://github.com/vijaypattar28/Data_Engineering_Capstone/archive/refs/heads/main.zip
+https://github.com/peach07up/stat440/archive/refs/heads/master.zip
+https://github.com/lbelzile/modstat/archive/refs/heads/master.zip

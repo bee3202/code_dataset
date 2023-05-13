@@ -1,0 +1,14 @@
+https://github.com/DizzyduckAR/Bot-It-Pokemon-masters/archive/refs/heads/master.zip
+https://github.com/k-ayaki/benizara/archive/refs/heads/master.zip
+https://github.com/mistermuki/SAMPAHK/archive/refs/heads/master.zip
+https://github.com/rtnguyen95/VideoGameKeystrokeScripts/archive/refs/heads/main.zip
+https://github.com/dietzste/ProTest/archive/refs/heads/master.zip
+https://github.com/ramchandra-kc/xmlFormatter/archive/refs/heads/master.zip
+https://github.com/Pyrree/PokeMMO-Utility/archive/refs/heads/master.zip
+https://github.com/Tomshiii/ahk/archive/refs/heads/main.zip
+https://github.com/Visionary1/LodaPlayer/archive/refs/heads/master.zip
+https://github.com/ericreeves/WindowsBox/archive/refs/heads/master.zip
+https://github.com/evanclue/ddr-picker/archive/refs/heads/main.zip
+https://github.com/Amourspirit/Mini-Framework/archive/refs/heads/master.zip
+https://github.com/g-l-i-t-c-h-o-r-s-e/Datamosh-Den/archive/refs/heads/main-build.zip
+https://github.com/Kaidrick/AshArmsHelper/archive/refs/heads/master.zip

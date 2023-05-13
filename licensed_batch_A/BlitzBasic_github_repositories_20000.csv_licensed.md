@@ -1,0 +1,11 @@
+https://github.com/RealDigitalMedia/meta-openembedded/archive/refs/heads/rdm.zip
+https://github.com/loulou2000/oe-alliance-core/archive/refs/heads/master.zip
+https://github.com/Sid3y1/meta-openembedded/archive/refs/heads/master.zip
+https://github.com/anguslees/boxfactory/archive/refs/heads/master.zip
+https://github.com/pavithvishnu/meta-imx8dx/archive/refs/heads/master.zip
+https://github.com/nicoboss/smiley/archive/refs/heads/master.zip
+https://github.com/VNCAutomotive/yocto_imx6sabreauto_meta-openembedded/archive/refs/heads/phoenix.zip
+https://github.com/MOA-2011/openpli3.0/archive/refs/heads/master.zip
+https://github.com/nojgosu/meta-xenomai/archive/refs/heads/master.zip
+https://github.com/elendiastarman/hyperbolic-geometry/archive/refs/heads/master.zip
+https://github.com/vektordex/beyond-frontiers/archive/refs/heads/main.zip

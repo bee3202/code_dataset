@@ -1,0 +1,14 @@
+https://github.com/LorinRicker/VMScomfiles/archive/refs/heads/master.zip
+https://github.com/UCREL/HEC/archive/refs/heads/main.zip
+https://github.com/scrapy/protego/archive/refs/heads/master.zip
+https://github.com/linnaeushuang/pensieve-pytorch/archive/refs/heads/master.zip
+https://github.com/RedHatDemos/RHS-Path_2_HANA/archive/refs/heads/master.zip
+https://github.com/rkruk/Ubuntu-Nginx-PHP5-fpm-Varnish/archive/refs/heads/master.zip
+https://github.com/Viralmaniar/Pentest-Stuff/archive/refs/heads/master.zip
+https://github.com/EkeLachin/GtaSaHileler/archive/refs/heads/main.zip
+https://github.com/godka/Pensieve-SAC/archive/refs/heads/master.zip
+https://github.com/jenniening/Frag20_prepare/archive/refs/heads/master.zip
+https://github.com/jimmyppi/searchcmd/archive/refs/heads/master.zip
+https://github.com/deathaxe/sublime-s840d/archive/refs/heads/master.zip
+https://github.com/jmdugan/blocklists/archive/refs/heads/master.zip
+https://github.com/alphaHeavy/sitemap/archive/refs/heads/master.zip

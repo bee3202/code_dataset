@@ -1,0 +1,10 @@
+https://github.com/mingyue-gao/vim-settings/archive/refs/heads/master.zip
+https://github.com/RizkyEmkka/dotfiles/archive/refs/heads/master.zip
+https://github.com/EPCCed/hpc-intro/archive/refs/heads/gh-pages.zip
+https://github.com/ofisette/hpc-intro-plato/archive/refs/heads/gh-pages.zip
+https://github.com/Sabryr/hpc-intro-colossus/archive/refs/heads/gh-pages.zip
+https://github.com/mikerenfro/workshop-2021-09-01/archive/refs/heads/gh-pages.zip
+https://github.com/erik-h/dotfiles/archive/refs/heads/master.zip
+https://github.com/EPCCed/hpc-intro-2020-06-30/archive/refs/heads/gh-pages.zip
+https://github.com/EPCCed/hpc-intro-2021-02-20/archive/refs/heads/gh-pages.zip
+https://github.com/grownops/grown-ops/archive/refs/heads/master.zip

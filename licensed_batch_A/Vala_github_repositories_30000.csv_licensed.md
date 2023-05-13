@@ -1,0 +1,16 @@
+https://github.com/GNOME/geary/archive/refs/heads/main.zip
+https://github.com/seanpm2001/SeansLifeArchive_Extras_BotanyProject/archive/refs/heads/main.zip
+https://github.com/p12tic/awn-extras/archive/refs/heads/master.zip
+https://github.com/SrWither/KomorebiBSD/archive/refs/heads/main.zip
+https://github.com/calo001/fondo/archive/refs/heads/master.zip
+https://github.com/ExpidusOS/genesis/archive/refs/heads/master.zip
+https://github.com/agrover/deja-dup/archive/refs/heads/work.zip
+https://github.com/sailfishos-mirror/vala/archive/refs/heads/main.zip
+https://github.com/mirkobrombin/xfce4-rocker-plugin/archive/refs/heads/master.zip
+https://github.com/teejee2008/selene/archive/refs/heads/master.zip
+https://github.com/seanpm2001/SeansLifeArchive_Images_growtopia/archive/refs/heads/master.zip
+https://github.com/nick92/Enso-OS/archive/refs/heads/master.zip
+https://github.com/UbuntuBudgie/budgie-extras/archive/refs/heads/master.zip
+https://github.com/martyr-deepin/deepin-terminal-gtk/archive/refs/heads/master.zip
+https://github.com/nahuelwexd/Replay/archive/refs/heads/main.zip
+https://github.com/khurushbengali/wallification/archive/refs/heads/master.zip

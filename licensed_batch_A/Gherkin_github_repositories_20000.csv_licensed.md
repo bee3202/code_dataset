@@ -1,0 +1,14 @@
+https://github.com/peterquiel/slides/archive/refs/heads/master.zip
+https://github.com/Euraxluo/TEXT-AM-GCN/archive/refs/heads/main.zip
+https://github.com/bdewey/git-stack/archive/refs/heads/master.zip
+https://github.com/PhilippKaulich/MSTopDiff/archive/refs/heads/main.zip
+https://github.com/VNG-Realisatie/Haal-Centraal-BRK-bevragen/archive/refs/heads/master.zip
+https://github.com/algorand/algorand-sdk-testing/archive/refs/heads/master.zip
+https://github.com/EliadeBradisteanu/PorscheAT/archive/refs/heads/master.zip
+https://github.com/abhishekshiju/owncloud/archive/refs/heads/master.zip
+https://github.com/Originate/space-tweet/archive/refs/heads/master.zip
+https://github.com/demo4echo/Echoe2eFunctionalCertification/archive/refs/heads/master.zip
+https://github.com/annaverpcs/assessment-control-ACF011023/archive/refs/heads/main.zip
+https://github.com/f103a26/lustin-sticker-pack/archive/refs/heads/master.zip
+https://github.com/StartupsPoleEmploi/trefle/archive/refs/heads/master.zip
+https://github.com/sdkman/sdkman-cli/archive/refs/heads/master.zip

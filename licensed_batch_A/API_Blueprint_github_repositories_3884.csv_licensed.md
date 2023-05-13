@@ -1,0 +1,9 @@
+https://github.com/mattruston/idb/archive/refs/heads/master.zip
+https://github.com/LucyAnne98/ymca_membership_payments/archive/refs/heads/master.zip
+https://github.com/opencarecc/opencare-data-documentation/archive/refs/heads/master.zip
+https://github.com/conwetlab/FIWARE-CKAN-Extensions/archive/refs/heads/master.zip
+https://github.com/FIWARE-GEs/ckan-extensions/archive/refs/heads/master.zip
+https://github.com/FlySkyPie/the-key-of-huanche-recipe/archive/refs/heads/main.zip
+https://github.com/Kurento/doc-fiware-readthedocs/archive/refs/heads/master.zip
+https://github.com/nhscc/problem-statements/archive/refs/heads/main.zip
+https://github.com/corporacion-verde/cverde/archive/refs/heads/master.zip

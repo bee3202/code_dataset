@@ -1,0 +1,16 @@
+https://github.com/bsidegames/chainmonsters-smart-contracts/archive/refs/heads/master.zip
+https://github.com/portto/flow-transactions/archive/refs/heads/main.zip
+https://github.com/crash13override/flovatar/archive/refs/heads/main.zip
+https://github.com/onflow/flow-ft/archive/refs/heads/master.zip
+https://github.com/onflow/walletless-arcade-example/archive/refs/heads/main.zip
+https://github.com/onflow/flow-nft/archive/refs/heads/master.zip
+https://github.com/Metaverse-Football-League/mfl-smart-contracts/archive/refs/heads/master.zip
+https://github.com/bjartek/flow-koinly-export/archive/refs/heads/main.zip
+https://github.com/onflow/nft-storefront/archive/refs/heads/main.zip
+https://github.com/Honest0/flow-nft/archive/refs/heads/master.zip
+https://github.com/DapperCollectives/VESSEL/archive/refs/heads/main.zip
+https://github.com/btspoony/floid/archive/refs/heads/main.zip
+https://github.com/portto/bloctoswap-contracts/archive/refs/heads/master.zip
+https://github.com/the-cold-dark/ColdCore/archive/refs/heads/master.zip
+https://github.com/Flowtyio/lost-and-found/archive/refs/heads/main.zip
+https://github.com/rarible/flow-sdk/archive/refs/heads/master.zip

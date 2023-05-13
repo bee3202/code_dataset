@@ -1,0 +1,16 @@
+https://github.com/swirkes/lucidgloves_Wi-Fi_collider/archive/refs/heads/main.zip
+https://github.com/theps07/Sampler-Granular-LiveCoding/archive/refs/heads/main.zip
+https://github.com/maxwellmattryan/aet-339/archive/refs/heads/master.zip
+https://github.com/tedthetrumpet/supercollider/archive/refs/heads/master.zip
+https://github.com/v1a1l1e1/sounds/archive/refs/heads/master.zip
+https://github.com/schollz/workshops/archive/refs/heads/main.zip
+https://github.com/terrymullett/sc-systems/archive/refs/heads/main.zip
+https://github.com/elosine/cycles/archive/refs/heads/master.zip
+https://github.com/narcode/antigona_gonzalez/archive/refs/heads/master.zip
+https://github.com/Josemiguelfernandez/antescollider/archive/refs/heads/master.zip
+https://github.com/colin-axner/SuperClean-code/archive/refs/heads/main.zip
+https://github.com/JasonSKK/augmented-floor/archive/refs/heads/main.zip
+https://github.com/Marv934/Air-Quality-Data-Sonification/archive/refs/heads/main.zip
+https://github.com/bitgraves/norns-sandbox/archive/refs/heads/master.zip
+https://github.com/hdlam91/ChirpBoidWatcher/archive/refs/heads/master.zip
+https://github.com/elosine/sevensliders7buttons/archive/refs/heads/master.zip

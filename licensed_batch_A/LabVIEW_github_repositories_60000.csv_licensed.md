@@ -1,0 +1,9 @@
+https://github.com/NI-Powertrain-Controls/ECS/archive/refs/heads/master.zip
+https://github.com/ni/niveristand-engine-simulation-toolkit-custom-device/archive/refs/heads/main.zip
+https://github.com/nlhnt/USRP-Dummy-Streaming/archive/refs/heads/master.zip
+https://github.com/levylabpitt/graph_utilities/archive/refs/heads/main.zip
+https://github.com/frc2468/realsense-offseason/archive/refs/heads/master.zip
+https://github.com/NIVeriStandAdd-Ons/FPGA-Custom-Device/archive/refs/heads/master.zip
+https://github.com/chericksgit/OCV/archive/refs/heads/main.zip
+https://github.com/sklykov/multi-hypo/archive/refs/heads/master.zip
+https://github.com/heshamouda/autonomous_car/archive/refs/heads/main.zip

@@ -1,0 +1,14 @@
+https://github.com/VBAndCs/Vazor/archive/refs/heads/master.zip
+https://github.com/tfbninja/DataGenerator/archive/refs/heads/master.zip
+https://github.com/brunalopesgois/visual-basic-lanchonete/archive/refs/heads/master.zip
+https://github.com/tobesch/Sandbox_Topology/archive/refs/heads/master.zip
+https://github.com/morphx666/x8086NetEmu/archive/refs/heads/master.zip
+https://github.com/DrAliRagab/Movies-Icon-Changer/archive/refs/heads/master.zip
+https://github.com/bluemodel/BlueM.Opt/archive/refs/heads/master.zip
+https://github.com/ArizagaJose/SLTA/archive/refs/heads/main.zip
+https://github.com/guo40020/WalkmanManager/archive/refs/heads/master.zip
+https://github.com/RWTH-EBC/AixOCAT/archive/refs/heads/develop.zip
+https://github.com/DevExpress-Examples/web-dashboard-html-js-mvc-application/archive/refs/heads/22.2.2+.zip
+https://github.com/Hakkuraifu/Hakkuraifu-Repacker/archive/refs/heads/main.zip
+https://github.com/notkohlrexo/RedEye-Ransomware/archive/refs/heads/master.zip
+https://github.com/AUSL-ReggioEmilia/DorsaleInteroperabilePA/archive/refs/heads/master.zip

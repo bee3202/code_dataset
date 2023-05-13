@@ -1,0 +1,10 @@
+https://github.com/tangentstorm/jprez/archive/refs/heads/main.zip
+https://github.com/vmchale/perceptual-hash/archive/refs/heads/master.zip
+https://github.com/PlanetAPL/j-language/archive/refs/heads/master.zip
+https://github.com/jip/mt/archive/refs/heads/master.zip
+https://github.com/jsoftware/labs_labs/archive/refs/heads/master.zip
+https://github.com/seanpm2001/JJJJJJJJJJJJJJJJJJJJ/archive/refs/heads/JJJJJJJJJJJJJJJJJJJJ.zip
+https://github.com/interregna/JArrow/archive/refs/heads/main.zip
+https://github.com/tangentstorm/j-kvm/archive/refs/heads/work.zip
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_J/archive/refs/heads/main.zip
+https://github.com/bilam/ide_jnet/archive/refs/heads/master.zip

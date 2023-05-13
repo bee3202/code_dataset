@@ -1,0 +1,12 @@
+https://github.com/frc2053/team2053.org/archive/refs/heads/main.zip
+https://github.com/screendriver/echooff.dev/archive/refs/heads/main.zip
+https://github.com/nondominant/astro-first-look/archive/refs/heads/main.zip
+https://github.com/mattppal/blog/archive/refs/heads/main.zip
+https://github.com/Uvacoder/port-swift502/archive/refs/heads/main.zip
+https://github.com/stealingyourserver/personal-site/archive/refs/heads/production.zip
+https://github.com/Elragency/laucandrique/archive/refs/heads/master.zip
+https://github.com/NomuraKohei/underwater-image-enhancement.github.io/archive/refs/heads/master.zip
+https://github.com/Teach-Jenn-Tech/website/archive/refs/heads/main.zip
+https://github.com/UndergraduateArtificialIntelligenceClub/website/archive/refs/heads/master.zip
+https://github.com/iambulmaro/pixels/archive/refs/heads/main.zip
+https://github.com/TheBotlyNoob/thebotlynoob.github.io/archive/refs/heads/main.zip

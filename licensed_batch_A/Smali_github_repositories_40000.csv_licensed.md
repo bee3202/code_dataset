@@ -1,0 +1,13 @@
+https://github.com/geekymahar/AhMyth/archive/refs/heads/master.zip
+https://github.com/qq351188606/azyk/archive/refs/heads/master.zip
+https://github.com/MineRobber9000/HotDonut/archive/refs/heads/master.zip
+https://github.com/Kecatoca/AhMyth-Rat-Android/archive/refs/heads/master.zip
+https://github.com/SurveiI/MDKP/archive/refs/heads/master.zip
+https://github.com/liupeng0606/xroot/archive/refs/heads/master.zip
+https://github.com/th3-X/AhMyth-Beta-Version/archive/refs/heads/master.zip
+https://github.com/franck2016/000/archive/refs/heads/master.zip
+https://github.com/khlinux/ahmyth/archive/refs/heads/master.zip
+https://github.com/ApostolWario/AhMyth-Android-RAT/archive/refs/heads/master.zip
+https://github.com/Ma5onic/AhMyth-Android-RAT/archive/refs/heads/master.zip
+https://github.com/dineshkumarc987/AhMyth-Android-RAT/archive/refs/heads/master.zip
+https://github.com/PleXone2019/AhMyth-Android-RAT/archive/refs/heads/master.zip

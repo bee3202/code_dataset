@@ -1,0 +1,14 @@
+https://github.com/coderonmars/Archer_C7v2_Sniffer_image/archive/refs/heads/master.zip
+https://github.com/hilch/br-plc-as-webserver/archive/refs/heads/master.zip
+https://github.com/ManticoreProject/manticore/archive/refs/heads/trunk.zip
+https://github.com/iOS-Privacy/iOSPrivacy.com/archive/refs/heads/main.zip
+https://github.com/embecosm/sail-to-cgen/archive/refs/heads/master.zip
+https://github.com/4IceG/Modem-extras/archive/refs/heads/main.zip
+https://github.com/iraikov/9ML-toolkit/archive/refs/heads/master.zip
+https://github.com/iwzoo/lede_x86/archive/refs/heads/master.zip
+https://github.com/jinfeijie/openwrt-pcduino/archive/refs/heads/master.zip
+https://github.com/jkbhagatio/ProgrammingLanguages/archive/refs/heads/master.zip
+https://github.com/binghe/informatica-public/archive/refs/heads/master.zip
+https://github.com/gabornemeth/MoveSharp/archive/refs/heads/master.zip
+https://github.com/ioerror/tails-verifier/archive/refs/heads/master.zip
+https://github.com/yangzuo0621/learn-programming-languages/archive/refs/heads/main.zip

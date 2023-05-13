@@ -1,0 +1,15 @@
+https://github.com/hugoinaction/GitHubPagesRebuild/archive/refs/heads/main.zip
+https://github.com/Etersoft/daas/archive/refs/heads/master.zip
+https://github.com/hugoinaction/GitHubPagesNpm/archive/refs/heads/main.zip
+https://github.com/jaylaprade/prxmx-win-ans-terraform/archive/refs/heads/master.zip
+https://github.com/qiushaocloud/k8s-containerd-install/archive/refs/heads/master.zip
+https://github.com/Artawower/second-brain/archive/refs/heads/master.zip
+https://github.com/solo-io/gloo-install/archive/refs/heads/master.zip
+https://github.com/yijianduanlang/csshop/archive/refs/heads/master.zip
+https://github.com/TerranceWolfe/PHP-Nuke-Titanium-v3.0.0-Themes/archive/refs/heads/master.zip
+https://github.com/oxid-eshop-gpl/wave-theme/archive/refs/heads/add-autocomplete-attributes.zip
+https://github.com/PrestaShop/classic-theme/archive/refs/heads/develop.zip
+https://github.com/finogeeks/FinAppletGDMapSDK/archive/refs/heads/master.zip
+https://github.com/opentoonz/opentoonz_sample/archive/refs/heads/master.zip
+https://github.com/rdbox-intec/rdbox_app_market/archive/refs/heads/master.zip
+https://github.com/hugoinaction/GitHubPagesStore/archive/refs/heads/main.zip

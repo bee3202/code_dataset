@@ -1,0 +1,10 @@
+https://github.com/annenkov/coq.sprop/archive/refs/heads/master.zip
+https://github.com/Kakadu/lablqml/archive/refs/heads/master.zip
+https://github.com/shtevie/OCaml-dating/archive/refs/heads/main.zip
+https://github.com/vincenzoml/topochecker/archive/refs/heads/master.zip
+https://github.com/jzstark/inception_container/archive/refs/heads/master.zip
+https://github.com/nickgian/ProbNV/archive/refs/heads/master.zip
+https://github.com/ocsigen/eliom/archive/refs/heads/master.zip
+https://github.com/UnixJunkie/menhir/archive/refs/heads/master.zip
+https://github.com/patoline/patoline/archive/refs/heads/master.zip
+https://github.com/mathiasbourgoin/SPOC/archive/refs/heads/master.zip

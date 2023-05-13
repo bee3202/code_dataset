@@ -1,0 +1,17 @@
+https://github.com/DEV-Catborisovv/SAMP-Malinovka-DM-Source/archive/refs/heads/main.zip
+https://github.com/alghtryer/aimbotz/archive/refs/heads/master.zip
+https://github.com/bilalyilmaz77/AmxModx-Plugins/archive/refs/heads/main.zip
+https://github.com/AMXXxD/Paczka-JailBreak/archive/refs/heads/main.zip
+https://github.com/wahitftry/Central-West-Java/archive/refs/heads/main.zip
+https://github.com/sharax99/Copchase-Gamemode-Samp/archive/refs/heads/main.zip
+https://github.com/odegay/samp-server/archive/refs/heads/master.zip
+https://github.com/SrMai/ServidorZombies/archive/refs/heads/main.zip
+https://github.com/montymahato/samp-mumbai-rp/archive/refs/heads/master.zip
+https://github.com/h2othedev/swat-vs-terrorists-samp/archive/refs/heads/main.zip
+https://github.com/racespeedtime/pawn-server/archive/refs/heads/main.zip
+https://github.com/xizhen2/PelotudosRP/archive/refs/heads/main.zip
+https://github.com/ollymonger/samp-rp/archive/refs/heads/master.zip
+https://github.com/joao27gamer/PhantomRP/archive/refs/heads/master.zip
+https://github.com/kapiziak/diamondtruck/archive/refs/heads/master.zip
+https://github.com/socket77455/Fu4CWM9Ai7/archive/refs/heads/master.zip
+https://github.com/Arose-Niazi/Exp-Gaming-Cops-And-Robbers/archive/refs/heads/master.zip

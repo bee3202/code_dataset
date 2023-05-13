@@ -1,0 +1,12 @@
+https://github.com/benjohnemmett/RokuGame2D/archive/refs/heads/master.zip
+https://github.com/candry7731/jellyfin-roku-unstable/archive/refs/heads/main.zip
+https://github.com/ubuntupodcast/roku-channel/archive/refs/heads/master.zip
+https://github.com/henningSaul/tagesschau-on-roku/archive/refs/heads/master.zip
+https://github.com/trystant/Roku/archive/refs/heads/master.zip
+https://github.com/plumbis/roku-screensaver/archive/refs/heads/master.zip
+https://github.com/MediaBrowser/Emby.Roku/archive/refs/heads/master.zip
+https://github.com/jellyfin-archive/jellyfin-roku-original/archive/refs/heads/master.zip
+https://github.com/chlorm-forks/Emby.Roku/archive/refs/heads/master.zip
+https://github.com/zype/zype-roku-scenegraph/archive/refs/heads/master.zip
+https://github.com/jellyfin/jellyfin-roku/archive/refs/heads/unstable.zip
+https://github.com/MylesMuda/Roku-Training/archive/refs/heads/master.zip

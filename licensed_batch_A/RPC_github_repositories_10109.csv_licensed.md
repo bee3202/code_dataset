@@ -1,0 +1,11 @@
+https://github.com/BlockySurvival/mobs_bls/archive/refs/heads/master.zip
+https://github.com/fightTTT/myproject/archive/refs/heads/master.zip
+https://github.com/Minitte/comp4995-assignment/archive/refs/heads/master.zip
+https://github.com/Hollypro/Mech_415/archive/refs/heads/master.zip
+https://github.com/newpolaris/WaterPortal2/archive/refs/heads/master.zip
+https://github.com/demonixis/TheLostMaze-XNA/archive/refs/heads/master.zip
+https://github.com/Light0617/3D_UIUX/archive/refs/heads/master.zip
+https://github.com/bezzad/Room-3D/archive/refs/heads/master.zip
+https://github.com/magicien/MMDSceneKit/archive/refs/heads/master.zip
+https://github.com/DioMuller/directx-shaders/archive/refs/heads/master.zip
+https://github.com/MatthewSmit/COSC422/archive/refs/heads/master.zip

@@ -1,0 +1,15 @@
+https://github.com/TaskeHAMANO/GRiD-in-cwl/archive/refs/heads/master.zip
+https://github.com/msk-access/access_qc_generation/archive/refs/heads/master.zip
+https://github.com/EOSC-LOFAR/prefactor-cwl/archive/refs/heads/master.zip
+https://github.com/NCBI-Hackathons/BLAST-Pipelines-and-FAIR/archive/refs/heads/master.zip
+https://github.com/hpobio-lab/viral-analysis/archive/refs/heads/master.zip
+https://github.com/biosciencedbc/jga-analysis/archive/refs/heads/main.zip
+https://github.com/UMCUGenetics/CWL-CommandLineTools/archive/refs/heads/master.zip
+https://github.com/MG-RAST/pipeline/archive/refs/heads/master.zip
+https://github.com/ding-lab/TinJasmine/archive/refs/heads/master.zip
+https://github.com/PMCC-BioinformaticsCore/janis-pipelines/archive/refs/heads/master.zip
+https://github.com/albertcodes/albertcodes/archive/refs/heads/main.zip
+https://github.com/ResearchObject/runcrate/archive/refs/heads/main.zip
+https://github.com/rawgene/cwl/archive/refs/heads/master.zip
+https://github.com/suetake-ascade/test-workflow/archive/refs/heads/master.zip
+https://github.com/rabix/bunny/archive/refs/heads/master.zip

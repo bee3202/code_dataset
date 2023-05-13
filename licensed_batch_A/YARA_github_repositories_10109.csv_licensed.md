@@ -1,0 +1,15 @@
+https://github.com/JusticeRage/Manalyze/archive/refs/heads/master.zip
+https://github.com/EQuiw/2020-evasion-competition/archive/refs/heads/main.zip
+https://github.com/VinCSS-Public-Projects/VinCSS-RE-Tools-Ultilities/archive/refs/heads/main.zip
+https://github.com/Zelvar/VSB-DP/archive/refs/heads/master.zip
+https://github.com/alankrit29/loki-scanner/archive/refs/heads/master.zip
+https://github.com/cristianzsh/freki/archive/refs/heads/master.zip
+https://github.com/rednaga/APKiD/archive/refs/heads/master.zip
+https://github.com/progressionnetwork/vtb_handler/archive/refs/heads/main.zip
+https://github.com/vulnerabivoro/filtered-yara-rules/archive/refs/heads/master.zip
+https://github.com/kweatherman/yara4ida/archive/refs/heads/master.zip
+https://github.com/Razieljd/frekimod/archive/refs/heads/main.zip
+https://github.com/lopqto/DetectionRules/archive/refs/heads/master.zip
+https://github.com/RoomaSec/RmTools/archive/refs/heads/main.zip
+https://github.com/IronWort/signatures/archive/refs/heads/main.zip
+https://github.com/progressionnetwork/vtb_handler_full/archive/refs/heads/main.zip

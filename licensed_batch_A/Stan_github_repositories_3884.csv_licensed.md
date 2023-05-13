@@ -1,0 +1,10 @@
+https://github.com/mvidela31/BinaryStars/archive/refs/heads/main.zip
+https://github.com/huffyhenry/shot-generation/archive/refs/heads/develop.zip
+https://github.com/belayb/BayesGmed/archive/refs/heads/main.zip
+https://github.com/ConnorDonegan/Stan-IAR/archive/refs/heads/main.zip
+https://github.com/ivan-bocharov/stan-vscode/archive/refs/heads/master.zip
+https://github.com/likeajumprope/Bayesian_normative_models/archive/refs/heads/master.zip
+https://github.com/ebuhle/CJStan/archive/refs/heads/master.zip
+https://github.com/shug3502/AgeStructuredMCMC/archive/refs/heads/master.zip
+https://github.com/MRvdMeer/NBA_Game_Predictions/archive/refs/heads/master.zip
+https://github.com/apollostream/BBN_hierMD/archive/refs/heads/main.zip

@@ -1,0 +1,14 @@
+https://github.com/t-o-k/POV-Ray-gaussian-blur/archive/refs/heads/master.zip
+https://github.com/mechapple/overlap/archive/refs/heads/master.zip
+https://github.com/seignovert/povray-saturn/archive/refs/heads/master.zip
+https://github.com/andrewdonkin/dsot/archive/refs/heads/master.zip
+https://github.com/bclarksoftware/RayTracer/archive/refs/heads/master.zip
+https://github.com/didier13150/rpm/archive/refs/heads/master.zip
+https://github.com/AnAvidDeveloper/POVRayPlanets/archive/refs/heads/master.zip
+https://github.com/pyramid3d/space3d/archive/refs/heads/master.zip
+https://github.com/kaityo256/povray-sample/archive/refs/heads/master.zip
+https://github.com/MauricioAlgalan/Simple3DGraphics/archive/refs/heads/master.zip
+https://github.com/SteveWufeng/Wetting_Experiment/archive/refs/heads/main.zip
+https://github.com/mki1967/et-edit/archive/refs/heads/master.zip
+https://github.com/computational-psychology/template_experiment/archive/refs/heads/master.zip
+https://github.com/KCL-BMEIS/fri/archive/refs/heads/fri-1.15.zip

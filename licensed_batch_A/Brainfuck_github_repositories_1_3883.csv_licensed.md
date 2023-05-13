@@ -1,0 +1,14 @@
+https://github.com/mohanson/brainfuck/archive/refs/heads/master.zip
+https://github.com/Storyyeller/IntercalScript/archive/refs/heads/master.zip
+https://github.com/Dash-Lambda/Eso/archive/refs/heads/master.zip
+https://github.com/matslina/awib/archive/refs/heads/master.zip
+https://github.com/atupal/oj/archive/refs/heads/master.zip
+https://github.com/ndparker/rcssmin/archive/refs/heads/master.zip
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Brainfuck/archive/refs/heads/main.zip
+https://github.com/Becavalier/brainfuck-jit-interpreter/archive/refs/heads/main.zip
+https://github.com/arkark/15puzzle-brainfuck/archive/refs/heads/master.zip
+https://github.com/EvanHahn/brainfuck-web-app/archive/refs/heads/master.zip
+https://github.com/VU-Programming/copp-skeleton/archive/refs/heads/master.zip
+https://github.com/NonerKao/BICIB/archive/refs/heads/master.zip
+https://github.com/superextinct/inter-work/archive/refs/heads/master.zip
+https://github.com/say4n/bfutil/archive/refs/heads/master.zip

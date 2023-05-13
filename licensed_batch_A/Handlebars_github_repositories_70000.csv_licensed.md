@@ -1,0 +1,15 @@
+https://github.com/Aarushi5g/TravelTrek-FullstackWebapp/archive/refs/heads/master.zip
+https://github.com/AarambhVerma/memories/archive/refs/heads/master.zip
+https://github.com/kolosek/casper/archive/refs/heads/master.zip
+https://github.com/carbon-design-system/carbon-for-ibm-dotcom-web-components-test/archive/refs/heads/main.zip
+https://github.com/Corki64/image-gallery/archive/refs/heads/master.zip
+https://github.com/edwinsanjo/shopping-website/archive/refs/heads/master.zip
+https://github.com/ChebotarevKonstantin/chat/archive/refs/heads/main.zip
+https://github.com/focus-shift/urlaubsverwaltung-landingpage/archive/refs/heads/main.zip
+https://github.com/DruSadeMumba/Hero-Squad/archive/refs/heads/main.zip
+https://github.com/lizakrasn/plots/archive/refs/heads/master.zip
+https://github.com/Bhumiharjee/WinningCampProject/archive/refs/heads/main.zip
+https://github.com/violetauko/Wildlife-Tracker/archive/refs/heads/main.zip
+https://github.com/harsh18601/TravelTrekWebsite/archive/refs/heads/main.zip
+https://github.com/christhian12rv/Bella-Clothes/archive/refs/heads/master.zip
+https://github.com/wilwal-abdi-dev/WILDLIFE_TRACK/archive/refs/heads/master.zip

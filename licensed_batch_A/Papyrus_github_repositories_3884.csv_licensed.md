@@ -1,0 +1,15 @@
+https://github.com/Sairion350/OStim/archive/refs/heads/main.zip
+https://github.com/ChrisBermudezR/Procesamiento_DatosBiologicos_Laboratorio/archive/refs/heads/main.zip
+https://github.com/joaquinfherranz/master-fullstack-js/archive/refs/heads/master.zip
+https://github.com/MintyMods/MintyLightningModCOTCompatability/archive/refs/heads/master.zip
+https://github.com/crajjjj/ConditionalExpressionsExtended/archive/refs/heads/main.zip
+https://github.com/FoxinTale/Matera-Reborn/archive/refs/heads/main.zip
+https://github.com/mrowrpurr/MP-Console-Command-Pack/archive/refs/heads/main.zip
+https://github.com/darkconsole/dcc-soulgem-oven-3/archive/refs/heads/master.zip
+https://github.com/Vicyntae/SCV/archive/refs/heads/master.zip
+https://github.com/scorpiosixnine/smalls/archive/refs/heads/main.zip
+https://github.com/EstefaniLeon/Back-end-with-Java-Globant-University/archive/refs/heads/main.zip
+https://github.com/mrowrpurr/Permadeath/archive/refs/heads/main.zip
+https://github.com/DeviousFramework/SkyrimDeviousFramework/archive/refs/heads/master.zip
+https://github.com/mrowrpurr/AddSpellMenu/archive/refs/heads/main.zip
+https://github.com/mrowrpurr/ConsoleCommands_Prototype/archive/refs/heads/v2.zip

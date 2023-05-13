@@ -1,0 +1,14 @@
+https://github.com/Dyalog/MiSites/archive/refs/heads/master.zip
+https://github.com/Dyalog/conga-apl/archive/refs/heads/master.zip
+https://github.com/ValeryAnisimovsky/GameAudioPlayer/archive/refs/heads/master.zip
+https://github.com/aplteam/Execute/archive/refs/heads/main.zip
+https://github.com/EwaldGmbH/ClassLib/archive/refs/heads/master.zip
+https://github.com/aplteam/Cider/archive/refs/heads/main.zip
+https://github.com/Dyalog/HttpCommand/archive/refs/heads/master.zip
+https://github.com/Dyalog/bb/archive/refs/heads/master.zip
+https://github.com/aplteam/OS/archive/refs/heads/main.zip
+https://github.com/Dyalog/SAWS/archive/refs/heads/master.zip
+https://github.com/aplteam/APLTreeUtils/archive/refs/heads/main.zip
+https://github.com/Dyalog/Jarvis/archive/refs/heads/master.zip
+https://github.com/aplteam/WinReg/archive/refs/heads/main.zip
+https://github.com/DavinChurch/SQLFns/archive/refs/heads/master.zip

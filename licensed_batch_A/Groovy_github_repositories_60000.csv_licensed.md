@@ -1,0 +1,15 @@
+https://github.com/nemo-ufes/ufo-mlt-taxonomy-graph-grammar/archive/refs/heads/main.zip
+https://github.com/paucabar/AimSeg/archive/refs/heads/master.zip
+https://github.com/exo-addons/resource-center/archive/refs/heads/master.zip
+https://github.com/raspidocker/DockerImages/archive/refs/heads/master.zip
+https://github.com/betamaxteam/betamax/archive/refs/heads/master.zip
+https://github.com/Premik/AnkiVocb/archive/refs/heads/master.zip
+https://github.com/acuminous/jinkies/archive/refs/heads/master.zip
+https://github.com/droe-nmdp/kpi/archive/refs/heads/master.zip
+https://github.com/starnas/nf-core-bencher/archive/refs/heads/master.zip
+https://github.com/PRubioDev/BootcampDoc/archive/refs/heads/main.zip
+https://github.com/airbnb/okreplay/archive/refs/heads/master.zip
+https://github.com/logscape/hpc-server/archive/refs/heads/master.zip
+https://github.com/cytomine/Cytomine-IMS/archive/refs/heads/master.zip
+https://github.com/orgTestCodacy11KRepos110MB/repo-7790-awesome-kubernetes/archive/refs/heads/master.zip
+https://github.com/mbrevoort/grails-solr-plugin/archive/refs/heads/master.zip

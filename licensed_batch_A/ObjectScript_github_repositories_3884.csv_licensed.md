@@ -1,0 +1,15 @@
+https://github.com/intersystems/InterSystems-IRIS-Smart-Factory-Starter-Pack/archive/refs/heads/master.zip
+https://github.com/intersystems-community/irisdemo-demo-readmission/archive/refs/heads/master.zip
+https://github.com/SergeyMi37/zapm/archive/refs/heads/master.zip
+https://github.com/smurashko-vrp/kasha/archive/refs/heads/main.zip
+https://github.com/henryhamon/iris-coxinha/archive/refs/heads/master.zip
+https://github.com/intersystems-community/JDate/archive/refs/heads/master.zip
+https://github.com/intersystems-community/PythonGatewaySamples/archive/refs/heads/master.zip
+https://github.com/intersystems-community/webterminal/archive/refs/heads/master.zip
+https://github.com/intersystems/quickstarts-full-stack/archive/refs/heads/main.zip
+https://github.com/intersystems-ru/spatialindex/archive/refs/heads/master.zip
+https://github.com/SylvainGuilbaud/irisdemo-fraudprevention/archive/refs/heads/main.zip
+https://github.com/henryhamon/pop-song-analytics/archive/refs/heads/master.zip
+https://github.com/fdescamp/IrisDemo/archive/refs/heads/master.zip
+https://github.com/adepedro/ISCReports/archive/refs/heads/master.zip
+https://github.com/intersystems-ib/ISCReports/archive/refs/heads/master.zip

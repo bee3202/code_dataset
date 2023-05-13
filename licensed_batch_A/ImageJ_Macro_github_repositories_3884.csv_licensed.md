@@ -1,0 +1,11 @@
+https://github.com/lahammond/BrainJ/archive/refs/heads/master.zip
+https://github.com/cberri/Quanty-cFOS/archive/refs/heads/main.zip
+https://github.com/mambroset/COverlap-a-FIJI-colocalization-toolset/archive/refs/heads/main.zip
+https://github.com/l-sala/MUSCLEMOTION/archive/refs/heads/master.zip
+https://github.com/DaniBodor/CLASP_coro/archive/refs/heads/master.zip
+https://github.com/MontpellierRessourcesImagerie/imagej_macros_and_scripts/archive/refs/heads/master.zip
+https://github.com/cberri/2D_Registration_BrainAtlas_ImageJ-Fiji/archive/refs/heads/main.zip
+https://github.com/Llamero/Isotropic_resolution_demo_macro/archive/refs/heads/main.zip
+https://github.com/stoeter/Fiji-Tools-for-HCS/archive/refs/heads/master.zip
+https://github.com/dani-lbnl/eyecopod/archive/refs/heads/main.zip
+https://github.com/grishagin/CellCounting/archive/refs/heads/master.zip

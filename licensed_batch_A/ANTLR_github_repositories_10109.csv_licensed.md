@@ -1,0 +1,11 @@
+https://github.com/christianhelle/sqlcequery/archive/refs/heads/master.zip
+https://github.com/dorotheapfeiffer/pcb/archive/refs/heads/master.zip
+https://github.com/bkiers/rrd-antlr4/archive/refs/heads/master.zip
+https://github.com/roelof4/ARMflash/archive/refs/heads/main.zip
+https://github.com/MEPalma/HLNN-ReplicationPackage/archive/refs/heads/main.zip
+https://github.com/smatlapudi/rrd-antlr4/archive/refs/heads/master.zip
+https://github.com/ncthbrt/Puffermatic/archive/refs/heads/master.zip
+https://github.com/P-371/ASDML/archive/refs/heads/main.zip
+https://github.com/tacoo/e2j-name/archive/refs/heads/master.zip
+https://github.com/gatecat/TrellisBoard/archive/refs/heads/master.zip
+https://github.com/caicai0/ios_demo/archive/refs/heads/master.zip

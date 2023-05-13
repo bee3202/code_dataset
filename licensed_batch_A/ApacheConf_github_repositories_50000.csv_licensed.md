@@ -1,0 +1,10 @@
+https://github.com/vfarcic/books-stress/archive/refs/heads/master.zip
+https://github.com/s4dmw/s4dmw.github.io/archive/refs/heads/master.zip
+https://github.com/karambafe/new-skit-nn/archive/refs/heads/master.zip
+https://github.com/vinrockk/Preview-Offer-GIF-Horizonatal/archive/refs/heads/master.zip
+https://github.com/sabareeshkk/html5/archive/refs/heads/master.zip
+https://github.com/mhaya/docker-repositories/archive/refs/heads/master.zip
+https://github.com/chuckh/Beta-Signup-App/archive/refs/heads/master.zip
+https://github.com/ProjectFifaGroep6/ProjectFifa/archive/refs/heads/master.zip
+https://github.com/thematho/images-gallery/archive/refs/heads/master.zip
+https://github.com/hugo-cardoso/FRGuinchos/archive/refs/heads/master.zip

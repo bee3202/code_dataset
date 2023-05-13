@@ -1,0 +1,11 @@
+https://github.com/luciusmagn/hu-vn/archive/refs/heads/master.zip
+https://github.com/Freezanator/SomeBeginning/archive/refs/heads/main.zip
+https://github.com/projetoMochilao/mochilona/archive/refs/heads/main.zip
+https://github.com/tepong32/anniv1/archive/refs/heads/master.zip
+https://github.com/RuolinZheng08/renpy-chess-engine/archive/refs/heads/master.zip
+https://github.com/EigeneDateien/AcadMal/archive/refs/heads/master.zip
+https://github.com/shawna-p/mysterious-messenger/archive/refs/heads/master.zip
+https://github.com/Newbie-coder09/DeadSoul-v0.5/archive/refs/heads/main.zip
+https://github.com/belkka/folket/archive/refs/heads/master.zip
+https://github.com/TrueCat17/Ren-Engine-Demo/archive/refs/heads/master.zip
+https://github.com/Vinicius-Pepi/Jogo-de-KEI/archive/refs/heads/main.zip

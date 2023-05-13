@@ -1,0 +1,16 @@
+https://github.com/vlang/vls/archive/refs/heads/master.zip
+https://github.com/vssio/vss/archive/refs/heads/main.zip
+https://github.com/vincenzopalazzo/vbook/archive/refs/heads/main.zip
+https://github.com/malisipi/Vebview.JS/archive/refs/heads/main.zip
+https://github.com/vlang/ui/archive/refs/heads/master.zip
+https://github.com/insberr/videoEditorAI/archive/refs/heads/main.zip
+https://github.com/isaiahpatton/ui/archive/refs/heads/master.zip
+https://github.com/lydiandy/vast/archive/refs/heads/master.zip
+https://github.com/vlang/vsl/archive/refs/heads/master.zip
+https://github.com/dnkdev/ss_tracker_bot/archive/refs/heads/master.zip
+https://github.com/wenxuanjun/vindex/archive/refs/heads/main.zip
+https://github.com/LouisSchmieder/Varekat/archive/refs/heads/master.zip
+https://github.com/truhy/f2h_uart_de10nano/archive/refs/heads/master.zip
+https://github.com/joseljim/SOC_Hardware_Accelerated_Calculator/archive/refs/heads/main.zip
+https://github.com/supratimdas/vga_driver/archive/refs/heads/main.zip
+https://github.com/riordanz/vlang-cj21/archive/refs/heads/main.zip

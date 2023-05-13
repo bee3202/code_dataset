@@ -1,0 +1,13 @@
+https://github.com/rescript-lang/rescript-sublime/archive/refs/heads/master.zip
+https://github.com/MiryangJung/rescript-remix-blog-template/archive/refs/heads/main.zip
+https://github.com/goatchurchprime/tunnelvr_cave_data/archive/refs/heads/main.zip
+https://github.com/alanrsoares/rescript-game-of-life/archive/refs/heads/master.zip
+https://github.com/LostSnail42/MikuSkin/archive/refs/heads/master.zip
+https://github.com/Jofre-Problem/jofrehud_alt1/archive/refs/heads/main.zip
+https://github.com/jean-knapp/mapbase_coop/archive/refs/heads/master.zip
+https://github.com/vusec/hammertime-fliptables/archive/refs/heads/master.zip
+https://github.com/LunaXCBN/RenHud-V2/archive/refs/heads/main.zip
+https://github.com/nickretallack/nameless-language/archive/refs/heads/master.zip
+https://github.com/qkeitoe/tf2-configuration/archive/refs/heads/main.zip
+https://github.com/rescript-association/rescript-lang.org/archive/refs/heads/master.zip
+https://github.com/bloodyowl/twitch/archive/refs/heads/main.zip

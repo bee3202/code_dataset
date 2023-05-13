@@ -1,0 +1,11 @@
+https://github.com/dli408097/AzureBicep/archive/refs/heads/main.zip
+https://github.com/Azure/missionlz/archive/refs/heads/main.zip
+https://github.com/khanasif1/azure-bicep/archive/refs/heads/main.zip
+https://github.com/Azure-Samples/azure-opensource-labs/archive/refs/heads/main.zip
+https://github.com/chrismanta/MLZ/archive/refs/heads/main.zip
+https://github.com/microsoft/Power-Platform-App-Dev-in-a-Day-KR/archive/refs/heads/main.zip
+https://github.com/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions.ko-kr/archive/refs/heads/main.zip
+https://github.com/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions.ja-jp/archive/refs/heads/main.zip
+https://github.com/MicrosoftLearning/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions.zh-cn/archive/refs/heads/main.zip
+https://github.com/asfritecx/21064348DevOpsProject/archive/refs/heads/main.zip
+https://github.com/juergenbr/fh-clc2022-azure-template/archive/refs/heads/main.zip

@@ -1,0 +1,12 @@
+https://github.com/jpmarquessilva/xmono/archive/refs/heads/main.zip
+https://github.com/c-cube/sidekick/archive/refs/heads/master.zip
+https://github.com/awslabs/rust-smt-ir-examples/archive/refs/heads/main.zip
+https://github.com/ckchengucsd/SMT-based-STDCELL-Layout-Generator-for-VFET/archive/refs/heads/master.zip
+https://github.com/The-Actual-Damien/https-github.com-SRI-CSL-yices2/archive/refs/heads/master.zip
+https://github.com/awslabs/rust-smt-ir/archive/refs/heads/main.zip
+https://github.com/alan-vidal/pancakes-robot/archive/refs/heads/main.zip
+https://github.com/merascu/Optimization-Modulo-Theory/archive/refs/heads/master.zip
+https://github.com/jamesbornholt/z3-ios/archive/refs/heads/master.zip
+https://github.com/kuhar/smt-jit/archive/refs/heads/master.zip
+https://github.com/Qbricks/qbricks.github.io/archive/refs/heads/main.zip
+https://github.com/JamesHeppenstall/cos516_project/archive/refs/heads/master.zip

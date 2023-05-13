@@ -1,0 +1,14 @@
+https://github.com/zeek-plugins/mdns/archive/refs/heads/main.zip
+https://github.com/jsiwek/zeek-cryptomining/archive/refs/heads/master.zip
+https://github.com/CrowdStrike/cs-bro/archive/refs/heads/master.zip
+https://github.com/0xl3x1/zeek-EternalSafety/archive/refs/heads/master.zip
+https://github.com/initconf/scan-NG/archive/refs/heads/master.zip
+https://github.com/sethhall/credit-card-exposure/archive/refs/heads/master.zip
+https://github.com/lilyinstarlight/zeek-vuln-scan/archive/refs/heads/main.zip
+https://github.com/joesecurity/Joe-Sandbox-Bro/archive/refs/heads/master.zip
+https://github.com/corelight/PetitPotam/archive/refs/heads/master.zip
+https://github.com/mitre-attack/bzar/archive/refs/heads/master.zip
+https://github.com/cisagov/icsnpp-synchrophasor/archive/refs/heads/main.zip
+https://github.com/corelight/zerologon/archive/refs/heads/master.zip
+https://github.com/tylabs/dovehawk/archive/refs/heads/master.zip
+https://github.com/corelight/CVE-2021-38647/archive/refs/heads/master.zip

@@ -1,0 +1,11 @@
+https://github.com/jacksoncage/varnish-docker/archive/refs/heads/master.zip
+https://github.com/rapid7/le_community_packs/archive/refs/heads/master.zip
+https://github.com/mysociety/varnish-apikey/archive/refs/heads/master.zip
+https://github.com/Lullabot/varnish/archive/refs/heads/varnish-4.x.zip
+https://github.com/varnishcache/varnish-devicedetect/archive/refs/heads/master.zip
+https://github.com/comotion/security.vcl/archive/refs/heads/master.zip
+https://github.com/Stevie-Ray/referrer-spam-blocker/archive/refs/heads/master.zip
+https://github.com/alphagov/govuk-cdn-config/archive/refs/heads/main.zip
+https://github.com/devop-mmcgrath/openshift-cartridge-varnish/archive/refs/heads/master.zip
+https://github.com/alexisbellido/dockerize-django/archive/refs/heads/master.zip
+https://github.com/ho-nl/docker-development-box/archive/refs/heads/master.zip

@@ -1,0 +1,10 @@
+https://github.com/fritill-team/Advance-Frontend/archive/refs/heads/main.zip
+https://github.com/tomasjin356/GameBoosting-Node-Server/archive/refs/heads/main.zip
+https://github.com/MylesBorins/extra-special-modules/archive/refs/heads/main.zip
+https://github.com/Hudson8811/bonum/archive/refs/heads/main.zip
+https://github.com/Doogiemuc/doogie-de-pug/archive/refs/heads/master.zip
+https://github.com/rmady/rmady/archive/refs/heads/master.zip
+https://github.com/mizukoimj/Axim-Demo/archive/refs/heads/master.zip
+https://github.com/pixelastic/www.pixelastic.com/archive/refs/heads/master.zip
+https://github.com/Gumb-AG/gumb-homepage/archive/refs/heads/master.zip
+https://github.com/LibrariesHacked/catalogues-api/archive/refs/heads/main.zip

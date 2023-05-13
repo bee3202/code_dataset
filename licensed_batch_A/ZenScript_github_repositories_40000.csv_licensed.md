@@ -1,0 +1,9 @@
+https://github.com/Firefly-Studio/Annals-Mechanizac/archive/refs/heads/main.zip
+https://github.com/dr3ams/Roguelike-Adventures-and-Dungeons-2/archive/refs/heads/main.zip
+https://github.com/Hakaponttoauto/PMC-Avaruusseikkailu/archive/refs/heads/main.zip
+https://github.com/RehabCZ/GTResurrection/archive/refs/heads/main.zip
+https://github.com/RisingInIris2017/Orbuculum-of-Legends-Minecraft-Modpack/archive/refs/heads/main.zip
+https://github.com/screret/SkyGreg/archive/refs/heads/master.zip
+https://github.com/Christo7899/Gregtech-FunnyEdition/archive/refs/heads/main.zip
+https://github.com/lucidobservor/floramancer-modpack/archive/refs/heads/master.zip
+https://github.com/BlackSunNetwork/AlienMC-FTBSubreddit-Public-Server/archive/refs/heads/master.zip

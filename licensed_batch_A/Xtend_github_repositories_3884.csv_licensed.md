@@ -1,0 +1,16 @@
+https://github.com/DenisStarchenko/ru.agentlab.maia/archive/refs/heads/master.zip
+https://github.com/EightPillars/mrgsolveConverter/archive/refs/heads/master.zip
+https://github.com/tobykurien/Xtendroid/archive/refs/heads/master.zip
+https://github.com/szschaler/GridGames/archive/refs/heads/master.zip
+https://github.com/jpavlich/ISML-MDE/archive/refs/heads/master.zip
+https://github.com/Zabrimus/jonglisto-ng/archive/refs/heads/master.zip
+https://github.com/ugilio/ghost/archive/refs/heads/master.zip
+https://github.com/BerlinerMauAR/de.cdv.mauar.backend/archive/refs/heads/master.zip
+https://github.com/eclipse-cbi/targetplatform-dsl/archive/refs/heads/master.zip
+https://github.com/vitruv-tools/Vitruv-Change/archive/refs/heads/main.zip
+https://github.com/UBC-Stat-ML/blangDSL/archive/refs/heads/master.zip
+https://github.com/viatra/viatra-cps-benchmark/archive/refs/heads/master.zip
+https://github.com/pahjbo/vodsl/archive/refs/heads/master.zip
+https://github.com/jpaw/bonaparte-dsl/archive/refs/heads/master.zip
+https://github.com/DLR-SC/Overtarget/archive/refs/heads/development.zip
+https://github.com/vaulttec/isis-script/archive/refs/heads/develop.zip

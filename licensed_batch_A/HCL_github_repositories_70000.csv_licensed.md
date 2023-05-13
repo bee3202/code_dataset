@@ -1,0 +1,12 @@
+https://github.com/joaocsjr/devops/archive/refs/heads/main.zip
+https://github.com/arpitPandeyji/prac-ecs-tf/archive/refs/heads/main.zip
+https://github.com/byu-oit/terraform-aws-postman-test-lambda/archive/refs/heads/main.zip
+https://github.com/Harishankar4274/ecs-with-terraform/archive/refs/heads/main.zip
+https://github.com/InfinityZ25/dedsafio-terraform/archive/refs/heads/main.zip
+https://github.com/nolte/minecraft-infrastructure/archive/refs/heads/develop.zip
+https://github.com/qualimente/docker-infra-quickstart/archive/refs/heads/master.zip
+https://github.com/scotttyso/iac/archive/refs/heads/main.zip
+https://github.com/ministryofjustice/hmpps-delius-core-terraform/archive/refs/heads/main.zip
+https://github.com/teach-me-more/B18011/archive/refs/heads/master.zip
+https://github.com/CambridgeSemiticsLab/nena_tf/archive/refs/heads/master.zip
+https://github.com/nmenant/Ansible-Terraform-Cloud-Templates/archive/refs/heads/master.zip

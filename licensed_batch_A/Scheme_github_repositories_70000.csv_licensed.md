@@ -1,0 +1,15 @@
+https://github.com/perrsona1234/PinePhone-openSUSE-Phosh/archive/refs/heads/main.zip
+https://github.com/Boskovits/guix/archive/refs/heads/master.zip
+https://github.com/datamongerbonny/QGIS-LIVESTREAM/archive/refs/heads/main.zip
+https://github.com/jjzhang166/ekho/archive/refs/heads/master.zip
+https://github.com/rlzijdeman/labrel/archive/refs/heads/master.zip
+https://github.com/pacoon/guix/archive/refs/heads/master.zip
+https://github.com/frostRed/Exercises/archive/refs/heads/DataStru.zip
+https://github.com/opencog/miner/archive/refs/heads/master.zip
+https://github.com/IronScheme/IronScheme/archive/refs/heads/master.zip
+https://github.com/becls/convert-and-search/archive/refs/heads/dev.zip
+https://github.com/JulyMaker/PluginsGimp/archive/refs/heads/master.zip
+https://github.com/yoasia/wfs-t/archive/refs/heads/master.zip
+https://github.com/UofC-Neuro/opencog/archive/refs/heads/master.zip
+https://github.com/KedalionDaimon/larvarum-computationis-examen-i/archive/refs/heads/master.zip
+https://github.com/fujita-y/ypsilon/archive/refs/heads/master.zip

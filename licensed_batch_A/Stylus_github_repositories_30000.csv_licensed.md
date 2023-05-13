@@ -1,0 +1,11 @@
+https://github.com/DyingDown/hexo-theme-last/archive/refs/heads/master.zip
+https://github.com/XhinLiang/xhinliang-win/archive/refs/heads/master.zip
+https://github.com/ipopovic/ipopovic.github.io/archive/refs/heads/main.zip
+https://github.com/by-cloud/myblog/archive/refs/heads/master.zip
+https://github.com/io-meter/io-meter/archive/refs/heads/develop.zip
+https://github.com/goeoeo/notes/archive/refs/heads/master.zip
+https://github.com/victorvoid/space-jekyll-template/archive/refs/heads/master.zip
+https://github.com/henriquenj/henriquenj.github.io/archive/refs/heads/master.zip
+https://github.com/LuYF-Lemon-love/LuYF-Lemon-love.github.io/archive/refs/heads/hexo.zip
+https://github.com/foochane/foochane/archive/refs/heads/master.zip
+https://github.com/12CrazyPaul21/12CrazyPaul21.github.io/archive/refs/heads/master.zip

@@ -1,0 +1,9 @@
+https://github.com/multidest/Da-Vinci-1.0A/archive/refs/heads/main.zip
+https://github.com/lballabio/QuantLib-SWIG/archive/refs/heads/master.zip
+https://github.com/eProsima/Fast-DDS-python/archive/refs/heads/main.zip
+https://github.com/gregorsun/CANPiController/archive/refs/heads/main.zip
+https://github.com/frigaut/yao/archive/refs/heads/master.zip
+https://github.com/pierre-muth/absurd-notifier/archive/refs/heads/main.zip
+https://github.com/dov/hirsch/archive/refs/heads/master.zip
+https://github.com/Cristiana-Vrabie/Christmas_Lights_System/archive/refs/heads/main.zip
+https://github.com/SCMusson/openmmtorchplugin/archive/refs/heads/master.zip

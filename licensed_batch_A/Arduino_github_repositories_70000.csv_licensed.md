@@ -1,0 +1,9 @@
+https://github.com/michaelrees/ST7565_Menu/archive/refs/heads/master.zip
+https://github.com/miguel5612/Autoclave-V1.0/archive/refs/heads/master.zip
+https://github.com/PDunham113/UCONN-SDP-1611/archive/refs/heads/master.zip
+https://github.com/zeveland/PCS_disk-o/archive/refs/heads/master.zip
+https://github.com/mguida22/InForm/archive/refs/heads/develop.zip
+https://github.com/mgub/pixel/archive/refs/heads/master.zip
+https://github.com/crocs-muni/Edu-hoc/archive/refs/heads/master.zip
+https://github.com/floretan/bontempi/archive/refs/heads/master.zip
+https://github.com/rajvinjamuri/Olimex-EKG/archive/refs/heads/master.zip

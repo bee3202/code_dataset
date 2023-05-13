@@ -1,0 +1,16 @@
+https://github.com/tiagohermano/linux-bootstrap/archive/refs/heads/master.zip
+https://github.com/calee0219/.dotfiles/archive/refs/heads/master.zip
+https://github.com/Awan/cfg/archive/refs/heads/main.zip
+https://github.com/isaacvicente/dotfiles/archive/refs/heads/main.zip
+https://github.com/mrbeardad/SpaceVim/archive/refs/heads/master.zip
+https://github.com/Saevon/config/archive/refs/heads/master.zip
+https://github.com/tam-carre/dotfiles/archive/refs/heads/master.zip
+https://github.com/dreamhomes/dev-config/archive/refs/heads/master.zip
+https://github.com/heygema/dotfiles/archive/refs/heads/master.zip
+https://github.com/NrdyBhu1/dotfiles/archive/refs/heads/master.zip
+https://github.com/NguyenTrungTin/dotfiles/archive/refs/heads/master.zip
+https://github.com/glauca/document/archive/refs/heads/master.zip
+https://github.com/Drisk4580/dotfiles/archive/refs/heads/main.zip
+https://github.com/KevinSJ/dotfiles/archive/refs/heads/master.zip
+https://github.com/alpar-t/workspace/archive/refs/heads/master.zip
+https://github.com/0xStabby/chatgpt-vim/archive/refs/heads/master.zip

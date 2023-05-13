@@ -1,0 +1,10 @@
+https://github.com/ecstrema/sveltekit-i18n-template/archive/refs/heads/main.zip
+https://github.com/fudgepop01/amiibox/archive/refs/heads/master.zip
+https://github.com/kyoline/site/archive/refs/heads/main.zip
+https://github.com/Jaspero/autism-center-osijek/archive/refs/heads/master.zip
+https://github.com/SuPuL/rasppi-sensors/archive/refs/heads/main.zip
+https://github.com/Akylas/alpimaps/archive/refs/heads/master.zip
+https://github.com/royel21/media-server/archive/refs/heads/master.zip
+https://github.com/stamen/maperture/archive/refs/heads/main.zip
+https://github.com/janrito/quipu/archive/refs/heads/main.zip
+https://github.com/sfeir-open-source/sfeir-school-svelte/archive/refs/heads/main.zip

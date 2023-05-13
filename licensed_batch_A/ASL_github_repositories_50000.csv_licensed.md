@@ -1,0 +1,14 @@
+https://github.com/expo1337/Thinkpad-T480s-Hackintosh/archive/refs/heads/main.zip
+https://github.com/AnshulRaghav/Acer-Big-Sur-Hackintosh/archive/refs/heads/master.zip
+https://github.com/Ricardo-SS/Hackintosh-Yoga-520-i3-7100U/archive/refs/heads/master.zip
+https://github.com/banhbaoxamlan/X230-Hackintosh/archive/refs/heads/master.zip
+https://github.com/mswgen/LG-Ultra-PC-15UD50N-GX56K-Hackintosh/archive/refs/heads/main.zip
+https://github.com/smarky-at/Dell-XPS-9700-macOS/archive/refs/heads/main.zip
+https://github.com/m4salah/hackintosh-T480s/archive/refs/heads/master.zip
+https://github.com/erheeeee/Hackintosh_Gigabyte_Aero15W-V7/archive/refs/heads/master.zip
+https://github.com/xxh422735676/Hackintosh-12100F-JGINYUEB660i-5600xt-BCM94352Z-DW1560/archive/refs/heads/main.zip
+https://github.com/adityabakare/macOS-Dell-Latitude-E7470/archive/refs/heads/big-sur.zip
+https://github.com/queensferryme/Hackintosh-Dell-7580/archive/refs/heads/master.zip
+https://github.com/giulianbiolo/Lenovo-Ideapad-Gaming-3-Hackintosh/archive/refs/heads/Catalina.zip
+https://github.com/shiecldk/ASUS-ZenBook-Pro-Duo-15-OLED-UX582-Hackintosh/archive/refs/heads/main.zip
+https://github.com/mbarbierato/Intel-NUC8i3BEH/archive/refs/heads/master.zip

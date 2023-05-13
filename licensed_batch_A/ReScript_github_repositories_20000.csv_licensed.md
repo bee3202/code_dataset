@@ -1,0 +1,14 @@
+https://github.com/Glacir/Titanfall2.SCFont/archive/refs/heads/main.zip
+https://github.com/JuliaAI/DataScienceTutorials.jl/archive/refs/heads/master.zip
+https://github.com/cca-io/rescript-material-ui/archive/refs/heads/master.zip
+https://github.com/Jofre-Problem/Garm3nHud7.8-Old/archive/refs/heads/main.zip
+https://github.com/sysdotini/tf2-config/archive/refs/heads/main.zip
+https://github.com/Jofre-Problem/JofreHUD-Pink/archive/refs/heads/main.zip
+https://github.com/Jofre-Problem/Multi-Hud/archive/refs/heads/main.zip
+https://github.com/Jofre-Problem/JofreHUD-Windows11/archive/refs/heads/main.zip
+https://github.com/darklang/classic-dark/archive/refs/heads/main.zip
+https://github.com/laurirasanen/TempusRecords/archive/refs/heads/master.zip
+https://github.com/Jofre-Problem/Garm3nHud7.8-New/archive/refs/heads/main.zip
+https://github.com/lvanni/hyperdeep/archive/refs/heads/master.zip
+https://github.com/MoOx/LifeTime/archive/refs/heads/main.zip
+https://github.com/Jofre-Problem/JofreHUD-Purple/archive/refs/heads/main.zip

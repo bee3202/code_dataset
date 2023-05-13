@@ -1,0 +1,16 @@
+https://github.com/saadatfar/website/archive/refs/heads/main.zip
+https://github.com/imJarrad/Just-a-Hint/archive/refs/heads/main.zip
+https://github.com/chav-aniket/project-hermes/archive/refs/heads/main.zip
+https://github.com/sjwilczynski/sjwilczynski.github.io/archive/refs/heads/source.zip
+https://github.com/MVidicek/konoba-jadra-astro/archive/refs/heads/main.zip
+https://github.com/rwpod/rwpod.github.io/archive/refs/heads/main.zip
+https://github.com/eosfelipe/website-balancepole/archive/refs/heads/main.zip
+https://github.com/shihKaiHung/kayshih/archive/refs/heads/master.zip
+https://github.com/pickyzz/blog-rebuild/archive/refs/heads/main.zip
+https://github.com/sonho463/micchan/archive/refs/heads/main.zip
+https://github.com/caanene1/BioOzi/archive/refs/heads/main.zip
+https://github.com/73stefano/odyssey-theme/archive/refs/heads/main.zip
+https://github.com/Kyle-Shal/chris-website/archive/refs/heads/master.zip
+https://github.com/AutoGolfCart/autogolfcart.github.io/archive/refs/heads/main.zip
+https://github.com/MostlyWhat/website/archive/refs/heads/main.zip
+https://github.com/rasmusravn/rasmus-network/archive/refs/heads/main.zip

@@ -1,0 +1,9 @@
+https://github.com/jonschipp/bro-scripts/archive/refs/heads/master.zip
+https://github.com/sethhall/bro-scripts/archive/refs/heads/master.zip
+https://github.com/initconf/phish-analysis/archive/refs/heads/master.zip
+https://github.com/LiamRandall/BroTraining-MAAWG-2014-2/archive/refs/heads/master.zip
+https://github.com/tianyulab/Hunting_lateral_movement/archive/refs/heads/master.zip
+https://github.com/initconf/CVE-2017-5638_struts/archive/refs/heads/master.zip
+https://github.com/LiamRandall/BroTraining-FloCon/archive/refs/heads/master.zip
+https://github.com/dawsbot/puffer-fish/archive/refs/heads/master.zip
+https://github.com/hashtagcyber/baseliner/archive/refs/heads/master.zip

@@ -1,0 +1,13 @@
+https://github.com/Bleeding-Action-Man/ZedVoiceChanger/archive/refs/heads/master.zip
+https://github.com/RossM/XCOM2ShadowOps/archive/refs/heads/master.zip
+https://github.com/shrimpza/monsterhunt/archive/refs/heads/master.zip
+https://github.com/utspect/InstaGibPlus/archive/refs/heads/master.zip
+https://github.com/pdinklag/VCTF4/archive/refs/heads/master.zip
+https://github.com/chrishayesmu/XCOM2-Direct-Control/archive/refs/heads/master.zip
+https://github.com/ForrestMarkX/UKF2P/archive/refs/heads/main.zip
+https://github.com/Dx-Reborn/_DXR/archive/refs/heads/master.zip
+https://github.com/HickDead/Schneidzekk/archive/refs/heads/master.zip
+https://github.com/ForrestMarkX/KF-ClassicHUD/archive/refs/heads/master.zip
+https://github.com/HickDead/SawHammer/archive/refs/heads/master.zip
+https://github.com/SV1002/InterrogationAndRecruitment/archive/refs/heads/main.zip
+https://github.com/technomancy7/RCON/archive/refs/heads/master.zip

@@ -1,0 +1,13 @@
+https://github.com/lunahwanganim/VAT_BonFire/archive/refs/heads/main.zip
+https://github.com/bigibas123/avatar-goodies/archive/refs/heads/master.zip
+https://github.com/yum-food/SoggyShaders/archive/refs/heads/master.zip
+https://github.com/bryanrtboy/UnitySprites/archive/refs/heads/master.zip
+https://github.com/sugi-cho/ComputeShader-Unity-macOS/archive/refs/heads/master.zip
+https://github.com/Zenslash/Unity-Shaders/archive/refs/heads/main.zip
+https://github.com/tatoforever/AMD_FSR/archive/refs/heads/main.zip
+https://github.com/Dynasty511/I-sCream-Mania/archive/refs/heads/main.zip
+https://github.com/JosuaDeere/PimpMyBall/archive/refs/heads/main.zip
+https://github.com/Gamers-Network/GN-Visuals/archive/refs/heads/main.zip
+https://github.com/tojynick/Stylized-Water-Shader-Unity-URP/archive/refs/heads/main.zip
+https://github.com/ProgrammerFox/RayTracer_Ray_Tracing_in_One_Weekend_on_HLSL/archive/refs/heads/main.zip
+https://github.com/4anotherday/CallOfCooking/archive/refs/heads/main.zip

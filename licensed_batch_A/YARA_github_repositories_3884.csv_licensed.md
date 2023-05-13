@@ -1,0 +1,15 @@
+https://github.com/cs-shadowbq/hackmd-memory-analysis/archive/refs/heads/main.zip
+https://github.com/w-devin/MalwareFamilyIdentify/archive/refs/heads/main.zip
+https://github.com/Emanlui/E-Zeus/archive/refs/heads/main.zip
+https://github.com/CIRCL/factual-rules/archive/refs/heads/main.zip
+https://github.com/An00bRektn/malware-analysis-reports/archive/refs/heads/main.zip
+https://github.com/Kalium/Snakepit/archive/refs/heads/master.zip
+https://github.com/cleverparrot95/P-EDR-Arch/archive/refs/heads/main.zip
+https://github.com/zourick/yrepo/archive/refs/heads/master.zip
+https://github.com/j4ckzh0u/sysjoker-hunt/archive/refs/heads/main.zip
+https://github.com/lubiedo/pwnedcr0x3_yara-workshop/archive/refs/heads/main.zip
+https://github.com/kpawar2410/malert/archive/refs/heads/master.zip
+https://github.com/resteex0/yarex/archive/refs/heads/main.zip
+https://github.com/lprat/static_file_analysis/archive/refs/heads/master.zip
+https://github.com/malice-plugins/yara/archive/refs/heads/master.zip
+https://github.com/Yara-Rules/rules/archive/refs/heads/master.zip

@@ -1,0 +1,10 @@
+https://github.com/apertium/apertium-spa/archive/refs/heads/master.zip
+https://github.com/apertium/apertium-hbs/archive/refs/heads/master.zip
+https://github.com/SP-NTX/737-400/archive/refs/heads/master.zip
+https://github.com/clubcapra/capra_gazebo-DEPRECATED/archive/refs/heads/master.zip
+https://github.com/apertium/apertium-hbs-mkd/archive/refs/heads/master.zip
+https://github.com/apertium/apertium-eo-fr/archive/refs/heads/master.zip
+https://github.com/apertium/apertium-oci-fra/archive/refs/heads/master.zip
+https://github.com/apertium/apertium-fra/archive/refs/heads/master.zip
+https://github.com/apertium/apertium-hin/archive/refs/heads/master.zip
+https://github.com/pgleeson/TempRepo3/archive/refs/heads/master.zip

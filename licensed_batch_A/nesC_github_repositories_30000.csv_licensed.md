@@ -1,0 +1,11 @@
+https://github.com/gitdonohue/MdxGerberPrint/archive/refs/heads/master.zip
+https://github.com/pappavis/Digital-Combat-Simulator/archive/refs/heads/master.zip
+https://github.com/doug-harriman/topo-box/archive/refs/heads/main.zip
+https://github.com/vladimirdyskin/ESP32_GRBL/archive/refs/heads/main.zip
+https://github.com/johnsonwust/Walldraw/archive/refs/heads/main.zip
+https://github.com/Anabrashka/Ventiladores_proyecto/archive/refs/heads/master.zip
+https://github.com/MarginallyClever/sixi-2/archive/refs/heads/master.zip
+https://github.com/sheelis/cnc-spindle-light/archive/refs/heads/main.zip
+https://github.com/Jayanthan-Amalanathan/cnc-milling/archive/refs/heads/main.zip
+https://github.com/shihaipeng03/Walldraw/archive/refs/heads/main.zip
+https://github.com/bps90/TinyOSCTP/archive/refs/heads/master.zip

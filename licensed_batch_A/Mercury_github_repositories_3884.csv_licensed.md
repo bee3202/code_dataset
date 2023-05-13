@@ -1,0 +1,9 @@
+https://github.com/sparkfunX/Robotic_Finger_Sensor/archive/refs/heads/master.zip
+https://github.com/robx/puzzles/archive/refs/heads/master.zip
+https://github.com/aitmlouk/Mon_PFE_Resources/archive/refs/heads/master.zip
+https://github.com/Savvy-Student-Stats/powerbi-moodle-data-source/archive/refs/heads/main.zip
+https://github.com/mgedda/kdom-ai/archive/refs/heads/master.zip
+https://github.com/xing/XNGMarkdownParser/archive/refs/heads/master.zip
+https://github.com/PlasmaLang/plasma/archive/refs/heads/master.zip
+https://github.com/javelinlin/3DSoftRenderer/archive/refs/heads/master.zip
+https://github.com/gmatheus95/mo802_project/archive/refs/heads/master.zip

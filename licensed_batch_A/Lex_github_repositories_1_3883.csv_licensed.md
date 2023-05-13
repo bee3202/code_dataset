@@ -1,0 +1,12 @@
+https://github.com/eugener/highlight.fx/archive/refs/heads/master.zip
+https://github.com/woodbri/address-standardizer/archive/refs/heads/develop.zip
+https://github.com/tani/cl-skkserv/archive/refs/heads/master.zip
+https://github.com/adamsmd/derp-3/archive/refs/heads/master.zip
+https://github.com/rickydebojeet/compiler-programs/archive/refs/heads/main.zip
+https://github.com/rkjaran/g2p-service/archive/refs/heads/master.zip
+https://github.com/insertinterestingnamehere/bench_parsers/archive/refs/heads/master.zip
+https://github.com/Lihuanghe/jcseg/archive/refs/heads/master.zip
+https://github.com/EterniaLogic/X4-XML2Script-Editor/archive/refs/heads/master.zip
+https://github.com/studychen/SeeNewsServer/archive/refs/heads/master.zip
+https://github.com/seanpm2001/Matrix-lang/archive/refs/heads/master.zip
+https://github.com/thomaslaurenson/IRDNumberScanner/archive/refs/heads/master.zip

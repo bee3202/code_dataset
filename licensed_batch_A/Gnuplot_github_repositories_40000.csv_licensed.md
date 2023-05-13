@@ -1,0 +1,9 @@
+https://github.com/hiroloquy/conway-game-of-life/archive/refs/heads/master.zip
+https://github.com/Ritika-Das/3D_Piezoelectric_Shoe/archive/refs/heads/master.zip
+https://github.com/nbehrnd/moreland-gnuplot-palettes/archive/refs/heads/master.zip
+https://github.com/ebi-pf-team/genome-properties/archive/refs/heads/master.zip
+https://github.com/fullwebdev/illustrations/archive/refs/heads/master.zip
+https://github.com/arosenb4/web-projects/archive/refs/heads/gh-pages.zip
+https://github.com/owodolab/graspi/archive/refs/heads/master.zip
+https://github.com/sabinomaggi/ten-years-challenge-pulsed-drive/archive/refs/heads/submission.zip
+https://github.com/ebugger/Empirical-Roofline-Toolkit/archive/refs/heads/master.zip

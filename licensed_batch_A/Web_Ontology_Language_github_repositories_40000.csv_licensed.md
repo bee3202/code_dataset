@@ -1,0 +1,12 @@
+https://github.com/thompsct/VPRKB/archive/refs/heads/master.zip
+https://github.com/OpenLinkedSocialData/obama_tw/archive/refs/heads/master.zip
+https://github.com/HW-SWeL/GTP-RDF/archive/refs/heads/master.zip
+https://github.com/anukat2015/nlm-documents/archive/refs/heads/master.zip
+https://github.com/MaxPensel/ELastiq/archive/refs/heads/master.zip
+https://github.com/atgmello/IDEO2RDF/archive/refs/heads/master.zip
+https://github.com/OpenLinkedSocialData/facebookLinkedData/archive/refs/heads/master.zip
+https://github.com/integrativo/integrativo_cbr/archive/refs/heads/master.zip
+https://github.com/superphy/semantic/archive/refs/heads/master.zip
+https://github.com/mokarrom/mpi-owl/archive/refs/heads/master.zip
+https://github.com/AKSW/itmolod/archive/refs/heads/master.zip
+https://github.com/bbrieber/iai_outdoor_environment/archive/refs/heads/master.zip

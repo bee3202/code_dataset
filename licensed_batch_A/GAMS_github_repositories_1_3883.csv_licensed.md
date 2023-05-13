@@ -1,0 +1,14 @@
+https://github.com/fruchtfolge/model/archive/refs/heads/master.zip
+https://github.com/aschwele/Do-unit-commitment-constraints-affect-generation-expansion-planning/archive/refs/heads/master.zip
+https://github.com/olugovoy/climatedice/archive/refs/heads/master.zip
+https://github.com/jac0320/toJuMP.jl/archive/refs/heads/master.zip
+https://github.com/tommytommytommy/electricity-models/archive/refs/heads/master.zip
+https://github.com/modeling-simulation-and-optimization/laboratory-01/archive/refs/heads/main.zip
+https://github.com/etsap-TIMES/TIMES_model/archive/refs/heads/master.zip
+https://github.com/WikiWatershed/gwlf-e/archive/refs/heads/develop.zip
+https://github.com/datejada/SCUC-using-LODF/archive/refs/heads/master.zip
+https://github.com/etsap-TIMES/TIMES_Demo/archive/refs/heads/master.zip
+https://github.com/frkunz/stELMOD/archive/refs/heads/master.zip
+https://github.com/chrord/Gas-Elec-PriceCoupling/archive/refs/heads/master.zip
+https://github.com/DREAM-DK/MAKRO/archive/refs/heads/main.zip
+https://github.com/Zhijie-Jia/CEEEA2.0-CGE/archive/refs/heads/main.zip

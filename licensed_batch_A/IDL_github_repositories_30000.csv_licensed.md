@@ -1,0 +1,9 @@
+https://github.com/jprchlik/find_contaminated_darks/archive/refs/heads/master.zip
+https://github.com/moustakas/moustakas-projects/archive/refs/heads/master.zip
+https://github.com/xdqso/xdqso/archive/refs/heads/master.zip
+https://github.com/cydowing/Fleurdelas/archive/refs/heads/master.zip
+https://github.com/Gelu-Nita/GSFIT/archive/refs/heads/master.zip
+https://github.com/LucasGuliano/find_con_darks/archive/refs/heads/main.zip
+https://github.com/moustakas/impro/archive/refs/heads/master.zip
+https://github.com/MBouvet/DIMITRI/archive/refs/heads/master.zip
+https://github.com/tvwenger/tmbidl/archive/refs/heads/master.zip

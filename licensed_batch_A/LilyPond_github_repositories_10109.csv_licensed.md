@@ -1,0 +1,12 @@
+https://github.com/allengarvin/typeset/archive/refs/heads/main.zip
+https://github.com/openlilylib/oll-misc/archive/refs/heads/master.zip
+https://github.com/Eidonko/CombinatorialMusic/archive/refs/heads/master.zip
+https://github.com/fsarud/LilypondUNLA/archive/refs/heads/master.zip
+https://github.com/gom9000/sheetmusic/archive/refs/heads/master.zip
+https://github.com/blackmjck/sheet-music/archive/refs/heads/master.zip
+https://github.com/bwbees0/BagPipeTunes/archive/refs/heads/master.zip
+https://github.com/schef/ice_cream_band-svadba/archive/refs/heads/master.zip
+https://github.com/dyens/cranberries/archive/refs/heads/master.zip
+https://github.com/jeandeaual/lilypond-shamisen-ue-wo-muite-arukou/archive/refs/heads/master.zip
+https://github.com/jeandeaual/lilypond-shamisen-tsugaru-minyou/archive/refs/heads/master.zip
+https://github.com/jeandeaual/lilypond-chord-charts/archive/refs/heads/master.zip

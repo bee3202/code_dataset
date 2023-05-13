@@ -1,0 +1,13 @@
+https://github.com/warrickball/tomso/archive/refs/heads/master.zip
+https://github.com/hiroloquy/2d-wave-equation/archive/refs/heads/master.zip
+https://github.com/wykys/upol-ma105msps10b-hw/archive/refs/heads/master.zip
+https://github.com/Ckath/k8split/archive/refs/heads/master.zip
+https://github.com/fpalaciosFM/Proyecto_EDP/archive/refs/heads/master.zip
+https://github.com/ShrirajHegde/lorenz_system-rk4/archive/refs/heads/main.zip
+https://github.com/balakrishnanc/gnuplots/archive/refs/heads/master.zip
+https://github.com/mrwillem/PCBs/archive/refs/heads/master.zip
+https://github.com/wzhao18/streambox/archive/refs/heads/master.zip
+https://github.com/Clloud/popular-route/archive/refs/heads/master.zip
+https://github.com/kqkq/vita-board/archive/refs/heads/master.zip
+https://github.com/tomswartz07/covid19-pennsylvania/archive/refs/heads/master.zip
+https://github.com/bourdin/VPFHF/archive/refs/heads/master.zip

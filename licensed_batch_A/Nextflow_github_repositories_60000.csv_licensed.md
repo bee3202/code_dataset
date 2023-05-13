@@ -1,0 +1,13 @@
+https://github.com/sanger-bentley-group/GPSC_pipeline_nf/archive/refs/heads/master.zip
+https://github.com/Jojanneke-S/PRECODE/archive/refs/heads/master.zip
+https://github.com/genepi/nf-gwas/archive/refs/heads/main.zip
+https://github.com/nf-core/circrna/archive/refs/heads/master.zip
+https://github.com/icbi-lab/borst2021/archive/refs/heads/main.zip
+https://github.com/qbic-pipelines/rnadeseq/archive/refs/heads/master.zip
+https://github.com/WhalleyT/RECIPIENT/archive/refs/heads/master.zip
+https://github.com/utsw-bicf/gudmap_rbk.rna-seq/archive/refs/heads/develop.zip
+https://github.com/guigolab/rnaseq-nf/archive/refs/heads/master.zip
+https://github.com/TRON-Bioinformatics/covigator-ngs-pipeline/archive/refs/heads/master.zip
+https://github.com/biocorecrg/indrop/archive/refs/heads/master.zip
+https://github.com/nf-core/rnaseq/archive/refs/heads/master.zip
+https://github.com/genomic-medicine-sweden/tomte/archive/refs/heads/master.zip

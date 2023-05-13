@@ -1,0 +1,10 @@
+https://github.com/javith2dj/FileExport/archive/refs/heads/main.zip
+https://github.com/Indie365/alaAppextensions/archive/refs/heads/main.zip
+https://github.com/Win-SameerMore/WNS-Portal-Extension-3/archive/refs/heads/master.zip
+https://github.com/Wanamics/WanaMisc/archive/refs/heads/master.zip
+https://github.com/picazin/BCWhatsApp/archive/refs/heads/master.zip
+https://github.com/poloio/transport-bc-extension/archive/refs/heads/main.zip
+https://github.com/srenders/AL-Demos/archive/refs/heads/master.zip
+https://github.com/Wanamics/WanaBank/archive/refs/heads/main.zip
+https://github.com/wbrakowski/Table-Editor/archive/refs/heads/main.zip
+https://github.com/BusinessCentralGeek/KPICountingTool/archive/refs/heads/master.zip

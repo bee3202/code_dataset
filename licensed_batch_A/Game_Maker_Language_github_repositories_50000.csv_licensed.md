@@ -1,0 +1,16 @@
+https://github.com/abellnoel/the-nameless/archive/refs/heads/master.zip
+https://github.com/woodrowbarlow/battlearena/archive/refs/heads/master.zip
+https://github.com/raulqueisso/we-are-broken/archive/refs/heads/master.zip
+https://github.com/PrOF-kk/GG2-Randomizer/archive/refs/heads/master.zip
+https://github.com/d4nieru/MegamanBattleNetworkProjectGenesis/archive/refs/heads/main.zip
+https://github.com/ChengGeng97/BasketballChampion/archive/refs/heads/master.zip
+https://github.com/Grisgram/gjam-one-knight-alone/archive/refs/heads/main.zip
+https://github.com/FEEprojects/pi-seb/archive/refs/heads/master.zip
+https://github.com/TandyRum1024/jam-bonezone/archive/refs/heads/master.zip
+https://github.com/Ammypendent/GGJ13-Lifetime/archive/refs/heads/master.zip
+https://github.com/JujuAdams/Vinyl/archive/refs/heads/master.zip
+https://github.com/MobileSeoul/2017seoul-75/archive/refs/heads/master.zip
+https://github.com/MikeeyBikeey/SupernaturalScience/archive/refs/heads/main.zip
+https://github.com/Sqeegie/Undead/archive/refs/heads/master.zip
+https://github.com/NBurrichter/Uni_Semesterprojekt/archive/refs/heads/master.zip
+https://github.com/djvilla/VailRPG/archive/refs/heads/master.zip

@@ -1,0 +1,9 @@
+https://github.com/lishengze/AppClient/archive/refs/heads/featureUpDate.zip
+https://github.com/reyesj1988/Codecombat/archive/refs/heads/master.zip
+https://github.com/leMaik/rs-sphere/archive/refs/heads/master.zip
+https://github.com/zooniverse/Snapshot-Chicago/archive/refs/heads/master.zip
+https://github.com/ndxbxrme/vidz/archive/refs/heads/master.zip
+https://github.com/h2oai/h2o-flow/archive/refs/heads/master.zip
+https://github.com/skandasoft/preview-plus/archive/refs/heads/master.zip
+https://github.com/feifacz/codecombat/archive/refs/heads/master.zip
+https://github.com/RYTong/emp-doc/archive/refs/heads/master.zip

@@ -1,0 +1,12 @@
+https://github.com/43htrkeghjfdg/BIP39-Bitcoin-SeedTools/archive/refs/heads/main.zip
+https://github.com/stefanwatermann/frame/archive/refs/heads/main.zip
+https://github.com/vidalvanbergen/ViBroadCatcher/archive/refs/heads/master.zip
+https://github.com/LwRed/Xojo-Sokoban/archive/refs/heads/master.zip
+https://github.com/jo-tools/crccalculator/archive/refs/heads/main.zip
+https://github.com/mysmartlife-helsinki/sqlserver-export/archive/refs/heads/master.zip
+https://github.com/undtec/argen/archive/refs/heads/main.zip
+https://github.com/jo-tools/xojo-github-actions/archive/refs/heads/main.zip
+https://github.com/VanDerLars/xojo-intro/archive/refs/heads/main.zip
+https://github.com/ericdlr/simul-x/archive/refs/heads/master.zip
+https://github.com/Motionalysis/RedisSetupTest/archive/refs/heads/main.zip
+https://github.com/Zoclee/Shade/archive/refs/heads/master.zip

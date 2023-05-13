@@ -1,0 +1,16 @@
+https://github.com/rasbt/musicmood/archive/refs/heads/master.zip
+https://github.com/MesquiteProject/MacClade/archive/refs/heads/master.zip
+https://github.com/singular-value/YelpGroupRecommendations/archive/refs/heads/master.zip
+https://github.com/Omrunali/EmotionRecognition/archive/refs/heads/master.zip
+https://github.com/baxQ/C--Practice/archive/refs/heads/master.zip
+https://github.com/Jaemu/haiku.py/archive/refs/heads/master.zip
+https://github.com/mihaelacr/pydeeplearn/archive/refs/heads/master.zip
+https://github.com/sdstraus/SocialSpider_Kleptoparasite_Dispersal/archive/refs/heads/master.zip
+https://github.com/diksha42/erecognition/archive/refs/heads/master.zip
+https://github.com/jxbbb/ADAPT/archive/refs/heads/main.zip
+https://github.com/cvielma/Code4Venezuela/archive/refs/heads/master.zip
+https://github.com/aidan-curtis/polispeech/archive/refs/heads/master.zip
+https://github.com/ruizheliUOA/TWR-VAE/archive/refs/heads/main.zip
+https://github.com/shivanipods/DialogueAgentRL/archive/refs/heads/master.zip
+https://github.com/hendrycks/fooling/archive/refs/heads/master.zip
+https://github.com/songtaohe/Sat2Graph/archive/refs/heads/master.zip

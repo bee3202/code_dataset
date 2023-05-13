@@ -1,0 +1,10 @@
+https://github.com/vdelachaux/tip-and-tricks/archive/refs/heads/master.zip
+https://github.com/dbeaubien/CodeAnalysis/archive/refs/heads/main.zip
+https://github.com/creativeArtie/4DUtilities/archive/refs/heads/main.zip
+https://github.com/miyako/4d-class-build-application/archive/refs/heads/main.zip
+https://github.com/mesopelagique/Discord.4d/archive/refs/heads/master.zip
+https://github.com/mesopelagique/ClassStoreDiagram/archive/refs/heads/master.zip
+https://github.com/ThomasMaul/Toolbar/archive/refs/heads/master.zip
+https://github.com/AJARProject/AJ_Math/archive/refs/heads/master.zip
+https://github.com/4d/4D-Report/archive/refs/heads/main.zip
+https://github.com/mesopelagique/Mesopotamia/archive/refs/heads/master.zip

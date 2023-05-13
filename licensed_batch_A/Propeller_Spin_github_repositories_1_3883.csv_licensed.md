@@ -1,0 +1,10 @@
+https://github.com/parallaxinc/PropLoader/archive/refs/heads/master.zip
+https://github.com/konimaru/waitvid.2048/archive/refs/heads/master.zip
+https://github.com/w8an/HAB-WSPR/archive/refs/heads/master.zip
+https://github.com/dbetz/propeller-load/archive/refs/heads/master.zip
+https://github.com/avsa242/p2-spin-standard-library/archive/refs/heads/testing.zip
+https://github.com/Zille9/PSRAM64H/archive/refs/heads/main.zip
+https://github.com/ZiCog/pi-propeller-load/archive/refs/heads/master.zip
+https://github.com/PaulForgey/synth/archive/refs/heads/master.zip
+https://github.com/parallaxinc/BadgeHacker/archive/refs/heads/master.zip
+https://github.com/PaulForgey/spinSynth/archive/refs/heads/master.zip

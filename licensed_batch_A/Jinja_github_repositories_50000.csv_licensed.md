@@ -1,0 +1,16 @@
+https://github.com/CODA-19/deploy-scripts/archive/refs/heads/master.zip
+https://github.com/krishank98/Ansible/archive/refs/heads/main.zip
+https://github.com/Patthecat249/pxe-server/archive/refs/heads/master.zip
+https://github.com/davidboukari/vmware/archive/refs/heads/main.zip
+https://github.com/teejay4u/Project_13_Ansible_config_mgt_3-/archive/refs/heads/main.zip
+https://github.com/ziye-009/Redis/archive/refs/heads/main.zip
+https://github.com/BernardTsai/book/archive/refs/heads/master.zip
+https://github.com/cemac/iFEED_Prototype/archive/refs/heads/master.zip
+https://github.com/rkazak07/Patroni-Cluster/archive/refs/heads/main.zip
+https://github.com/automateyournetwork/pyYAHTS/archive/refs/heads/main.zip
+https://github.com/splatas/rh-sso-ansible-with-oracle/archive/refs/heads/main.zip
+https://github.com/laineil/ansible-mariadb/archive/refs/heads/main.zip
+https://github.com/splunk/attack_range/archive/refs/heads/develop.zip
+https://github.com/automateyournetwork/ACEye/archive/refs/heads/main.zip
+https://github.com/orgTestCodacy11KRepos110MB/repo-5415-attack_range/archive/refs/heads/master.zip
+https://github.com/CBIIT/nci-systems-engineering/archive/refs/heads/master.zip

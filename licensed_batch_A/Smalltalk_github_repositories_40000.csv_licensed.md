@@ -1,0 +1,16 @@
+https://github.com/legavaz/engineering/archive/refs/heads/main.zip
+https://github.com/JupiterSmalltalk/SuperAdmin/archive/refs/heads/main.zip
+https://github.com/jordanmontt/Presentations/archive/refs/heads/main.zip
+https://github.com/edwinsayes1/dnnsimplearticle/archive/refs/heads/main.zip
+https://github.com/ChrisHammond/dnnsimplearticle/archive/refs/heads/main.zip
+https://github.com/PlayzDev/YouTubeDownloader/archive/refs/heads/main.zip
+https://github.com/EiichiroIto/microwitch/archive/refs/heads/master.zip
+https://github.com/ObjectProfile/Roassal3/archive/refs/heads/master.zip
+https://github.com/nikodemus/foolang/archive/refs/heads/main.zip
+https://github.com/tomooda/ViennaTalk/archive/refs/heads/main.zip
+https://github.com/sebastianconcept/Mapless/archive/refs/heads/develop.zip
+https://github.com/Normation/rudder-techniques/archive/refs/heads/master.zip
+https://github.com/newspeaklanguage/newspeak/archive/refs/heads/master.zip
+https://github.com/karthik001/brzy/archive/refs/heads/master.zip
+https://github.com/EiichiroIto/Stelo/archive/refs/heads/master.zip
+https://github.com/danwca/markdownWebplusplus/archive/refs/heads/main.zip

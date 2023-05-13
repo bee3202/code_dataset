@@ -1,0 +1,12 @@
+https://github.com/andycatz/LoRa_Temp_Humidity/archive/refs/heads/main.zip
+https://github.com/anonymousoopsla21/homeostasis/archive/refs/heads/master.zip
+https://github.com/norbusan/pymupdf-debian/archive/refs/heads/master.zip
+https://github.com/jkinda/blackbear/archive/refs/heads/master.zip
+https://github.com/ScouperLH/MOOSE-test-thermomech/archive/refs/heads/main.zip
+https://github.com/smpark7/msr-nts-benchmark/archive/refs/heads/main.zip
+https://github.com/cpgr/finch/archive/refs/heads/master.zip
+https://github.com/okemessi/midimalletg/archive/refs/heads/master.zip
+https://github.com/guilherme3a/robotic-arm/archive/refs/heads/main.zip
+https://github.com/2BRobots/skykontrolVending/archive/refs/heads/master.zip
+https://github.com/gnieboer/GNURadio_Windows_Build_Scripts/archive/refs/heads/maint.zip
+https://github.com/Danny24/smart_motor_driver/archive/refs/heads/master.zip

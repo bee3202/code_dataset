@@ -1,0 +1,14 @@
+https://github.com/CNMAT/Music-and-Computing/archive/refs/heads/master.zip
+https://github.com/IDMNYU/DM-GY6143-InteractionDesign-FA21-DuBois/archive/refs/heads/main.zip
+https://github.com/nnimar/Max-for-the-Visual-Arts/archive/refs/heads/master.zip
+https://github.com/OffGrid-Devices/qathan.sequencer/archive/refs/heads/master.zip
+https://github.com/schwittlick/KimaUnionChapel/archive/refs/heads/master.zip
+https://github.com/adorsys-academic/cui-automotive-secured-payments/archive/refs/heads/master.zip
+https://github.com/reillypascal/afterimage/archive/refs/heads/main.zip
+https://github.com/interspecifics/rmr/archive/refs/heads/master.zip
+https://github.com/insolace/Mackie-HUI-for-Max-and-Max4Live/archive/refs/heads/master.zip
+https://github.com/SonologiaEsmuc/concertDeMobils/archive/refs/heads/main.zip
+https://github.com/sschiesser/StS_producer/archive/refs/heads/master.zip
+https://github.com/Protoc0l/Chuck/archive/refs/heads/main.zip
+https://github.com/OPEnSLab-OSU/Loom-Max/archive/refs/heads/master.zip
+https://github.com/LFO-lab/Mosaique/archive/refs/heads/main.zip

@@ -1,0 +1,15 @@
+https://github.com/murankeji/lmp_in_data/archive/refs/heads/main.zip
+https://github.com/mlejeune15206/Computers-OR---Disjunctive-Stochastic-Programming/archive/refs/heads/main.zip
+https://github.com/jia1/lstm_wsd/archive/refs/heads/master.zip
+https://github.com/marangisto/SteinerVCF/archive/refs/heads/master.zip
+https://github.com/alejandrox1/poisson_lammps/archive/refs/heads/master.zip
+https://github.com/jhhmyjt/CK3mod-Fun-Expansion/archive/refs/heads/master.zip
+https://github.com/shlax/callie/archive/refs/heads/master.zip
+https://github.com/wmutschl/mutschler.eu/archive/refs/heads/main.zip
+https://github.com/Etheren/PenguinTowersTablets/archive/refs/heads/master.zip
+https://github.com/theNicelander/ck3_blood_mage/archive/refs/heads/main.zip
+https://github.com/Foaly/MusikalischeAkustik/archive/refs/heads/master.zip
+https://github.com/PolskiCrafter/toq/archive/refs/heads/main.zip
+https://github.com/TehFishey/stellaris-crisis-managers/archive/refs/heads/master.zip
+https://github.com/PumpkinCellOS/CIMC/archive/refs/heads/master.zip
+https://github.com/Isenreik/IR-HoI4-Sanguinem-et-Lacrimas/archive/refs/heads/2.0-Back-With-A-Revengeance.zip

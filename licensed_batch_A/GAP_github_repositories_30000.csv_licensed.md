@@ -1,0 +1,13 @@
+https://github.com/glatteis/balance/archive/refs/heads/master.zip
+https://github.com/maliangxu/aaicgis/archive/refs/heads/master.zip
+https://github.com/jcoombes/awesome-gmtk-game-jam-2021/archive/refs/heads/main.zip
+https://github.com/kyouramen-P/whackamole/archive/refs/heads/main.zip
+https://github.com/Eyeman420/OfficeThreats/archive/refs/heads/main.zip
+https://github.com/Iloveidea/Battalion-map-editor/archive/refs/heads/main.zip
+https://github.com/mr1337357/space-shooter/archive/refs/heads/main.zip
+https://github.com/timschneider/BigPrint/archive/refs/heads/master.zip
+https://github.com/seanhlewis/30-seconds/archive/refs/heads/main.zip
+https://github.com/BryB1995/Godot_project_Trial_of_Champions/archive/refs/heads/master.zip
+https://github.com/seraph526/cplan-tracker/archive/refs/heads/master.zip
+https://github.com/superfroggman/godot-testing/archive/refs/heads/master.zip
+https://github.com/xypine/Adjacency/archive/refs/heads/master.zip

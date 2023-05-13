@@ -1,0 +1,10 @@
+https://github.com/shuu-tou/gree-unity-webview/archive/refs/heads/master.zip
+https://github.com/langdaiduong/class_detect/archive/refs/heads/main.zip
+https://github.com/SymbolicNMPC/NMPC-Toolkit/archive/refs/heads/master.zip
+https://github.com/devSC/iOSReprojects/archive/refs/heads/master.zip
+https://github.com/syhw/contextual_word_segmentation/archive/refs/heads/master.zip
+https://github.com/Haloing/IDCNRecognize/archive/refs/heads/master.zip
+https://github.com/Natoto/fixFlutterEngine/archive/refs/heads/master.zip
+https://github.com/ptcrealitylab/vuforia-spatial-toolbox-ios/archive/refs/heads/master.zip
+https://github.com/cmfsotelo/tensorflow-fidelidade-plugin/archive/refs/heads/master.zip
+https://github.com/AgesX/objc/archive/refs/heads/main.zip

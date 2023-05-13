@@ -1,0 +1,9 @@
+https://github.com/nschaetti/RCNLP-authorship-attribution/archive/refs/heads/master.zip
+https://github.com/oscarpredictor/oscar-predictor/archive/refs/heads/master.zip
+https://github.com/sjayakum/sentiment-analysis/archive/refs/heads/master.zip
+https://github.com/Sn0wCh1ld/jaybeecee/archive/refs/heads/master.zip
+https://github.com/hfekrmandi/Self_Localization_Intelligent_Mapping_SLIM/archive/refs/heads/master.zip
+https://github.com/gifford-lab/optivax/archive/refs/heads/master.zip
+https://github.com/kylerjohnston/balladmonger/archive/refs/heads/master.zip
+https://github.com/ParkLabML/DP-HP/archive/refs/heads/master.zip
+https://github.com/Zexceed7/Videojuegos_Libgdx/archive/refs/heads/master.zip

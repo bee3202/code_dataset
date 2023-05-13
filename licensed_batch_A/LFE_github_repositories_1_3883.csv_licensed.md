@@ -1,0 +1,11 @@
+https://github.com/lfex/ltest/archive/refs/heads/release/0.13.x.zip
+https://github.com/lfex/lcfg/archive/refs/heads/master.zip
+https://github.com/exercism/lfe/archive/refs/heads/main.zip
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Lisp-Flavored-Erlang_LFE/archive/refs/heads/main.zip
+https://github.com/lfex/lanes/archive/refs/heads/release/0.2.x.zip
+https://github.com/ut-proj/undertheory/archive/refs/heads/release/0.2.x.zip
+https://github.com/prokopiy/aira/archive/refs/heads/master.zip
+https://github.com/seanpm2001/Learn-LispFlavoredErlang/archive/refs/heads/Learn-LispFlavoredErlang_LFE_Main-dev.zip
+https://github.com/lfex/ljson/archive/refs/heads/master.zip
+https://github.com/lfex/complex/archive/refs/heads/master.zip
+https://github.com/lfex/lutil/archive/refs/heads/main.zip

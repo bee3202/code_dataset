@@ -1,0 +1,13 @@
+https://github.com/felipelisboa-ml/RISC-V-competition/archive/refs/heads/master.zip
+https://github.com/ThalesGroup/cva6-softcore-contest/archive/refs/heads/cv32a6_contest_2022.zip
+https://github.com/PacoReinaCampo/PU-RISCV/archive/refs/heads/master.zip
+https://github.com/pricem/da_platform/archive/refs/heads/master.zip
+https://github.com/msinger/gbreveng/archive/refs/heads/master.zip
+https://github.com/Artem1199/ECE540-SoC/archive/refs/heads/main.zip
+https://github.com/gnosthas/CVA6-Contest/archive/refs/heads/test.zip
+https://github.com/amamory-verification/vfsd-utopia/archive/refs/heads/master.zip
+https://github.com/maxaksel/microprocessor/archive/refs/heads/main.zip
+https://github.com/PathakamuriNaresh/AXI_AVIP/archive/refs/heads/phase1_development_branch.zip
+https://github.com/mbits-mirafra/axi4_avip/archive/refs/heads/phase1_development_branch.zip
+https://github.com/PaulZC/XLR8_HDMI_VGA_Text_Demo_XB/archive/refs/heads/master.zip
+https://github.com/Ashwin-Rajesh/Cordic_accelerator/archive/refs/heads/main.zip

@@ -1,0 +1,11 @@
+https://github.com/cesmix-mit/Atomistic.jl/archive/refs/heads/main.zip
+https://github.com/ajkeith/Cyber-Air-Defense/archive/refs/heads/master.zip
+https://github.com/joshday/AverageShiftedHistograms.jl/archive/refs/heads/master.zip
+https://github.com/ntumitolab/mitochondria-retrograde-model/archive/refs/heads/main.zip
+https://github.com/robzan8/MatFun.jl/archive/refs/heads/master.zip
+https://github.com/sutyum/learning-julia/archive/refs/heads/main.zip
+https://github.com/FluxML/Flux.jl/archive/refs/heads/master.zip
+https://github.com/EddieCueto/GreenFlux.jl/archive/refs/heads/master.zip
+https://github.com/floswald/Tasmanian.jl/archive/refs/heads/master.zip
+https://github.com/mlkrock/TeleExtrTemp/archive/refs/heads/main.zip
+https://github.com/PetrKryslUCSD/FinEtoolsVibInFluids.jl/archive/refs/heads/master.zip

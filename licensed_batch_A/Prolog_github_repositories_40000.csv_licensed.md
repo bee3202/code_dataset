@@ -1,0 +1,13 @@
+https://github.com/boztalay/IceTubeClock/archive/refs/heads/master.zip
+https://github.com/dcnorris/precautionary/archive/refs/heads/main.zip
+https://github.com/rbrauner/polsl-studies-maes-project/archive/refs/heads/main.zip
+https://github.com/QAMCAS/ASP-Diagnose-Tool/archive/refs/heads/main.zip
+https://github.com/jose-lopez/bio_ner_tagger/archive/refs/heads/master.zip
+https://github.com/AlexandrosKyriakakis/Programming_Languages_2020/archive/refs/heads/master.zip
+https://github.com/gabrielzschmitz/BessyAdventure/archive/refs/heads/main.zip
+https://github.com/neimarcos/Mestrado/archive/refs/heads/main.zip
+https://github.com/geminiplanetimager/gpi_pipeline/archive/refs/heads/master.zip
+https://github.com/NVlabs/AutoDMP/archive/refs/heads/main.zip
+https://github.com/greyltc/electronics/archive/refs/heads/master.zip
+https://github.com/manospits/Phenesthe/archive/refs/heads/main.zip
+https://github.com/avinashparuchoori/Question-and-Answer-system-using-Wikipedia-Infoboxes/archive/refs/heads/master.zip

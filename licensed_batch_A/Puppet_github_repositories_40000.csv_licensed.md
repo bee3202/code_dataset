@@ -1,0 +1,9 @@
+https://github.com/Katello/katello-installer-legacy/archive/refs/heads/master.zip
+https://github.com/alphagov/govuk-puppet/archive/refs/heads/main.zip
+https://github.com/mfandrade/puppet-module-pje/archive/refs/heads/master.zip
+https://github.com/hysds/puppet-scientific_python/archive/refs/heads/master.zip
+https://github.com/robbiegill/puppet-pd-hadoop/archive/refs/heads/master.zip
+https://github.com/AAROC/DevOps/archive/refs/heads/master.zip
+https://github.com/glickbot/riak-banana/archive/refs/heads/master.zip
+https://github.com/akijuvonen/akinmodule/archive/refs/heads/master.zip
+https://github.com/continuent/continuent-puppet-tungsten/archive/refs/heads/master.zip

@@ -1,0 +1,9 @@
+https://github.com/alphamarket/B.S-P.P/archive/refs/heads/master.zip
+https://github.com/guberti/CockcroftWalton/archive/refs/heads/master.zip
+https://github.com/tiantiangao7/kalm-qa/archive/refs/heads/master.zip
+https://github.com/salevizo/rtec/archive/refs/heads/master.zip
+https://github.com/DiracSpace/NutriAdvice-Expert-System/archive/refs/heads/main.zip
+https://github.com/proofcert/trace-checker/archive/refs/heads/master.zip
+https://github.com/xbreu/constraint-programming/archive/refs/heads/main.zip
+https://github.com/haldai/LogicalVision2/archive/refs/heads/master.zip
+https://github.com/gyenyame/infochimps-data/archive/refs/heads/master.zip

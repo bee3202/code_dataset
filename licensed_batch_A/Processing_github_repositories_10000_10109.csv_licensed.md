@@ -1,0 +1,9 @@
+https://github.com/macaulam/macaulam/archive/refs/heads/main.zip
+https://github.com/manzalena/2013-divvy-map/archive/refs/heads/master.zip
+https://github.com/holistudio/3x3punch/archive/refs/heads/master.zip
+https://github.com/Nagasaki45/eurorack-case/archive/refs/heads/master.zip
+https://github.com/wrobbo/Simple-Music-Visualiser/archive/refs/heads/master.zip
+https://github.com/BreadBox64/YetLessProgress_Game/archive/refs/heads/main.zip
+https://github.com/Computer-Programming-I-UIS/game-ball-ball/archive/refs/heads/master.zip
+https://github.com/philetus/bottery_piccolo/archive/refs/heads/master.zip
+https://github.com/NONO0N0N/ENGF0001Group40/archive/refs/heads/main.zip

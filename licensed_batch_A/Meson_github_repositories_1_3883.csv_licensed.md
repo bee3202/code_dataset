@@ -1,0 +1,15 @@
+https://github.com/ubuntu/communitheme-sounds/archive/refs/heads/master.zip
+https://github.com/LunarLambda/meson-gba/archive/refs/heads/main.zip
+https://github.com/GNOME/gnome-video-effects/archive/refs/heads/master.zip
+https://github.com/lackdaz/jetson-batt-gauge/archive/refs/heads/main.zip
+https://github.com/elementary/flatpak-platform/archive/refs/heads/main.zip
+https://github.com/tiernemi/meson-sample-project/archive/refs/heads/master.zip
+https://github.com/geanix/courgette/archive/refs/heads/master.zip
+https://github.com/edtanous/redfish_to_grpc/archive/refs/heads/main.zip
+https://github.com/madsrh/TouchRemix/archive/refs/heads/master.zip
+https://github.com/prjxylene/prjxylene-db-kintex/archive/refs/heads/main.zip
+https://github.com/caar-machine/caar/archive/refs/heads/master.zip
+https://github.com/mesonbuild/wrapdb/archive/refs/heads/master.zip
+https://github.com/elementary/sound-theme/archive/refs/heads/master.zip
+https://github.com/tau-OS/tau-hydrogen/archive/refs/heads/main.zip
+https://github.com/nana-4/mica-plasma-theme/archive/refs/heads/main.zip

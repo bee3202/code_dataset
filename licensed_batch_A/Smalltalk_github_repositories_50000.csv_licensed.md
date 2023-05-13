@@ -1,0 +1,9 @@
+https://github.com/LinqLover/create-image/archive/refs/heads/master.zip
+https://github.com/jjuiddong/UnityPractice/archive/refs/heads/master.zip
+https://github.com/artec-kk/artec_win_bpe/archive/refs/heads/master.zip
+https://github.com/desromech/woden-sysmel/archive/refs/heads/master.zip
+https://github.com/serpi90/Cuis-Smalltalk-Lite/archive/refs/heads/master.zip
+https://github.com/stasemsoft/softwarematerial/archive/refs/heads/master.zip
+https://github.com/GemTalk/Rowan/archive/refs/heads/masterV2.4.zip
+https://github.com/Cuis-Smalltalk/Cuis-Smalltalk-Historical/archive/refs/heads/master.zip
+https://github.com/makobot-sh/inge1/archive/refs/heads/main.zip

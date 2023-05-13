@@ -1,0 +1,16 @@
+https://github.com/impatrq/labhand/archive/refs/heads/main.zip
+https://github.com/thufv/Deagle/archive/refs/heads/main.zip
+https://github.com/mfem/PyMFEM/archive/refs/heads/master.zip
+https://github.com/yongjie989/OpenDrone/archive/refs/heads/master.zip
+https://github.com/AEngly/02612ConstrainedOptimization/archive/refs/heads/main.zip
+https://github.com/idaholab/blackbear/archive/refs/heads/devel.zip
+https://github.com/ltheiler4/M242/archive/refs/heads/master.zip
+https://github.com/gearsincorg/Hoverboards-for-assistive-devices/archive/refs/heads/master.zip
+https://github.com/ScouperLH/bflow2/archive/refs/heads/main.zip
+https://github.com/westonb/little-bee-B1/archive/refs/heads/main.zip
+https://github.com/kennyAguilar/PIC12F675/archive/refs/heads/main.zip
+https://github.com/SimpleITK/SimpleITK/archive/refs/heads/master.zip
+https://github.com/shuai-f/Computer_System/archive/refs/heads/master.zip
+https://github.com/PDFTron/PDFNetWrappers/archive/refs/heads/master.zip
+https://github.com/jorgehurt/Digital2/archive/refs/heads/main.zip
+https://github.com/MostafaOsman144/moving_horizon_estimation_localization/archive/refs/heads/master.zip

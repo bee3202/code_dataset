@@ -1,0 +1,13 @@
+https://github.com/thaivann/sfdx-dreamhouse/archive/refs/heads/master.zip
+https://github.com/mitchspano/apex-trigger-actions-framework/archive/refs/heads/main.zip
+https://github.com/NukalaSurendra/jenkinssfample/archive/refs/heads/master.zip
+https://github.com/puneethvb/Trigger-framework/archive/refs/heads/master.zip
+https://github.com/rajeshsfdc92/sfdx1/archive/refs/heads/master.zip
+https://github.com/jbhuns/amenify/archive/refs/heads/master.zip
+https://github.com/AnandEmbold/biscuit_5/archive/refs/heads/13squads.zip
+https://github.com/travismarceau/platformday/archive/refs/heads/master.zip
+https://github.com/SebbyACN/sfdx-dreamhouse/archive/refs/heads/master.zip
+https://github.com/AbhishekR15/sfdx-dreamhouse/archive/refs/heads/master.zip
+https://github.com/AnandEmbold/biscuit_4/archive/refs/heads/13squads.zip
+https://github.com/vamsithehulk123/Jenkins/archive/refs/heads/master.zip
+https://github.com/sl-geoffreychery/sfdx-dreamhouse/archive/refs/heads/master.zip

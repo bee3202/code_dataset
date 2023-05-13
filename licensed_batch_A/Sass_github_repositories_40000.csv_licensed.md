@@ -1,0 +1,10 @@
+https://github.com/lassembleuse/les-vigiliantes/archive/refs/heads/master.zip
+https://github.com/LucasBargas/projetos_html_e_sass/archive/refs/heads/main.zip
+https://github.com/uqbar-project/wiki/archive/refs/heads/master.zip
+https://github.com/SuperSonicSites/thenorthglen/archive/refs/heads/master.zip
+https://github.com/cesium/heartbits.pt/archive/refs/heads/develop.zip
+https://github.com/rstanleyhum/www-stanleyhum-com/archive/refs/heads/master.zip
+https://github.com/abdelghanyMh/Nexter/archive/refs/heads/main.zip
+https://github.com/chrp/immoradar/archive/refs/heads/main.zip
+https://github.com/coderdojo-konan/website/archive/refs/heads/master.zip
+https://github.com/cesium/2016.seium.org/archive/refs/heads/master.zip

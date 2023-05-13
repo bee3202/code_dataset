@@ -1,0 +1,10 @@
+https://github.com/thwill1000/mmbasic-challenge/archive/refs/heads/main.zip
+https://github.com/MangoApple1234/MacroToolsVBA-vbatools-ru-/archive/refs/heads/main.zip
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_BASIC/archive/refs/heads/master.zip
+https://github.com/nerun/bwbasic/archive/refs/heads/main.zip
+https://github.com/fortran-gaming/lunar-lander-1969/archive/refs/heads/main.zip
+https://github.com/pdropes/Display-Brother/archive/refs/heads/main.zip
+https://github.com/chaosotter/basic-games/archive/refs/heads/master.zip
+https://github.com/albertojcalle/BASIC-orbits/archive/refs/heads/main.zip
+https://github.com/wilsonpilon/zx81-vscode/archive/refs/heads/main.zip
+https://github.com/zarpli/CFSuControl/archive/refs/heads/main.zip

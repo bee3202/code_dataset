@@ -1,0 +1,10 @@
+https://github.com/GoogleBot42/nix-config/archive/refs/heads/master.zip
+https://github.com/xmzlyw/mob-nixpkgs/archive/refs/heads/master.zip
+https://github.com/DavHau/nix-bootstrap-binaries/archive/refs/heads/master.zip
+https://github.com/gvolpe/nix-config/archive/refs/heads/master.zip
+https://github.com/xiongchenyu6/nur-packages/archive/refs/heads/master.zip
+https://github.com/ajmasia/old-configs/archive/refs/heads/rolling.zip
+https://github.com/AnzenKodo/dotfiles/archive/refs/heads/master.zip
+https://github.com/aakropotkin/flocoPackages/archive/refs/heads/main.zip
+https://github.com/wiedzmin/nixos-config/archive/refs/heads/master.zip
+https://github.com/sherubthakur/dotfiles/archive/refs/heads/master.zip

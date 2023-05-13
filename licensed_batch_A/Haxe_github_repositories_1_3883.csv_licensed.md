@@ -1,0 +1,10 @@
+https://github.com/af83/webcam-streaming/archive/refs/heads/master.zip
+https://github.com/back2dos/tinkerbell/archive/refs/heads/master.zip
+https://github.com/aduros/easel/archive/refs/heads/master.zip
+https://github.com/rjsmith/hxzmq/archive/refs/heads/master.zip
+https://github.com/ianxm/tracker/archive/refs/heads/master.zip
+https://github.com/profelis/dd/archive/refs/heads/master.zip
+https://github.com/migimunz/LevelTools/archive/refs/heads/master.zip
+https://github.com/gwillen/timebadgers/archive/refs/heads/master.zip
+https://github.com/rjanicek/voronoi-map-haxe/archive/refs/heads/master.zip
+https://github.com/Rygal/Rygal/archive/refs/heads/stable.zip

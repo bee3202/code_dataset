@@ -1,0 +1,15 @@
+https://github.com/Open-Source-Hardware-Initiative/AES/archive/refs/heads/main.zip
+https://github.com/djoffe/UVM-Framework/archive/refs/heads/main.zip
+https://github.com/fpgacademy/Tutorials/archive/refs/heads/main.zip
+https://github.com/souryadey/mlp-ondevice-training/archive/refs/heads/master.zip
+https://github.com/mbits-mirafra/spi_avip/archive/refs/heads/main.zip
+https://github.com/KiranaGowda/https-github.com-lowRISC-opentitan/archive/refs/heads/master.zip
+https://github.com/ddvca/2022-bishkek/archive/refs/heads/main.zip
+https://github.com/AleksaHeler/PNRS2-Projekat/archive/refs/heads/main.zip
+https://github.com/Avani8/otcompression/archive/refs/heads/master.zip
+https://github.com/PacoReinaCampo/PU-FinTech/archive/refs/heads/master.zip
+https://github.com/shin-yamashita/6th-AI-Edge-Contest/archive/refs/heads/main.zip
+https://github.com/myriadrf/LimeADPD/archive/refs/heads/master.zip
+https://github.com/PacoReinaCampo/SoC-FinTech/archive/refs/heads/master.zip
+https://github.com/RaitoBezarius/sysnum2020/archive/refs/heads/main.zip
+https://github.com/ce-box/CE4302-vector-processor/archive/refs/heads/master.zip

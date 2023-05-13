@@ -1,0 +1,12 @@
+https://github.com/theDrake1010/compiler-construction-lab/archive/refs/heads/main.zip
+https://github.com/ronaldosvieira/nlp-codes/archive/refs/heads/master.zip
+https://github.com/Smart-Boy/HHA/archive/refs/heads/master.zip
+https://github.com/mjcs-95/PL/archive/refs/heads/master.zip
+https://github.com/lothelanor/catalancorpora/archive/refs/heads/master.zip
+https://github.com/mnowotnik/biolemmatizer-threadsafe/archive/refs/heads/master.zip
+https://github.com/baoyongzhang/BigBang/archive/refs/heads/master.zip
+https://github.com/anviup/Figure-of-Speech-Detection-in-Hindi/archive/refs/heads/master.zip
+https://github.com/kicad-spice-library/KiCad-Spice-Library/archive/refs/heads/master.zip
+https://github.com/grammatek/tts-frontend/archive/refs/heads/master.zip
+https://github.com/LyndonYang1024/blog/archive/refs/heads/master.zip
+https://github.com/jayceyxc/cpp_test/archive/refs/heads/master.zip

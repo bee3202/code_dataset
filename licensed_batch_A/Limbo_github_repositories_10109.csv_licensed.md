@@ -1,0 +1,16 @@
+https://github.com/majaxadobe/acme-sac/archive/refs/heads/master.zip
+https://github.com/szhilkin/acme-sac/archive/refs/heads/master.zip
+https://github.com/dolphincn/ansible/archive/refs/heads/master.zip
+https://github.com/MrSparc/acme-sac/archive/refs/heads/master.zip
+https://github.com/floren/acme-sac/archive/refs/heads/master.zip
+https://github.com/inferno-os/inferno-1e0/archive/refs/heads/main.zip
+https://github.com/ahmedius2/nao_teleop/archive/refs/heads/master.zip
+https://github.com/aftadizca/flappybirdai/archive/refs/heads/master.zip
+https://github.com/melted/acme-sac/archive/refs/heads/master.zip
+https://github.com/azynheira/acme-sac/archive/refs/heads/master.zip
+https://github.com/Vykook/acme-sac/archive/refs/heads/master.zip
+https://github.com/dsummerfield/acme-sac/archive/refs/heads/master.zip
+https://github.com/flyingfisch/acme-sac/archive/refs/heads/master.zip
+https://github.com/limkokholefork/acme-sac/archive/refs/heads/master.zip
+https://github.com/Plan9-Archive/inferno-1e/archive/refs/heads/master.zip
+https://github.com/CEMSFlannigan/LambContrast/archive/refs/heads/main.zip

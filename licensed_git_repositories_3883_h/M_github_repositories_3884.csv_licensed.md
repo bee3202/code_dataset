@@ -1,9 +1,0 @@
-https://github.com/pitsios-s/ImageRetrieval/archive/refs/heads/master.zip
-https://github.com/ansilove/AnsiLove.framework/archive/refs/heads/master.zip
-https://github.com/SUHONGJIAN/Matlab-Visual-Processing-Skin_color-detection/archive/refs/heads/master.zip
-https://github.com/Museum-of-Art-and-Digital-Entertainment/habitat/archive/refs/heads/master.zip
-https://github.com/WorldVistA/FHIR-on-VistA/archive/refs/heads/master.zip
-https://github.com/kulhos/pip_v01/archive/refs/heads/master.zip
-https://github.com/WorldVistA/VistA-DataLoader/archive/refs/heads/master.zip
-https://github.com/chotumotu11/LinearRegressionDigitClassifier/archive/refs/heads/master.zip
-https://github.com/wuschLOR/the-shapening3/archive/refs/heads/master.zip

@@ -1,9 +1,0 @@
-https://github.com/dlavigne-nwtime/translation-test/archive/refs/heads/main.zip
-https://github.com/Ingener74/Refrigerator-Control-Unit/archive/refs/heads/master.zip
-https://github.com/paulklemm/IVAPP-15/archive/refs/heads/master.zip
-https://github.com/ArmstrongCal/Armstrong-Calculus/archive/refs/heads/master.zip
-https://github.com/matfontaine/defense-PhD/archive/refs/heads/master.zip
-https://github.com/yugism/Paper-Pencil-SysBio/archive/refs/heads/master.zip
-https://github.com/shahramg/publications/archive/refs/heads/main.zip
-https://github.com/joeroe/SWAsiaNeolithicFounderCrops/archive/refs/heads/main.zip
-https://github.com/TideDancer/matrixMultiplications/archive/refs/heads/master.zip

@@ -1,9 +1,0 @@
-https://github.com/tpacks/transcraft/archive/refs/heads/master.zip
-https://github.com/Nomifactory/Nomifactory/archive/refs/heads/dev.zip
-https://github.com/ProjectHDS/Herodotus/archive/refs/heads/develop.zip
-https://github.com/TeloDev/Telomerase/archive/refs/heads/main.zip
-https://github.com/YassiCorp/YassiCorp-MC-Launcher-Instances/archive/refs/heads/main.zip
-https://github.com/GregTechCEu/Gregicality-Community-Pack/archive/refs/heads/master.zip
-https://github.com/Griefed/Survive-Create-Prosper-4/archive/refs/heads/1.16.5.zip
-https://github.com/MasterEnderman/Divine-Equilibrium/archive/refs/heads/master.zip
-https://github.com/NotMyWing/of-dep-test/archive/refs/heads/dev.zip

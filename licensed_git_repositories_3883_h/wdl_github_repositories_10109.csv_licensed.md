@@ -1,9 +1,0 @@
-https://github.com/LokaHQ/aws-gatk-sv/archive/refs/heads/master.zip
-https://github.com/ENCODE-DCC/mirna-seq-pipeline/archive/refs/heads/dev.zip
-https://github.com/firoball/A3Tools/archive/refs/heads/master.zip
-https://github.com/olopade-lab/alignment/archive/refs/heads/master.zip
-https://github.com/truwl/variantbenchmarking/archive/refs/heads/master.zip
-https://github.com/broadinstitute/adapt-pipes/archive/refs/heads/main.zip
-https://github.com/qbrc-cnap/paired-read-paired-sample-mutect2-and-vep/archive/refs/heads/master.zip
-https://github.com/goldfinchbio/aws-gatk-sv/archive/refs/heads/master.zip
-https://github.com/manning-lab/vcfToGds/archive/refs/heads/main.zip

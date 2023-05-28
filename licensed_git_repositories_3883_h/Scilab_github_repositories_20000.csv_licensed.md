@@ -1,9 +1,0 @@
-https://github.com/UiL-OTS-labs-PRESENTATION/PRESENTATION-Body-Scanning-Body-Imagery-2007-/archive/refs/heads/master.zip
-https://github.com/mitre/cpsa/archive/refs/heads/master.zip
-https://github.com/rare-freertr/RARE-web/archive/refs/heads/master.zip
-https://github.com/Siddharth11235/FOSSEE-Optimization-Toolbox-6.0.1/archive/refs/heads/master.zip
-https://github.com/ramsdell/cpsa/archive/refs/heads/master.zip
-https://github.com/Huite/AEM-Steward/archive/refs/heads/master.zip
-https://github.com/microdaq/Scilab/archive/refs/heads/master.zip
-https://github.com/arauhala/libreexp/archive/refs/heads/master.zip
-https://github.com/JPedroSilveira/numerical-calculus-with-scilab/archive/refs/heads/master.zip

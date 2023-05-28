@@ -1,9 +1,0 @@
-https://github.com/sassoftware/sasoptpy/archive/refs/heads/master.zip
-https://github.com/ohikendoit/data_engineering_capstone/archive/refs/heads/main.zip
-https://github.com/SKDE-Analyse/sas_codes/archive/refs/heads/main.zip
-https://github.com/sascommunities/sas-users-blog/archive/refs/heads/master.zip
-https://github.com/Economic/staterace_urate/archive/refs/heads/master.zip
-https://github.com/taskography/pddlgym/archive/refs/heads/main.zip
-https://github.com/marionomics/taller-diff-in-diff/archive/refs/heads/main.zip
-https://github.com/dark-teal-coder/sas-programming-1-essentials/archive/refs/heads/main.zip
-https://github.com/SergeAlhalbi/Multivariate-Transfer-Function/archive/refs/heads/main.zip

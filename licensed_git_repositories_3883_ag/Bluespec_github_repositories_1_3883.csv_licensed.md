@@ -1,9 +1,0 @@
-https://github.com/jeffreycassidy/BlueLink/archive/refs/heads/master.zip
-https://github.com/FelixWinterstein/LEAP-HLS/archive/refs/heads/master.zip
-https://github.com/csail-csg/riscy/archive/refs/heads/master.zip
-https://github.com/anmolsahoo25/shakti-e-class/archive/refs/heads/master.zip
-https://github.com/iitm-sysdl/SHAKTIMAAN/archive/refs/heads/master.zip
-https://github.com/oxidecomputer/cobalt/archive/refs/heads/main.zip
-https://github.com/crossroadsfpga/connect/archive/refs/heads/main.zip
-https://github.com/CTSRD-CHERI/BlueStuff/archive/refs/heads/master.zip
-https://github.com/CTSRD-CHERI/beri/archive/refs/heads/master.zip

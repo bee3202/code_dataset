@@ -1,9 +1,0 @@
-https://github.com/ehealth-ua/api-spec/archive/refs/heads/master.zip
-https://github.com/apiaryio/api-blueprint-cheatsheet/archive/refs/heads/master.zip
-https://github.com/avwx-rest/avwx-api/archive/refs/heads/main.zip
-https://github.com/MeteoGroup/weather-api/archive/refs/heads/master.zip
-https://github.com/ging/fiware-idm-deprecated/archive/refs/heads/master.zip
-https://github.com/acrolinx/platform-api/archive/refs/heads/main.zip
-https://github.com/ipfs-inactive/http-api-spec/archive/refs/heads/master.zip
-https://github.com/CyberMiles/explorer/archive/refs/heads/master.zip
-https://github.com/hootsuite/health-checks-api/archive/refs/heads/master.zip

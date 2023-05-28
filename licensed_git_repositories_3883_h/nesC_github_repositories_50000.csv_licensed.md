@@ -1,9 +1,0 @@
-https://github.com/rf-designers/gpsdo-hw/archive/refs/heads/master.zip
-https://github.com/carangil/cat644/archive/refs/heads/master.zip
-https://github.com/pacabot/zhonx5_mechanics/archive/refs/heads/master.zip
-https://github.com/samowitsch/custom-arduino-rtc-temperature-humidity/archive/refs/heads/main.zip
-https://github.com/Open-Lab-Starter-Kit/OLSK-Small-Laser/archive/refs/heads/main.zip
-https://github.com/luisDias89/grbl_esp32-LancaBolas/archive/refs/heads/main.zip
-https://github.com/loidolt/cnc-tooling-holder/archive/refs/heads/master.zip
-https://github.com/cotepat/cotepat/archive/refs/heads/main.zip
-https://github.com/nikolac/Grbl_Esp32/archive/refs/heads/grbl-shield.zip

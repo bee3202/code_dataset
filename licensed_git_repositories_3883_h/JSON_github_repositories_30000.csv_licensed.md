@@ -1,9 +1,0 @@
-https://github.com/cordobeces/upptime/archive/refs/heads/master.zip
-https://github.com/Kuerbis-HD/Kuerbis-Web-Status/archive/refs/heads/master.zip
-https://github.com/niubidale/upptime/archive/refs/heads/master.zip
-https://github.com/Whist-Team/status/archive/refs/heads/master.zip
-https://github.com/codescientist703/Test/archive/refs/heads/master.zip
-https://github.com/didoesdigital/steno-dictionaries/archive/refs/heads/master.zip
-https://github.com/serie-a-logistics-solutions/nx3_demo_status/archive/refs/heads/master.zip
-https://github.com/cu-tn/status/archive/refs/heads/master.zip
-https://github.com/hugolesta/statushome/archive/refs/heads/master.zip

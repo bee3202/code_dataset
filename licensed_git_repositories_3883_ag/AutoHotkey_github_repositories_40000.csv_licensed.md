@@ -1,9 +1,0 @@
-https://github.com/EposVox/Premiere-Macros/archive/refs/heads/master.zip
-https://github.com/anonik9900/MALE---Language-Launcher-/archive/refs/heads/main.zip
-https://github.com/xiazuomo/lazyTools/archive/refs/heads/master.zip
-https://github.com/codepoke-kk/qwertigraphy/archive/refs/heads/master.zip
-https://github.com/nightscape/neo-keyboard-layout/archive/refs/heads/master.zip
-https://github.com/csisgo/SinanFTP/archive/refs/heads/master.zip
-https://github.com/VoidFox/neo-layout/archive/refs/heads/master.zip
-https://github.com/ETBCOR/nasin-nanpa/archive/refs/heads/main.zip
-https://github.com/langheran/image-viewer/archive/refs/heads/master.zip

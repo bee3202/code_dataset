@@ -1,9 +1,0 @@
-https://github.com/StoccoDavide/LAST/archive/refs/heads/main.zip
-https://github.com/akosba/xjsnark/archive/refs/heads/master.zip
-https://github.com/nariaki3551/flopt/archive/refs/heads/main.zip
-https://github.com/Titas22/OPTI/archive/refs/heads/master.zip
-https://github.com/grtensor/grtensor3src/archive/refs/heads/master.zip
-https://github.com/boecker-lab/coin-or-clp-java-api/archive/refs/heads/master.zip
-https://github.com/coin-or/CyLP/archive/refs/heads/master.zip
-https://github.com/edeakins/MIPSymmetryCuts/archive/refs/heads/main.zip
-https://github.com/JetBrains/fbme/archive/refs/heads/master.zip

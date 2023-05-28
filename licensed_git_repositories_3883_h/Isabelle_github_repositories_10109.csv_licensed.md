@@ -1,9 +1,0 @@
-https://github.com/RemcodM/thesis-ecore-groove-formalisation/archive/refs/heads/master.zip
-https://github.com/dominique-unruh/bounded-operators/archive/refs/heads/master.zip
-https://github.com/sofsanfer/TFG/archive/refs/heads/master.zip
-https://github.com/au-ts/cogent/archive/refs/heads/master.zip
-https://github.com/xqyww123/phi-system/archive/refs/heads/master.zip
-https://github.com/matthieugras/monpoly/archive/refs/heads/master.zip
-https://github.com/cc23/MFODL-Typing/archive/refs/heads/verified_types.zip
-https://github.com/remolueoend/monpoly/archive/refs/heads/cmfodl.zip
-https://github.com/crizkallah/cogent/archive/refs/heads/2.0.8.1_isa2015.zip

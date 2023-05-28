@@ -1,9 +1,0 @@
-https://github.com/albertony/instructionsets/archive/refs/heads/master.zip
-https://github.com/jncraton/lgeo/archive/refs/heads/master.zip
-https://github.com/monome/dsp-kit/archive/refs/heads/main.zip
-https://github.com/aws-samples/lambda-ecs-worker-pattern/archive/refs/heads/master.zip
-https://github.com/frne/woodworking/archive/refs/heads/main.zip
-https://github.com/kamesenin/Rook/archive/refs/heads/master.zip
-https://github.com/tmiasko/fsb-vorbis-extractor/archive/refs/heads/master.zip
-https://github.com/t-o-k/POV-Ray-complex-functions/archive/refs/heads/main.zip
-https://github.com/ponty/eagexp/archive/refs/heads/master.zip

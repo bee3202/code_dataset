@@ -1,9 +1,0 @@
-https://github.com/Kazuki-tam/shopify-email-notification/archive/refs/heads/main.zip
-https://github.com/ZhihchengGao/zhihchenggao.github.io/archive/refs/heads/master.zip
-https://github.com/la-mapathon/website-2023/archive/refs/heads/main.zip
-https://github.com/shopinvader/shopinvader-template/archive/refs/heads/master.zip
-https://github.com/whjacobsen/williamholmjacobsen.com/archive/refs/heads/develop.zip
-https://github.com/FernandoCalmet/Tantra/archive/refs/heads/master.zip
-https://github.com/maliMirkec/personal-website/archive/refs/heads/master.zip
-https://github.com/goncalves-lab/goncalves-lab3.github.io/archive/refs/heads/master.zip
-https://github.com/lahoffman/lahoffman.github.io/archive/refs/heads/master.zip

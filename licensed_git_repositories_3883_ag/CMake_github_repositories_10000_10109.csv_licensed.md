@@ -1,9 +1,0 @@
-https://github.com/zzlcoding/vcpkg/archive/refs/heads/master.zip
-https://github.com/rt-net/crane_x7_description/archive/refs/heads/master.zip
-https://github.com/ctsuu/SDC-Project/archive/refs/heads/master.zip
-https://github.com/zhtsu/SFML_ProjectTemplate/archive/refs/heads/main.zip
-https://github.com/klepsydra-technologies/kpsr-vision-ocv-tutorial/archive/refs/heads/main.zip
-https://github.com/raafatabualazm/Hello-2020/archive/refs/heads/master.zip
-https://github.com/RapidAI/RapidOcrNcnnLibTest/archive/refs/heads/main.zip
-https://github.com/stereolabs/zed-ros2-interfaces/archive/refs/heads/main.zip
-https://github.com/NWChemEx-Project/.github/archive/refs/heads/master.zip

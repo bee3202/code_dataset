@@ -1,9 +1,0 @@
-https://github.com/bit-shashank/UFOAttack/archive/refs/heads/main.zip
-https://github.com/omniqube/oqrp/archive/refs/heads/main.zip
-https://github.com/iloudaros/Hot-Sauce/archive/refs/heads/main.zip
-https://github.com/Bari4122/demo012/archive/refs/heads/main.zip
-https://github.com/InitialPosition/LDJAM50/archive/refs/heads/main.zip
-https://github.com/oddlyfun/Incoming-Shapes/archive/refs/heads/main.zip
-https://github.com/InitialPosition/LDJAM47/archive/refs/heads/main.zip
-https://github.com/CMU-VideoGameDesignClub/untitledSpaceStrategy/archive/refs/heads/main.zip
-https://github.com/Randoragon/myriad-blitz/archive/refs/heads/master.zip

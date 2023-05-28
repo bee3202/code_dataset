@@ -1,9 +1,0 @@
-https://github.com/kitchWWW/EpochMusic/archive/refs/heads/master.zip
-https://github.com/naptaker/naptime/archive/refs/heads/develop.zip
-https://github.com/CatalinFrancu/music/archive/refs/heads/master.zip
-https://github.com/karlhaensel/choirmusic/archive/refs/heads/main.zip
-https://github.com/david-pace/mps-examples/archive/refs/heads/master.zip
-https://github.com/openlilylib/snippets/archive/refs/heads/master.zip
-https://github.com/kitchWWW/IntervalMusic/archive/refs/heads/master.zip
-https://github.com/napulen/effects_of_translation/archive/refs/heads/master.zip
-https://github.com/CPKCampbell/WEB/archive/refs/heads/master.zip

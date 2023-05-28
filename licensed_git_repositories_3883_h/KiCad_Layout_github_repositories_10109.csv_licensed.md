@@ -1,9 +1,0 @@
-https://github.com/pozsarzs/mm8d-hw/archive/refs/heads/master.zip
-https://github.com/neggles/esp-pmsa/archive/refs/heads/master.zip
-https://github.com/zxrepo/UzixLS.zx-sizif-512/archive/refs/heads/master.zip
-https://github.com/valerionew/omega-dock-new/archive/refs/heads/master.zip
-https://github.com/UzixLS/zxuno1010-board/archive/refs/heads/master.zip
-https://github.com/UzixLS/zx-sizif-128/archive/refs/heads/master.zip
-https://github.com/4x1md/nikon_gps/archive/refs/heads/master.zip
-https://github.com/pozsarzs/mini_serial_console-hw/archive/refs/heads/main.zip
-https://github.com/neggles/esp32-cantroller/archive/refs/heads/master.zip

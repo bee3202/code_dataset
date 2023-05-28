@@ -1,9 +1,0 @@
-https://github.com/changfuguo/react-native/archive/refs/heads/master.zip
-https://github.com/GC4WP/S03E05/archive/refs/heads/master.zip
-https://github.com/devsecops/raindance/archive/refs/heads/master.zip
-https://github.com/FYH-fly/AndroidInterview/archive/refs/heads/master.zip
-https://github.com/dapphub/k-dss/archive/refs/heads/master.zip
-https://github.com/corenel/QSC-Video-Tutorial/archive/refs/heads/master.zip
-https://github.com/dragondjf/QtAdvanced/archive/refs/heads/master.zip
-https://github.com/xubo245/MLlibLearning/archive/refs/heads/master.zip
-https://github.com/sbrant/wos2016/archive/refs/heads/master.zip
